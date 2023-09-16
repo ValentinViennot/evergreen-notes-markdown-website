@@ -1,0 +1,49 @@
+
+- [[No rules rules]]
+- Le Pouvoir Réthorique
+- Das Kapital
+- Capital et Idéologie
+- A Brief History of Time
+- Thinking in Systems
+- How the World Really Works
+- Principles (Ray Dalio)
+- Range (David Epstein)
+- Turn the Ship Around!
+- Le Cygne Noir
+- Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets
+- Skin in the Game
+- The Four Agreements (Les quatre accords toltèques)
+- The Art of Execution
+- How Will You Measure Your Life?
+- How to Win Friends & Influence People
+- Can't Hurt Me
+- Beyond Wealth
+- As a Man Thinketh
+- Chaos Monkeys
+- Empowered
+- Teleny
+- L'art de la guerre 2
+- Start with Why
+- Atomic Habits
+- Homo deus
+- Steve Jobs
+- Good to Great
+- The Black Swan, Second Edition: The Impact of the Highly Improbable: With a new section: "On Robustness and Fragility"
+- The Fifth Discipline
+- Zero to One
+- Thank You for Arguing, Third Edition
+- The Open Organization
+- The Laws of Human Nature
+- Thinking, Fast and Slow
+- The Subtle Art of Not Giving a F*ck
+- Le Capital au XXIe siècle
+- Radical Candor
+- L'insoutenable légèreté de l'être
+- The Almanack of Naval Ravikant: A Guide to Wealth and Happiness
+- What's Our Problem?: A Self-Help Book for Societies
+- Reinventing organizations. Vers des communautés de travail inspirées
+- The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win 5th Anniversary Edition
+- The Ministry for the Future
+- Trick Mirror: Reflections on Self-Delusion
+- Elon Musk
+- Indistractable: How to Control Your Attention and Choose Your Life

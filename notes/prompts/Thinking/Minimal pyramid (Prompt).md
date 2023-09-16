@@ -1,0 +1,21 @@
+
+- Subject: <topic discussed>
+- Audience: <who is going to reader and why are they reading this?>
+- Question: <what question would the reader have in mind?>
+- Subject: <what is our one-liner answer to this question?>
+- Introduction:
+	- Situation: <non-controversial statement in the reader’s mind>
+	- Complication: <complication of the situation, chronological inductive or deductive, that leads to the reader asking the question>
+- Answer: supporting (top 3) arguments and (for each their top 3) evidence
+	- Argument 1: <supporting argument #1>
+		- Evidence #1: <factual data supporting argument #1>
+		- Evidence #2: <factual data supporting argument #1>
+		- Evidence #3: <factual data supporting argument #1>
+	- Argument 2: <supporting argument #2>
+		- Evidence #1: <factual data supporting argument #2>
+		- Evidence #2: <factual data supporting argument #2>
+		- Evidence #3: <factual data supporting argument #2>
+	- Argument 3: <supporting argument #3>
+		- Evidence #1: <factual data supporting argument #3>
+		- Evidence #2: <factual data supporting argument #3>
+		- Evidence #3: <factual data supporting argument #3>

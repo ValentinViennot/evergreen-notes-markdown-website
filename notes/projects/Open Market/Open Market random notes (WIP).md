@@ -1,0 +1,373 @@
+_WIP: this is a brain dump_
+
+- **We are going to build [[The Biggest Tech Company on Earth]]**
+- 
+- Why would the Open market not work for Open source?
+	- Why does it have to be one of the rules of the new system?
+- Need to do 'real' $ projections for Open market
+- 
+- In order to get started open market (big push: EF)
+	- Active developers on the network
+	- Many projects seeking funding and participating
+	- Users paying for future work
+	- Investment attracting investment
+	- Steady stream of revenue (subsidise)
+	- Engaged end users
+- Ideas to help bootstrap Open market
+	- **[[The Biggest Tech Company on Earth]]**
+		- Strategy:
+			- Open Source + being cheap
+			- Capture $ from outside of the system
+				- OSS assurance (insurance model)
+		- Analogy [[Two-sided markets]]:
+			- Become the Netflix of OSS
+			- Become the Spotify of OSS
+		- Pay a UBI to great developers to have them actively contribute to projects (EF-incubator style)
+			- —what do we have to win?
+				- NOTE: **does it mean we have DeveloperCoin too?**
+			- goal: have an active platform and help transition from employment to open market
+			- help prioritise projects and things to contribute to, but promote freedom and free work. focus on performance.
+				- [[No rules rules]]
+		- Marketing
+			- [[Open Source will always be Free]]
+			- 
+- [[Is Freedom for Everyone?]]
+	- Relate to thoughts and questions on [[Democracy]]
+	- 
+- [[Why do we innovate like this?]]
+- [[Open source has no added value]]
+	- The 0$ open source company
+	- Open source is not profitable (?) —why?
+		- Value of company = revenues+assets
+	- Open source as a byproduct
+		- It's always coming from something else
+		- than systemic feeding loop
+- [[Open source should be the only way]]
+	- Open source has the biggest added value
+		- Contradictory? Not really , our system is broken
+		- Prioritise societal benefits over individual profits
+		- Education
+- Open source will always be free
+	- It has to, both as in freedom and free beer
+	- Otherwise it's just not open source
+		- What are the open values?
+- [[Capitalism is over]]
+	- has proven to be inefficient
+		- waste resources
+			- climate change
+			- biodiversity crisis
+		- the great resignation/depression
+			- mental health
+			- gen Z
+		- ...
+	- focus on short term profits
+		- no focus on value to society
+			- WE created enterprises to SERVE us
+	- maintained by feedback loops, hard to change
+		- Thinking in Systems
+- The changing way of working
+- There is no right reason for traditional employment
+	- (once removed from status quo's constraints)
+	- Self-employment is the way
+	- Wage earners / labour --> alienation
+	- Meaning
+	- Of course would work a lot better with UBI
+- Open platforms (free markets)
+	- Eg, YouTube vs Uber
+- "Capitalist realism"
+	- What is the true human nature?
+		- Competition
+			- Whilst this is true, observe mutual help all around in nature
+				- The Story of Us (<->)
+		- Self-interest
+		- Greed
+		- ...? (is any of this true?)
+		- --> bitcoin works because everyone wants to cheat
+	- Capitalism definition
+		- Money with goal of growth (Capital)
+		- Private property
+		- Wage Labour
+- We have to work within the rules of Capitalism
+	- In fact, our best shot at changing society is by winning by the systemic rules
+		- Some rules are meant to be bent, some can't be ignored
+- Does it have to be Capitalism vs Communism, why not something new
+	- Communism is not better. Socialism has great ideas but limitations to implementing it.
+		- We require to preserve great things about Capitalism such as innovation, speed, progress, liberal
+- Das Kapital
+	- Alienation (bc of Market)
+	- Capital accumulation
+		- As opposed to Capital redistribution
+			- Marx's ideology emphasises the redistribution of wealth and resources to address socioeconomic inequalities.
+	- Exploitation and alienation are features not bugs
+		- Marx's concern about alienation in markets relates to the disconnection between workers and the products they create. The profit-driven nature of capitalism can lead to workers feeling detached from their labor, resulting in a loss of purpose and fulfilment.
+	- VALUE comes from HUMAN LABOUR (= basis of all economic value)
+		- => Source of profit from exploitation of productive labor
+			- Capitalist Markets prioritises financial gain (profit) instead of attributing value to human labour
+- Clément Viktorovicth: Retirement -> still work 
+	- What is work? (is it wage labour? -> NO.)
+- These are all human constructs. We can do better. We must do better.
+	- In particular in the light of global challenges.
+- Infinite growth -> infinite use of resources -> not sustainable
+- Infinite economic growth <-> always more investment
+- Creators economy
+- Workers democracy
+- Democracy
+	- Democracy is a way to live together whilst all having different goals and meaning
+		- We find ways to co-exist and optimise for progress (utilitarian)
+		- This is a slow process
+			- "Alone we go faster, together we go further."
+	- This is opposed to Dictatorship
+		- Where anyone can only have either two goals:
+			- 1. The same goal as the Dictator
+			- 2. Replacing/ejecting the Dictator
+	- Liberal markets serves a similar mission but with '$' as a voting method
+		- this isn't egalitarian
+			- especially when considering the importance of inheritance
+- Definitions
+	- Money
+	- Currency
+	- Labor
+	- Capital
+- C'est le combat pour l'égalité et l'éducation qui amène le progrès (Piketty)
+	- Pas la croissance économique, pas le capital
+- Piketty propose
+	- Socialisme participatif :  
+	- égalité  
+	- propriété sociale  
+	- éducation  
+	- partage des savoirs  
+	- partage des pouvoirs
+- A platform between open source publishers and consumers
+	- Corporate needs
+	- Investment?
+	- Goal: Sustain+Grow
+- Software has abundance
+	- Production means are mostly the human labour AND IP
+	- Once developed, cost of +1 is zero
+		- Re, How to be a Founder: why a software company?
+- Open = No property (or rather, social property)
+- Profit should be a by-product (side effect)
+	- Current society/market sets profit as the optimisation metric
+		- Profit does not (should not) equal value
+			- What is value?
+	- Open source means more profit for the People, and eventually Capital does come from the People. It's only about re-channeling it.
+- Re: Capital comes from the People ("ménages")
+- If successful, valuable open-source projects can have a theoretical $0 market valuation, it means that the market is not doing its job. It then becomes our job to fix the market.
+- Decentralisation, open platforms
+	- Open collaboration
+	- Aligned with Open source values
+	- Inclusive
+- Crypto markets, DAOs
+- Crowdfunding
+	- Investment. Pay for something in the future.
+	- We saw it work with things like OnlyFans. You don't just pay to access the content once. You pay to access a stream of always new and growing content. Future content is what makes the price.
+- Why do open source projects don't make revenue? Do the end user care?
+- The way we innovate is wrong
+	- Lean Startup
+	- Problem of "The Great Designer"
+		- Once financially successful, an individual or company gets to implement their technical vision and have great innovation power that is disconnected from the value to society. They waste a lot of resources.
+		- These are like big start-up incubators, they bet on the next billion-dollars company with the money they earn from milked cows.
+		- Software companies in particular mostly have R&D costs as once a software is built it doesn't have a cost for each new unit. That's what makes non-open-source software companies so different than other non-software companies and so much more valuable than open-source companies.
+- How might we fund open-source projects, maintaining their essential nature of being free?
+	- I believe if we find a solution to this question/issue, we solve a much bigger society problem with the way we work, innovate, and opening resources and knowledge without compromising on innovation and progress
+- Network effect
+	- We need to infuse traction, then the rest will follow.
+		- Open market requires changing the way society currently functions. But if we manage to shift it , get work and innovation to happen differently , we will have investors follow us. One of them will, once they realise this is anyway going to be the future they will want to be a part of it and rather be the first ones to make it happen than being left out (even if it's less profit than they had, it's still profit and better than no profit anymore if society changes)
+	- Law: network usefulness is proportional to the cube of the number of participants
+- Ponzi schemes
+	- A theoretical second-hand closed market is a zero-sum game. Losses of one are wins for another. The initial (IPO) market is when real-world capital is being injected into companies and transform into useful resources. The second-hand market isn't closed tho. New investors are coming all the time with outside capital, increasing the size of the market bubble(s). This is the reasoning behind the comparison of markets —and cryptos— with Ponzi schemes btw. Sometimes bubbles explode, companies crash and erase their debts, and investors lose their money. That's an accepted yet highly regulated risk.
+	- Investment has became more about assets growth than dividends
+	- Ponzi schemes aren't a scam as such. M Ponzi used this scheme as part of a scam because: he lied, he tried to steal the money.
+		- But the core idea behind a Ponzi scheme: that investors profits is dependant on always having more investors joining, isn't a problem as such.
+		- In fact, it's an interesting approach that can relate with
+			- Art market
+			- Speculative second-hand stock market
+			- Perpetual growth requirement
+		- It sort of answers the question "how much is the next investor willing to add to the pot?"
+			- Could be phrased as, "A share price in a Ponzi economic system estimates future investment in the system."
+			- As a thought experiment, if you knew for sure that in 5 years future investors were going to add 100M$ to the pot and you could pull out your shares with a profit then, the share price would immediately increase and stabilise around 100M$.
+		- Related question: what does set the price of housing? how does this system work?
+- Open source must be free, as in freedom and as in free beer
+- Profit is the result of the added value: selling price - cost of building
+- Non-free software has the biggest market added value
+- Free software has the lowest market added value, but biggest society added value
+- Markets are driven by profit: investors want to invest $ in order to get more $ back
+- Speculation isn't good because it's unpredictable, so random chances of profit
+	- Speculation with systemic rules is de-risking investment (eg stocks)
+- Second-hand market is a zero-sum game , except (+) new incoming investments (-) bankruptcies
+- Stocks are forever bonds (they will never get refunded, however it's important to think of them —conceptually— as lending money)
+- IPOs are the real-world capital injection (= investment) , yet is enabled by second-hand market
+- Open Market goals
+	- Derive value directly from human labor
+	- Prevent capital accumulation, promote capital redistribution and equality
+	- Align value and societal progress
+	- Enable workers to find meaning in their work and directly contribute it as an investment
+- Economy primarily functions as an exchange system where work leads to income which is then spent on products and services.
+- Market dynamics adapt based on consumer demands, leading to mass production and reduced prices for popular products.
+- Debt plays a significant role in enabling early access to goods and services. However, it can lead to long-term financial obligations.
+- This system, while functional, has drawbacks like environmental damage, a focus on non-essential products, and personal alienation. The outcome, as mentioned, could be depression and a lack of purpose among the populace.
+- Genuine societal advancement requires redefining values beyond pure economic benefits.
+	- While the market efficiently prices goods based on demand and potential profit, it struggles to capture intangible societal values.
+- We need people to spend their money on what is good. Investment in future.
+	- Why would individuals invest or spend money on something that's available for free?
+	- People invest in crowdfunding projects anticipating future benefits or value they wouldn't have otherwise.
+- Need for paradigm shifts
+- Unlike physical goods, software is abundant once developed. Its production cost is centered around its creation rather than reproduction.
+- Most modern innovations are software-centric.
+- Critique of modern capitalism: The purpose and function of corporations need reevaluation to align with broader societal needs.
+	- Present-day capitalist-driven innovation is isolated from actual users.
+	- There's an overemphasis on competition rather than collective benefit.
+	- Corporations, initially designed to serve human interests, now sometimes appear to dictate human behaviour.
+- About Open source thriving: Addressing the current shortcomings of open source through proper value creation and profit distribution mechanisms could lead to its broader acceptance and enhancement.
+	- Open-source software, developed in conjunction with its users, typically exhibits high-quality features.
+	- Open source does face challenges like poor user experience and lack of organized product management.
+	- Despite these issues, it often outperforms traditional corporations.
+- Open source recognises multiple forms of contributions: time/work, money, and influence. These diverse contributions lead to innovation in functionalities and solutions.
+- Traditional markets, built on established rules and profit motives, clash with the inherently collaborative and value-driven nature of open source projects. --> need for an alternative valuation paradigm
+- How can modern economic models be adapted or reimagined to accurately reflect the societal and collaborative value of open source projects?
+- How can open source serve as a modern embodiment of Marx's vision, promoting individual agency, collective progress, and a more direct connection between labor and its outcomes?
+- How can the unique value proposition of open source be communicated to potential investors conditioned by traditional market dynamics?
+- There is no inherent requirement for the first-hand and second-hand stock markets to be separated.
+	- Currently they are, because:
+		- Capital injection and investment: existing stocks are traded among investors without directly affecting the company's capital.
+		- Risk mitigation: Separating the two markets helps mitigate risks associated with speculation and rapid price fluctuations. First-hand markets provide an opportunity for companies to attract long-term investors who are interested in the company's potential for growth and success.
+		- Liquidity and price discovery: The secondary market provides liquidity, allowing investors to easily buy or sell stocks. It also serves as a platform for price discovery, as market participants assess and determine stock values based on supply and demand dynamics.
+		- Regulation and transparency: Different regulations often apply to first-hand and second-hand markets. The regulatory framework for IPOs is designed to ensure transparency, protect investors, and provide accurate information about the issuing company. Second-hand markets are subject to ongoing regulations that govern trading activities.
+	- It might be interesting to merge them, or at least to equal labour with capital.
+		- Investment can be: money, work, influence.
+		- It sometimes already exists:
+			- Direct listings (as opposed to IPO: no new capital)
+			- Dual-class structures
+			- Employee stock options
+- Planning is the alternative concept to markets
+	- Instead of producing first and then confronting offer and demand
+		- Planning proposed to agree first on what to produce
+	- Could we have a market for planning?
+		- Is this not what "Future" are already?
+- The way current profit-led capitalist companies innovate doesn't take well into consideration the needs of users/society.
+	- The Mom Test
+	- Lean Startup
+- Software is built to go to trash
+- A company's future revenue defines its stock value
+	- Estimated sum of future revenue / number of stocks
+	- Consider the following thought experiment
+		- If we knew for certain that a company was going to be bankrupt and crash in 5 years , its stock value would immediately crash
+		- But now consider this company still makes profits and has got revenue
+		- What if, we also knew for certain they were going to make 100M$ in annual profit for the next 5 years before crashing? And we can safely assume that all profit will go to shareholders.
+		- Then year-5 the sum of traded stocks would stabilise around 500M$.
+			- Year-4, 400M$
+			- Year-3, 300M$
+			- Year-2, 200M$
+			- Year-1, 100M$
+			- Year-0, 0M$
+	- Of course this is a thought experiment and in real conditions we can't safely assume any of the previous assumptions. But historically, the market does a pretty good —averaged— job of finding the right price.
+	- Instable equilibrium.
+- Scarcity+Desire increases perceived value
+- Value is seen as the price someone is ready to pay for something.
+- (Question mark on how to deal with forks?)
+	- (And project dependencies)
+- Don't try to micro manage, create systemic rules and let humans adapt
+- Perpetual growth, Inflation --> not a problem if everyone was an investor
+	- Fixed wage is a cause for growing inequalities
+- In order to be a great Capitalist player, the Open market system as seen in isolation from the outside (as a black box) should have: growing substantial revenue.
+- Licensing might answer part of the question
+	- Licence open market projects to force downstream projects to also be valued  on the Open market
+- Idea: user subscription to use software that allows users to invest in their products
+- Idea: platform between enterprise OSS users and OSS publishers (adding a layer of vendor provenance and trust: security, maintenance, procurement, compliance...)
+- Question mark: What is going to regulate the Open market? The role of SEC and Fed and equivalent entities is essential to the Capitalist market good function
+- Question mark: how to estimate a coin price? liquidity?
+- Why did crypto had/have any value on markets?
+- First step is to agree that an open source world with free-will mission-driven labour would be a much better outcome. Then let's find a solution to implement it, while playing by the rules of Capitalism (at least, as viewed from the outside of the new system we would be creating).
+- Open market should encourage and price-estimate the investment into a project: whether it's as work, influence, or money. Speculative market should provide liquidity.
+	- The more active a project is, the more it increases in value.
+- Production means should be societal property
+	- Status quo considers human labour as a production mean
+		- Owned by the shareholders...
+- Europe struggles to grow and subsidise tech market
+- At the same time, European culture is much more favorable for open source projects
+	- Open market could seek grants and funding from Europe
+	- As a way to grow European tech projects to make us independent from big US tech companies
+- User feedback is only valuable is they are willing to pay / put a price on it.
+	- Open market provides a way to directly engage with users
+		- Ask them to invest in your project, time/money/influence
+			- As a way to show their interest and prove it serves them value
+- Open source should be the default for more than software
+	- Open blueprints
+	- Open franchises
+	- Open source
+- And then groups of citizens would join forces to collectively own and exploit production means + open sources to produce what they need
+- Value would come from brand / differentiation / future investment
+	- It would be a way to collectively plan for our future
+		- Taking into considerations various goals
+		- And giving meaning to work
+- Companies —as we know them— might be a thing of the past
+	- It's people + projects
+		- Everyone is a prosumer
+		- Individuals can want to contribute to multiple things in parallel
+		- And change what they contribute to without having to change contracts
+			- Wage labour is a prison
+- Society future is collaborative
+- We must monetise the Internet, but it requires to rethink our society
+- Workgroups are efficient and productive
+- "What is our goal"
+- Can think of the Open market as three layers:
+	- Coins + Open protocol (the new market + "stocks"/project-coins)
+	- Protocol implementation (exchange place, similar to EURONEXT, NASDAQ)
+		- Need for legal entity
+		- Support to projects against the external world (eg Licence enforcement)
+	- Apps running on the protocol (for end users to happily adopt it)
+		- Investment wallet
+		- Incubator to actively invest in open source projects
+			- lead, don't dictate
+		- Feature crowdfunding social community (app)
+			- Could be integrated in user-facing OSS products (eg Signal)
+				- Better than donations!
+		- Open source assurance for enterprises + bug bounties
+			- two sided market
+			- security research
+			- abandonware
+			- pay to add new software to be supported
+			- multiple levels of support / insurance economic model
+- Open source si the equivalent to Evolution, where Capitalism is the equivalent to a God creating the Earth
+	- Evolution is much superior and creates much better, stable, sustainable progress
+- Good ideas should find a place to get funded and developed  
+- Open market revenue?
+	- The Open market itself would be a non-profit, no revenue initiative: it's an open protocol that powers other applications
+	- Our start-up would be the first player(s) on the Open market
+		- Build an ecosystem of high traded projects
+		- Run exchange nodes (with fees for converting coins/liquidity)
+	- We would eventually aim to fund the platform by using the platform itself
+- Investment always comes from the people  
+- Don't enforce models  
+- Open >> anything else  
+- protocol , not platform  
+- win the game by being the best
+- Universal Base Income
+- Democratic schools
+- "Prove that Open source can beat Google"
+- Connected, modular, open world
+- Replace waged labour by open communities of workers
+- I envision a world based on many self-governed, autonomous communities, regrouped as various levels to share resources and agree on planned goals
+	- And with the highest level of sharing being "Information", including: knowledge, culture, opinions... Information travels with light.
+	- I even envisioned an extra-terrestrial world in 3 phases:
+		- 1. Civilisation: build self-sustained, self-governed, autonomous happy communities on Earth (prepare for "l'Effondrement"), and with the goal to share the practice of doing so as Knowledge. Start with Africa.
+		- 2. Humanity: goal to perpetuate the human race. Earth is going to end some day, sooner or later. We must plan to perpetuate humanity (because: what if there's nothing else?) beyond Earth. Write a story of Humanity, featuring Mother Earth, and build autonomous communities in space. 
+		- 3. Evolution: expand. keep these communities interconnected. this will require a truly distributed, decentralised internet that doesn't expect communications to always be fast. in the past, it used to take days to send information from one city to another. we can imagine, as we expand, that it will again take days —or more— to send information from one galaxy to another. we must build information networks with these constraints as requirements and with no "central" information. what if one of these communities find a cure to cancer?
+- Goals
+	- Enable people to live from what they want to do, enabling them to contribute however they want it to their world.  
+	- Faster innovation  
+	- Distributed, social innovation  
+- Shareholders are the middlemen of value creation
+- TODO: learn more about ICOs
+- TODO: understand DeSo's coin price formula
+- How to deal with the decentralised identity requirement?
+- PoS PoW : Proof of stake, Proof of work
+- To be the platform and foundation for successful open source ideas, from creators and innovators around the world; to enable open source developers, designers, inventors to live from their work and theirs open contributions.  
+- Creator economy , Gig economy , Decentralised
+- Open would need, to get started
+	-  Developers working on the network  
+	- Projects seeking funding and participating  
+	- Investment  
+	- Steady stream of revenue  
+	- Eventually(?) Engaged end users
+
