@@ -10,7 +10,7 @@ In the spirit of [[What is the best thing you could be working on and why aren't
 And I am not (beyond these notes) because it requires scale and resources I can't access right now.
 
 [[EF]] can help me:
-- Meet the right co-founder
+- Meet [[The right co-founder]]
 - Get started on a concrete [[Start-up]] project
 - Seek [[VC funding]]
 
@@ -38,4 +38,4 @@ The following is a brain dump of a possible strategy I have in mind at this poin
 2. Open market (subsidising methodology)
 3. (Bonus) European market advantage (OSS+Tech)
 
-_(This candid note is an attempt to [[Building in public]]. Please do reach out if you're interested in working together or discussing these ideas and concepts: [[About these notes]].)
+_(This candid note is an attempt to [[Building in public]]. Please do reach out if you're interested in working together or discussing these ideas and concepts: [[About_these_notes]].)

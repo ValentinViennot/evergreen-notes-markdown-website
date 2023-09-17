@@ -1,5 +1,8 @@
 _WIP: this is a brain dump_
 
+- [Status quo way of working & innovation/investment](https://drive.google.com/file/d/1RTec72Niv_KrLNu12v-U8Q_a22dbKKJd/view?usp=sharing)
+- [[The Open Market Elevator Pitch]]
+- 
 - **We are going to build [[The Biggest Tech Company on Earth]]**
 - 
 - Why would the Open market not work for Open source?

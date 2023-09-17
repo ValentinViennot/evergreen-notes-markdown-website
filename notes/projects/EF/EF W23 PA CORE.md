@@ -1,9 +1,17 @@
 A bit like daily notes, this running note aims to gather my thoughts and journaling and thinking about the [[EF]] programme I just joined.
 
-[[EF short list]]
+- [Reading List](https://entrepreneurfirst.notion.site/Reading-List-e9bc6716ca14473fb280bd8433b7dea2)
+- [[EF shortlist]]
 
 ## Week 1 ([[2023-week-38]])
 
+- Started the week meeting with [[Andi]] (Sunday)
+	- We hadn't seen each other in person for 3 years
+	- Inspiring and motivating to get started with [[What I want to build at EF]]
+	- Discussed in depth [[The Open Market manifesto]]
+		- and [[Open Market random notes (WIP)]]
+	- And many other philosophical topics!
+- I might have the answer to [[Why CEO?]]
 - 
 
 ## Week 0 ([[2023-week-37]])
