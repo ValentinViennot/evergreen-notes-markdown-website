@@ -1,19 +1,19 @@
 Just as [[My mission]] is about the destination,
 this note —My values— is about How to get there.
 
-## Unrelenting Self-Elevation
+## Unrelenting self-elevation — Selfishness
 
 Challenge yourself constantly to become better—intellectually, physically, and financially. Aim for deeper understanding and higher well-being.
 
-## Intellectual Bravery
+## Intellectual bravery
 
 Always question the status quo. Look for better ways to do things, driven by your innate curiosity and desire for complex problem-solving. (As opposed to Intellectual Laziness?).
 
-## Collectivism
+## Collectivism — Selflessness
 
 Work not just for your welfare but for the good of the community. Influence positively and create beneficial change. Systemic changes that better society as a whole.
 
-## Unapologetic Authenticity
+## Unapologetic authenticity
 
 Be unapologetically yourself, loyal to the curious child you once were. Never accept the world as it is just because others tell you so. Live your life as you dream it.
 
@@ -21,19 +21,19 @@ Be unapologetically yourself, loyal to the curious child you once were. Never ac
 
 Operate on the principle that there's no valid reason to be unkind. Acknowledge that you never have the complete picture of someone else's life or thoughts, just as they don't have yours. Extend kindness as an investment in a virtuous cycle, where good deeds have a way of coming back around.
 
-## Inspirational Idealism
+## Inspirational idealism — Links over dots
 
 Enthusiastically advocate for what you believe, meaningful change with an understanding of the larger picture. Power is a tool, not a goal. Your idealism should inspire others to seek out the bigger picture and participate in achieving it.
 
-## Empathetic Independence
+## Empathetic independence
 
 Make independent, pragmatic choices that are grounded in empathy and emotional intelligence. Always be mindful of how your decisions align with broader goals.
 
-## Open Engagement
+## Open engagement
 
 Promote open dialogue and honest conduct. Trust but verify, and have the courage to express yourself unreservedly. [[Building in public]].
 
-## Radical Candour
+## Radical candour
 
 Believe in unfiltered, complete sharing of information. With yourself and with others. Avoid holding back details for the betterment of collective growth.
 
@@ -53,7 +53,7 @@ Aim for a harmonious balance in your health, emotional well-being, and intellect
 
 Take full responsibility for your actions, both the good and the bad. Accept failure.
 
-## Empowered Meritocracy
+## Empowered meritocracy
 
 Identify and nurture the inherent intellectual and creative potential in each individual. Reward and leverage these capabilities for the accomplishment of complex objectives.
 

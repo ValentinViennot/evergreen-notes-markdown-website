@@ -16,6 +16,7 @@ Some of them, I do [recommend reading](https://valentin.viennot.me/#books-ive-re
 - "Scrum en action"
 - [[How to argue with a cat (Jay Heinrichs)]]
 - [[Pitch anything (Oren Klaff)]]
+- 
 
 [[TODO]]: Add outline notes + subsequent [[Evergreen notes]] for each of these
 
@@ -23,17 +24,21 @@ Some of them, I do [recommend reading](https://valentin.viennot.me/#books-ive-re
 
 - [[The Story of Us (Tim Urban)]]
 - [[How to do Great work (Paul Graham)]]
+- [Your idea is brillant, your idea is worthless.](https://stonemaiergames.com/kickstarter-lesson-204-your-idea-is-brilliant-your-idea-is-worthless/)
+- 
+
 ## Other reads
 
 - [[Andy Matuschak's notes]]
 - [[Paul Graham's essays]]
-
+- 
 
 ## On my shelf
 
 These books currently have a bookmark inside them and are waiting to be finished...
 
 - [[The Lean Startup]]
+- [[Pyramid Principle Writing]]
 - [[The Back of the Napkin]]
 - [[The design of everyday things]]
 - [[The hard thing about hard things]]

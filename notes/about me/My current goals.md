@@ -1,7 +1,7 @@
 I adopted the framework of [[OKRs]] for my personal goals.
 
 This isn't about tracking metrics or having a formal process.
-This is about looking further ahead and [[Keep calm]].
+This is about looking further ahead and [[Keep your head up and look forward]].
 
 I observed that with clear objectives in mind, no matter if I formally achieved them according to "metrics", I will tend to take actions and steps in the right direction.
 In fact, the exercise of regularly setting and reviewing goals is about identifying and clearly stating what I believe to be the right direction.
