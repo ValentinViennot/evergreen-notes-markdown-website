@@ -246,7 +246,9 @@ Why is that?
 			- ie, The New Economy
 				- [[The Open Market Economy]]
 	- Validate biggest hypothesis that will generate profit
+
 		- Two-sided market: need to care about both sides
+
 			- ""**Contributors will want to contribute to Open Market**""
 				- (Can be tested based on Interviews and Prototypes)
 					- **(+ Ask them to be available for freelancing, initially)**
@@ -255,12 +257,13 @@ Why is that?
 					- LEAKING
 						- Can be for eg leaking "future" coin (ie coin option)
 							- Parameters defined by Leadership of projects
+				- Developer Coins?
+
 			- ""**Customers will fund future OSS features**""
 				- THIS IS WHERE I WOULD START
 				- Willing to pay US to do work in an OSS project
 					- That everyone else will benefit from
 						- **Need to partner with the OSS first**
-				- 
 
 				- Request for proposals (PROOF OF STAKE)
 					- Blocked money on Pain points until Problem solved
@@ -268,10 +271,11 @@ Why is that?
 					- Contributors get back created coin (PROOF OF WORK)
 						- They can destroy or keep it
 				- COIN IS EITHER CREATED OR DESTROYED , not traded.
-		- 
-	- Open Organisation
+
+	- Open Organisations
 		- Recognition (share of what you are building)
 		- Incubator
+			- Developer Coins? —EF-style
 		- Investment fund
 
 		- The creators side is less high-priority ([[Move with urgency]])

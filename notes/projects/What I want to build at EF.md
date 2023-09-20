@@ -32,7 +32,7 @@ I am aware that this is a hard and difficult ambition. It requires to:
 2. **Let go** of society norms and the status quo
 3. **Rethink** everything from the ground up
 
-In fact, (3) is probably the most important attribute here.
+In fact, (1) is probably the most important attribute here.
 Without this, this would be just another failed idealistic attempt.
 If what we build is an excellent player in the current system, then our chances of success and transforming the system are non zero. And because they are, **I must try**.
 
@@ -44,4 +44,4 @@ The following is a brain dump of a possible strategy I have in mind at this poin
 2. Open market (subsidising methodology)
 3. (Bonus) European market advantage (OSS+disrupt tech market)
 
-_(This candid note is an attempt to [[Building in public]]. Please do reach out if you're interested in working together or discussing these ideas and concepts: [[About_these_notes]].)
+_(This candid note is an attempt to [[Building in public]]. Please do reach out if you're interested in working together or discussing these ideas and concepts: [[About_these_notes]].)_

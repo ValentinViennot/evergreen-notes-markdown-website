@@ -47,5 +47,6 @@ These books currently have a bookmark inside them and are waiting to be finished
 - [[De l'Esprit des Lois]]
 - [[La prochaine fois que tu mordras la poussière]]
 - [[Man's Search for Meaning]]
+- [[The Open Organization]]
 
 [[To-read List]]
