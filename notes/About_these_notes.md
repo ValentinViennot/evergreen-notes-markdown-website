@@ -7,9 +7,8 @@ These notes are [written for myself](https://notes.andymatuschak.org/zXDPrYcxUSZ
 Good starting points to dive into my notes could be:
 - [[What am I doing right now?]]
 - [[Books and good reads]]
-- [[The Open Market]] // [[TODO]]
-- [[Learnings]] // [[TODO]]
-- [[How to]] // [[TODO]]
+- [[The Open Market]]
+- [[Learnings]]
 
 [[Speak up]]. If you made it here and will be reading some of my notes, please do reach out with your thoughts: even (especially) if you think otherwise. The only requirement is to [[Be kind]]. You can reach out using my [email](mailto:valentin@viennot.me), [Twitter/X](https://twitter.com/valentinviennot/), [LinkedIN](https://www.linkedin.com/in/valentin-viennot/).
 
