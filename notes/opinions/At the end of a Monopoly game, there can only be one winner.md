@@ -1,0 +1,2 @@
+
+"The last player left in the game after all others become bankrupt wins the game." ([rules](https://monopoly.fandom.com/wiki/Monopoly_Rules#:~:text=The%20last%20player%20left%20in,become%20bankrupt%20wins%20the%20game.))

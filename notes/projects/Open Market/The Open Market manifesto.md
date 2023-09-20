@@ -91,7 +91,7 @@ Remarks:
 This note is not an [[Evergreen notes]].
 
 Here are some references to concepts and ideas explored in the above text ([[TODO]]):
-- [[Open source has no added value]]
+- [[Open Source is not profitable]]
 - [[Open source should be the only way]]
-- [[Why do we innovate like this?]]
+- [[The way we innovate is totally inefficient]]
 - [[Great work]] ([[How to do Great work (Paul Graham)]])

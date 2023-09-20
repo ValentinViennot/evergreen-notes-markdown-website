@@ -1,4 +1,8 @@
 
+
+Delivery: Product->Measure->Validate+Learn
+Conception: Learn?->Measure?->Product?
+
 - [[Start-up]]
 
 

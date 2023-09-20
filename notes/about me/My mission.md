@@ -16,6 +16,8 @@ For this virtuous cycle to spin, it has to start somewhere. By focusing on my ha
 
 Read more: [[My values]], [[Happiness]]
 
+[[Looking 5 years ahead]] [[Looking 10 years ahead]]
+
 --
 
 "Education is the most powerful weapon which you can use to change the world." - Nelson Mandela

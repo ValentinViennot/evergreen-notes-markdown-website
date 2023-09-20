@@ -1,3 +1,5 @@
+_Regularly-updated Note. Last update: September 12th, 2023_
+
 I adopted the framework of [[OKRs]] for my personal goals.
 
 This isn't about tracking metrics or having a formal process.
@@ -13,7 +15,7 @@ This retrospective part is probably the most overlooked part of setting goals.
 ([[Retrospectives]], [[Experiment, Evaluate, Adjust, Repeat]])
 ## My goals for the next six months
 
-Updated: September 12th, 2023
+[[Looking 5 years ahead]] [[Looking 10 years ahead]]
 
 Guidance: [[Experiment, Evaluate, Adjust, Repeat]]
 ### Objective 1: Personal Growth

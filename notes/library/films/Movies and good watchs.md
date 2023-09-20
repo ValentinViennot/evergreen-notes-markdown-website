@@ -26,7 +26,7 @@ Similar to [[Books and good reads]], but for Movies, Series, and other good watc
 
 ## YouTube
 
-- [Heureka](https://www.youtube.com/@Heu7reka)
+- [[Heureka]]
 - [Les Parasites](https://www.youtube.com/@LesParasitesFilms)
 - [Veritasium](https://www.youtube.com/@veritasium)
 - [Steve Mould](https://www.youtube.com/@SteveMould)
