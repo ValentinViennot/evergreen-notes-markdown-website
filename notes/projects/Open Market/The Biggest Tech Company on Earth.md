@@ -262,10 +262,12 @@ Why is that?
 						- **Need to partner with the OSS first**
 				- 
 
-				- Request for proposals
+				- Request for proposals (PROOF OF STAKE)
 					- Blocked money on Pain points until Problem solved
 					- Projects Leadership decide what proposal wins
-					- Companies —
+					- Contributors get back created coin (PROOF OF WORK)
+						- They can destroy or keep it
+				- COIN IS EITHER CREATED OR DESTROYED , not traded.
 		- 
 	- Open Organisation
 		- Recognition (share of what you are building)
