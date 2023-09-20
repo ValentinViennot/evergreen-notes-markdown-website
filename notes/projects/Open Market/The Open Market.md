@@ -1,27 +1,34 @@
-_WIP, see: [[Open Market random notes (WIP)]]_
 
-The Open Market idea is a new economy **to sustainably invest in Open Source**.
+**The Open Market is a new economy to sustainably invest in Open Source**.
 
-The Open Market envisions to build an economic (sub)system based on Decentralised Finance tech. The Open Market will serve as the financial infrastructure for Open Source funding.
+The Open Market aims to enable humans to innovate a lot more efficiently
+by building a distributed world of happy, fairly compensated workers.
 
-[[The Open Market Elevator Pitch]]
-[[The Open Market manifesto]]
+The Open Market envisions building an economic and financial subsystem based on Decentralised Finance tech. This new Open Market will serve as the financial infrastructure for Open Source funding. The Open Market creates a new marketplace within the bigger economic system, with a different paradigm and different incentives. 
+
+The Open Market is designed to improve Capitalism.
+
+- [[The Biggest Tech Company on Earth|The Biggest Tech Company on Earth (vision)]]
+- [[The Open Market manifesto]]
+- [[The Open Market elevator pitch|Elevator pitch]]
+- _WIP, see: [[Open Market random notes (WIP)]]_
 
 **Mission**:
 
 - Enable each human to live from their labour.
 - Find the most efficient way for our society to sustainably innovate.
+- Optimise the use of natural resources for meaningful progress.
 
 Open Market's **side quests**:
 
 - Prove that Open Source can beat Google.
-- Defeat polarised Capitalism with a Collaborative economy.
+- Upgrade Capitalism with a Collaborative economy.
 - Prove Marx wrong by building a non-alienating labour market.
 
 Open Market's **underlying motivations**:
 
 - [[Open source should be the only way]]
-- [[Why do we innovate like this?]]
+- [[The way we innovate is totally inefficient]]
 - [[My mission]]
 
 _You can also read my related blog series (WIP):_

@@ -10,7 +10,7 @@ I have a vision ([[The Open Market]]) and it's my once-in-a-lifetime opportunity
 I must —I need to— be the one holding this vision until it becomes a true thing.
 
 Therefore, I am looking for the ideal CTO in order to share this journey together.
-([[Good CTO, Great CTO]]) — ((_could CMO, CFO... CxO... make sense?_))
+([[Good CTO, Great CTO]]) — ((_or maybe it's a **CMO, CFO, CRO... CxO**...?_))
 
 I want to be the one responsible for the vision and its business model.
 I need someone who can take my vision and transform it into a technical product.
@@ -31,21 +31,19 @@ Someone with the following traits will reveal the best version of myself:
 ([[My values]])
 
 As an **ENTP** ([[Obsessions]]), the following personalities should be my best matches
-(but let's not limit ourselves to any kind of boundaries):
+(_but let's not limit ourselves to any kind of boundaries_):
 
 - INFJ, INTJ, INTP, ENFP
 - and most generally all intuitive (xNxx) types
 
-I greatly value the following skills:
+I greatly value the following skills, with no particular order or requirement:
 
 - A strong technical background, particularly in distributed systems (blockchain, web3)
 - Technical rigour, open-mindedness, and a gift for complex systems design
+- Understanding of financial markets and economics principles
 - A disciplined practice to validating complex systems
 - Able to articulate & challenge high-level concepts
 - A taste for user experience design
+- A passion for [[Open innovation is the healthiest competition|Open Innovation]]
 
 Additionally, I value open-mindedness, intellectual curiosity, and shared high-level values, as a strong personal connection is essential for a successful partnership.
-
----
-
-Technical expertise, Emerging technologies, Vision-to-action, Constructive debate, Integrity, Patience, Societal improvement, Complementary skills, Intuitive personality, Mutual respect, Shared values, Curiosity, Open-mindedness, Blockchain/Web3 knowledge, User experience design.

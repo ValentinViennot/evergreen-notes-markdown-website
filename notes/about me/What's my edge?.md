@@ -11,6 +11,7 @@ I love challenging situations and doing what it takes to resolve them.
 	- In most (if not all) of my projects I demonstrated deep catalyst skills
 	- Always described myself as both a thinker and a doer
 	- [[I'm like Josephine Ange-Gardien]]
+	- [[I'm gonna be King of the Pirates]]
 	- I have both broad and deep (T-shape) skills and background allowing me to unlock other's edges. and I don't care about ego ([[My values]])
 	- I could be both the Catalyst Talker
 		- Product Manager experience
@@ -28,8 +29,8 @@ I love challenging situations and doing what it takes to resolve them.
 	- Passion for the Open Source values and mission
 		- aligned with [[My mission]]
 	- Theory on what's the biggest problem with Open Source
-		- [[Open source has no added value]]
-		- [[Open Source will always be Free]]
+		- [[Open Source is not profitable]]
+		- [[Open Source should always be Free]]
 	- Non-obvious insight on how to improve the industry:
 		- [[The Open Market]]
 

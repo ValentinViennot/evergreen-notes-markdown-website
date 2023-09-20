@@ -1,7 +1,7 @@
-([[Elevator pitch]])
+_(What's an [[Elevator pitch]]?)_
 
 
-**We're going to build the biggest tech company on earth.**
+**We're going to build [[The Biggest Tech Company on Earth]].**
 
 
 IT spendings were something like $4.7 trillion in 2023, and increasing.
@@ -14,7 +14,7 @@ We have a plan to optimise and win over any competitor on our way.
 
 How? We're going to build and rebuild everything Open Source.
 
-Nothing can compete with Open Source.
+[[Nothing can compete with Open Source]]
 It will always be the cheapest most innovative most adaptable solution out there.
 And Open Source is undeniably the most resource efficient way to build software.
 

@@ -1,7 +1,7 @@
 _WIP: this is a brain dump_
 
 - [Status quo way of working & innovation/investment](https://drive.google.com/file/d/1RTec72Niv_KrLNu12v-U8Q_a22dbKKJd/view?usp=sharing)
-- [[The Open Market Elevator Pitch]]
+- [[The Open Market elevator pitch]]
 - 
 - **We are going to build [[The Biggest Tech Company on Earth]]**
 - 
@@ -32,13 +32,13 @@ _WIP: this is a brain dump_
 			- help prioritise projects and things to contribute to, but promote freedom and free work. focus on performance.
 				- [[No rules rules]]
 		- Marketing
-			- [[Open Source will always be Free]]
+			- [[Open Source should always be Free]]
 			- 
 - [[Is Freedom for Everyone?]]
 	- Relate to thoughts and questions on [[Democracy]]
 	- 
-- [[Why do we innovate like this?]]
-- [[Open source has no added value]]
+- [[The way we innovate is totally inefficient]]
+- [[Open Source is not profitable]]
 	- The 0$ open source company
 	- Open source is not profitable (?) —why?
 		- Value of company = revenues+assets

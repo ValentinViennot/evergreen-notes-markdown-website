@@ -1,7 +1,11 @@
+_Regularly-updated Note. Last update: September 12th, 2023_
+
 Welcome to my [/now note-page](https://sive.rs/nowff) (read: [[About_these_notes]]).
 
 I will regularly update this note to reflect what I'm up to and what's ahead of me.
 As with all the other [[Evergreen notes]] here, the intended audience is myself.
+
+[[Looking 5 years ahead]] [[Looking 10 years ahead]]
 
 ### Current focus
 
