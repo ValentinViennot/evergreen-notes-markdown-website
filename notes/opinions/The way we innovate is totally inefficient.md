@@ -10,6 +10,8 @@ But then...
 - [[Corporations destroy value]]
 - [[Entrepreneurship is random]]
 
+On top of that, once one created enough profit, they get disproportionate power and leverage to decide innovation ([[The (Wrong) God-like Designer Theory of Innovation]]). 
+
 TL,DR: The mainstream way of innovating is just plain wrong.
 It's a giant waste of natural and human resources.
 With no meaningful goals, no collective vision.
@@ -17,4 +19,4 @@ With no meaningful goals, no collective vision.
 Hopefully I believe our way or working is already changing.
 At least, in people's minds and dreams it is.
 The only need is to enable it to change.
-([[The changing way of working]], [[The Open Market]]). 
+([[The changing way of working]], [[The Open Market Manifesto]]). 

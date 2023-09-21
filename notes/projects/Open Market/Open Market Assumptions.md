@@ -20,10 +20,15 @@ _[[TODO]] / WIP_
 
 - [[The changing way of working]]
 - [[Open innovation is the healthiest competition]]
+	- AND, much more efficient
 - [[Happy workers are better workers]]
-- [[Open Source is not profitable]] —TODO: Need to write down [[Why is Open Source not profitable?]] based only on [[Open Market Postulates]] — already added to Postulates, but would be better to gather more solid proof that this is indeed the case, and why
-- [[Nothing can compete with Open Source]]
+- [[Open Source is not profitable]] —TODO: Need to write down [[Why is Open Source not profitable? (Essay)]] based only on [[Open Market Postulates]] — already added to Postulates, but would be better to gather more solid proof that this is indeed the case, and why
+- [[Nothing can compete with Open Source]] (funded)
 - [[Human Labour is what creates Value]]
 - Being a good capitalist player comes from:
 	- Steadily or exponentially increasing revenue
 	- Attracting always more investors
+- Rules limit efficiency of a company ([[No rules rules]])
+- Open Sourcing all tech will disrupt tech market and remove existing monopolies
+- Europe regulators will find this idea strategic and to their advantage
+- 

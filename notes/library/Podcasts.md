@@ -1,7 +1,7 @@
 [[TODO]]
 
-- Clément Viktorovitch
-- Guillaume Meurice
+- "Entre les lignes" (Clément Viktorovitch)
+- "Le moment Meurice" (Guillaume Meurice)
 
 Specific occurences:
 - Markets
