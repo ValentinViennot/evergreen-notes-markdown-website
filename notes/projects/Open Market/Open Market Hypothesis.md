@@ -24,4 +24,5 @@ _[[TODO]] / WIP_
 - TODO: based on [[Nothing can compete with Open Source]]
 - TODO: based on [[Human Labour is what creates Value]] (ie next OSS features requests)
 	- aka pay-for-play ability to influence roadmap
-- 
+	- pay-for-features
+- TODO: Developer Coins?

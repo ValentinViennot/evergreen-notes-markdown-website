@@ -27,7 +27,9 @@ _[[The Biggest Tech Company on Earth]] **is** [[What am I doing right now?|what 
 
 We are going to build **the biggest Investment Fund in Open Source Software**.
 
-Initially, it will be presented and offered as **the biggest Open Source Software Distribution**. (OSSD?).
+Investing in the (future) [[Brand value]] of Open Source projects, as projected by the estimated amount of long-term investment (capital).
+
+Conceptually, **the biggest Open Source Software Distribution**. (OSSD?).
 
 - Today, the biggest Open Source Software Distribution is GitHub.
 - Ubuntu, Red Hat, etc are also big Open Source Software Distributions. 
@@ -35,6 +37,7 @@ Initially, it will be presented and offered as **the biggest Open Source Softwar
 #### Win strategy & Addressable market
 
 [[Nothing can compete with Open Source]] (provided it gets funded).
+
 That's how we will win over the entire Tech market/industry.
 
 #### Problem Statement
@@ -45,9 +48,10 @@ Well: [[Tell me it's impossible and I'll do it]].
 
 #### Root cause analysis
 
-[[Why is Open Source not profitable?]]
+[[Why is Open Source not profitable? (Essay)]]
 
 **_**[[TODO]]**: Write down as thesis. See notes below._**
+
 #### Solution: a new System
 
 Systemic issues can only be solved with systemic solutions.
@@ -56,8 +60,8 @@ That's why we propose to build a new Economy within the Global Economy.
 
 This new economic system needs to,
 
-1. Be a good player in the traditional ([[Capitalism]]) economy
-2. Abide by the [[Open Source should always be Free|Open Source Principles]]
+1. Be a good player in the traditional, Global Economy ([[Capitalism]])
+2. Abide by (and not compromise on) the [[Open Source should always be Free|Open Source Principles]]
 
 We propose to build **[[The Open Market Infrastructure]]**.
 
@@ -82,7 +86,16 @@ Our **unfair advantage** is that we are the ones who created the new Economy.
 We therefore know the rules and could understand them better than anyone.
 Our Company valuation and profitability exclusively comes from Human Labour ([[Human Labour is what creates Value]]) (as opposed to IP or resources).
 
+The investment comes in different forms and from different actors.
+
+- Consumers
+- Contributors
+- Investors
+
 _**[[TODO]]: Company vision and culture**_
+
+COMPANY MISSION: Free workers.
+COMPANY VISION: Sustainably invest in Open Source.
 
 ##### MVP: Where to get started.
 
@@ -90,7 +103,8 @@ Two-sided marketplace (aka the biggest Open Source Software Distribution).
 Validating our top [[Open Market Hypothesis|hypothesis]]. In particular that,
 
 - Customers are willing to pay for future (OSS) development,
-- Contributors are willing to work for future brand valuation tokens,
+- Contributors are willing to work for future brand valuation tokens (and >$),
+     --> recognition, unlimited (theoretical) profits, right to buy
 
 Identifying:
 - Customers: Big corps/companies relying on specific OSS
@@ -99,6 +113,10 @@ Identifying:
 
 **_**[[TODO]]**: Write down as brief/pitch. See notes._**
 
+
+##### Roadmap
+
+[[TODO]]: private?
 
 
 ---
@@ -170,7 +188,7 @@ Why is that?
 - The Open Market (Efficiently, Systematically, Competitively subsidising)
 	- Projects have their own governance
 	- Brand valuations —**Trademarks**
-		- Project coin = a share of the brand
+		- Project coin = a share of the brand (legally!)
 		- Doesn't mean anything wrt governance
 	- Open Market Exchange to trade these coins
 		- Subscribe to the Open Market Fondation
@@ -217,9 +235,18 @@ Why is that?
 							- 1/ work is considered an investment
 							- 2/ allow for leaking parameters?
 		- 
-	- 
+	- How to solve the problem of developers working benevolently on project?
+		- AND, same problem for project leaders?
+		- Idea:
+			- Offer them Options (BSPCE) , funded with credit/locked value
+			- (Risk? Taken by them & the project? --> be transparent)
+				- Leadership shouldn't allow this.
+					- WOULD THAT ALLOW TO STEAL MONEY?
+						- Or just make an investment more speculative?
+							- And therefore less attractive?
+								- (In which case it's "fine")
 
-- Become the first Investment Fund
+- **Become the first Open Source Investment Fund**
 
 - tBTC: UBI and Bug Bounty
 	- Best tech employees
@@ -281,7 +308,39 @@ Why is that?
 		- The creators side is less high-priority ([[Move with urgency]])
 			- Take the example of Spotify
 				- What they were aiming to do was REALLY hard 
-			- 
+				- 
+	- Web3 is an implementation detail
+		- Not integrated with other Web3 shit
+	- "Don't give up on reality. The Web3 integrated with the real world."
+		- OME and OMF protect their participants
+			- Regulate and take legal action if necessary
+				- NEED REGULATORY POWER!!
+					- TRUST IS BACK :)
+						- Decentralised doesn't mean without local centres
+							- Distributed!
+		- "Innovation made more human."
+		- "Open Source will always be free."
+		- ...
+- DON'T GROW TOO FAST
+	- Only European at first
+	- Invitation only
+	- ==> IN ORDER TO GET RETRIBUTED
+		- (platform is open)
+- Not your typical crypto project
+	- Creating actual value
+	- Abiding by known and tangible rules
+	- Regulated by locally centralised bodies
+
+
+- UBI
+	- Motivates
+	- Based on performance
+	- And added value to the network
+		- Ie convinced to pay user bounty
+	- Regional markets
+		- Code global --> Open Source
+		- Bounty regional
+
 ...
 
 1. Ambition
@@ -298,7 +357,7 @@ Why is that?
 	3. Investment expertise (we built the game!)
 	4. Assurance revenue
 
-So, yes, I'm going to build** the biggest tech company on earth**.
+So, yes, I'm going to build **the biggest tech company on earth**.
 
 [[What's your dream?]] Join me!
 

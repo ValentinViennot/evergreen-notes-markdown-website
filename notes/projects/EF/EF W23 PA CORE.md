@@ -8,7 +8,7 @@ A bit like daily notes, this running note aims to gather my thoughts and journal
 - Started the week meeting with [[Andi]] (Sunday)
 	- We hadn't seen each other in person for 3 years
 	- Inspiring and motivating to get started with [[What I want to build at EF]]
-	- Discussed in depth [[The Open Market manifesto]]
+	- Discussed in depth [[The Open Market Manifesto]]
 		- and [[Open Market random notes (WIP)]]
 	- And many other philosophical topics!
 - I might have the answer to [[Why CEO?]]
@@ -30,7 +30,7 @@ A bit like daily notes, this running note aims to gather my thoughts and journal
 	- I previously aimed to write blogs (such as https://mindthegapblog.com/posts/open-market-series/)
 		- But blogging requires finished thoughts
 	- Notes, especially [[Evergreen notes]], seem to be much more adapted here
-- I wrote [[The Open Market manifesto]] —Now about to share it!
+- I wrote [[The Open Market Manifesto]] —Now about to share it!
 	- I also went the drawing way (inspired by [[The Back of the Napkin]]) and drew a comprehensive vision [from the status quo to the Open Market](https://drive.google.com/file/d/1RTec72Niv_KrLNu12v-U8Q_a22dbKKJd/view?usp=sharing).
 - I'm pretty clear that I want to be CEO. I want to be making the strategic decisions and be the one taking it from a vision to being an actual, concrete company.
 	- But I also know that , eventually , I don't aspire to be a CEO. I rather see myself on multiple boards and helping others to start projects.
