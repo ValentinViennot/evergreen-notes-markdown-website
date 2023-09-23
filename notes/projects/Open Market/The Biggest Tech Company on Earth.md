@@ -74,7 +74,7 @@ Our Company is enabled by this new financial infrastructure.
 Our Company is an **Investment Fund in Open Source Software**,
 operating in the newly created [[The Open Market Economy|Open Market Economy]].
 
-The added value of Our Company comes from:
+The added value of Our Company comes from ([[tBTCoE company vision and culture]]):
 
 - Culture
 - Strategies
@@ -88,11 +88,11 @@ Our Company valuation and profitability exclusively comes from Human Labour ([[H
 
 The investment comes in different forms and from different actors.
 
-- Consumers
-- Contributors
-- Investors
+- Consumers: Money
+- Contributors: Time
+- Investors: Capital
 
-_**[[TODO]]: Company vision and culture**_
+
 
 COMPANY MISSION: Free workers.
 COMPANY VISION: Sustainably invest in Open Source.

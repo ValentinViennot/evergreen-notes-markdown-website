@@ -1,3 +1,6 @@
+
+Alienation is currently the biggest root cause for Innovation inefficiencies.
+
 Research ([[TODO]]: link references, positive psychology...) shows that happier workers are:
 
 - More productive

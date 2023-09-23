@@ -1,6 +1,6 @@
 Investing, [Time, Money, or Influence](https://mindthegapblog.com/posts/all-we-do-is-investment/) ([[blog/posts/investing-time/index|source]]), is an inherently risky activity.
 
-The higher the risk, the bigger the potential reward.
+The higher the risk, the bigger the potential reward ([[There's no big reward without taking big risks]]).
 
 De-risking is not so much about reducing the inherent risk.
 It's about reducing the effective risk.
