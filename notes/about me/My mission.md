@@ -14,7 +14,7 @@ For this virtuous cycle to spin, it has to start somewhere. By focusing on my ha
 
 **Smarter, happier people don't just make a better "me" or a better "you." They make a better "us," capable of facing whatever comes our way.**
 
-Read more: [[My values]], [[Happiness]]
+Read more: [[My values]], [[Happiness]], [[What's our goal?]], [[Success doesn't lead to Happiness, Happiness leads to success]], [[The happy secret to better work]]
 
 [[Looking 5 years ahead]] [[Looking 10 years ahead]]
 

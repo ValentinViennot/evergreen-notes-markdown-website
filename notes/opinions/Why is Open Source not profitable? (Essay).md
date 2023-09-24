@@ -8,9 +8,6 @@ However, when the added _Value_ is measured with the amount of "good" Innovation
 I therefore conclude that "the market is broken".
 In the sense that (_in my opinion_) it's not doing its valuation job properly.
 
-![[Pasted image 20230921180451.png]]
-
-
 Open Source is not profitable.
 
 But, **why is that?** why is the market broken? , and how exactly? , and how to fix it?

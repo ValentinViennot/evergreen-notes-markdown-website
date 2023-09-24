@@ -10,7 +10,7 @@ ASKING GOOD QUESTIONS
 - Keep it casual  
   
 Ask questions about what could kill your start-up. Understand customers. Ask open questions. Validate assumptions, not ideas.  
-Investigate behaviors and beliefs.  
+Investigate behaviours and beliefs.  
 Ask questions THEY CAN'T lie to you about.  
   
 1. Talk about their life instead of your idea.  
@@ -31,13 +31,13 @@ Opinions are useless.
 --> Value comes from understanding Why  
   
 No fucking committee  
-  
+
 Good questions  
 - Sounds painful. Why do you bother?  
 - What are the implications of that? How much does that matter?  
-  
+
 Watch someone do a task  
-  
+
 If they haven't found alternative solutions already, would they pay for yours?  
   
 People stop lying when you ask them for money  
@@ -51,7 +51,8 @@ If they really want to solve a problem and you're in a leaning mode, they will d
 Who else should I talk to?  
 (If no answer: either you're screwing something up or they don't care about the problem)  
   
-People want to help you. Give them an excuse to do so. --> Ask: Is there anything I should have asked you?  
+People want to help you. Give them an excuse to do so.
+--> Ask: Is there anything I should have asked you?  
   
 You are not allowed to tell a customer what their problem is.  
 They are not allowed to tell you what the solution should be.  
@@ -203,3 +204,4 @@ Weekly prep and feedback meetings with team
   
 GO BUILD YOUR COMPANY.  
 DO YOU. DO YOUR BEST.
+
