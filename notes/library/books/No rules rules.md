@@ -11,3 +11,8 @@ Co-authors Reed Hastings and Erin Meyer argue that hiring top-tier talent ("Tale
 
 In this environment, feedback isn’t just encouraged; it's expected. Employees at all levels are taught to offer candid, constructive feedback, facilitating both personal and organisational growth. Netflix's model demonstrates that **when employees are treated as responsible adults, given the freedom to make decisions but held accountable for the outcomes, extraordinary success is possible**.
 
+
+Other references:
+- [[How to run a company with (almost) no rules]]
+- [[Do schools kill creativity]]
+

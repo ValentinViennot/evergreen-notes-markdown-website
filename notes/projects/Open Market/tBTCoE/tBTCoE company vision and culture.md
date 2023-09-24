@@ -210,10 +210,10 @@ Therefore, disrupting the market leveraging Open Source sounds like a smart move
 - **CEO**: Valentin
 - **CPO**: Edoardo
 - **CTO**: Lukas?
-- **COO**: Cviko? Helena? 
-- **CFO**: Cviko? Other?
+- **COO**: Cviko? Helena?
+- **CFO**: Cviko? Gilles? Other?
 - **Chief of Staff**: Sarah
-- **First Engineer** (Contributor): Roger
+- **CIO / First Engineer** (Contributor): Roger
 
 Eventually, we will need to fill roles in the Open Market companies as well:
 - Open Market Fondation Presidency

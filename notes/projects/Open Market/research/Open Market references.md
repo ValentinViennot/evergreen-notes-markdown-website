@@ -1,5 +1,6 @@
 
 **[[TODO]]: Extract key insights, learnings from each of them**
+	Explain how they relate, why interesting reference.
 
 ## Books
 
@@ -46,6 +47,11 @@
 - https://oc.app/blog/governance
 - https://internetcomputer.org/sns/faq
 - 
+- https://twitter.com/Git_Round
+- 
+- https://bitcoinmagazine.com/business/opensats-receives-10-million-from-jack-dorseys-startsmall-initiative
+- 
+- https://investwithroots.com/
 
 ## Articles
 
@@ -75,4 +81,17 @@
 	- 
 - https://oc.app/blog/governance
 - https://www.forbes.com/sites/forbestechcouncil/2023/02/02/how-to-make-open-source-profitable/?sh=7d8e1ab751b4
-- 
+- https://muldoon.cloud/2023/09/06/software-keeps-failing.html?utm_source=tldrnewsletter
+
+
+
+- https://www.jointhequest.co/
+
+
+
+
+[https://www.tbd.website/](https://www.tbd.website/)  
+[https://en.m.wikipedia.org/wiki/Block,_Inc](https://en.m.wikipedia.org/wiki/Block,_Inc).  
+[https://spiral.xyz/](https://spiral.xyz/)
+
+

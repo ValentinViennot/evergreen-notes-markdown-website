@@ -3,6 +3,17 @@ A bit like daily notes, this running note aims to gather my thoughts and journal
 - [Reading List](https://entrepreneurfirst.notion.site/Reading-List-e9bc6716ca14473fb280bd8433b7dea2)
 - [[EF shortlist]]
 
+## Week 2 ([[2023-week-39]])
+
+- Started the week meeting with [[Edoardo]] and [[Sarah]] on Sunday
+	- I'll convince them to come on board with me
+	- But first I need to get things started and concrete
+- This week my goal was to do deep customer discovery on both ends
+	- Consumers
+	- Contributors
+- Learnings are going to be kept private for now (not [[Building in public]] for this part)
+- TODO: re-assess decision to stop looking for a co-founder
+
 ## Week 1 ([[2023-week-38]])
 
 - Started the week meeting with [[Andi]] (Sunday)
@@ -11,8 +22,23 @@ A bit like daily notes, this running note aims to gather my thoughts and journal
 	- Discussed in depth [[The Open Market Manifesto]]
 		- and [[Open Market random notes (WIP)]]
 	- And many other philosophical topics!
-- I might have the answer to [[Why CEO?]]
-- 
+- I have the answer to [[Why CEO?]]
+	- I might not be looking for a "co-founder" in the end
+		- I have a very clear and determined vision
+		- I am going to build [[The Biggest Tech Company on Earth]]
+			- And patch our Economic System with an Upgrade
+				- To fix alienation, capital concentration, and innovation inefficiencies
+					- [[Open innovation is the healthiest competition]]
+					- a Marxist Startup Studio
+			- I am going to free workers, and free intellectual property
+				- Building The European Dream
+- Published https://mindthegapblog.com/posts/why-open-source/
+- I am feeling super happy and free and inspired! All positive so far
+- Decided to relax a bit from [[EF]] guidance and methodology
+	- In the end, my situation might be different enough that it deserves exceptions
+	- I will stop my co-founder search for now
+		- And start building
+			- I will re-assess this decision end of next week
 
 ## Week 0 ([[2023-week-37]])
 
