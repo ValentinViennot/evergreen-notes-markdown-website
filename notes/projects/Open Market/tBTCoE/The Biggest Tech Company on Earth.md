@@ -25,7 +25,7 @@ _[[The Biggest Tech Company on Earth]] **is** [[What am I doing right now?|what 
 
 ### What
 
-We are going to build **the biggest Investment Fund in Open Source Software**.
+We are building **the biggest Investment Fund and Platform in Open Source Software**.
 
 Investing in the (future) [[Brand value]] of Open Source projects, as projected by the estimated amount of long-term investment (capital).
 

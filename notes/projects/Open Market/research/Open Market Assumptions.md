@@ -22,6 +22,7 @@ _[[TODO]] / WIP_
 - [[Open innovation is the healthiest competition]]
 	- AND, much more efficient
 - [[Happy workers are better workers]]
+	- Considered Postulate? TODO: document with research
 - [[Open Source is not profitable]] —TODO: Need to write down [[Why is Open Source not profitable? (Essay)]] based only on [[Open Market Postulates]] — already added to Postulates, but would be better to gather more solid proof that this is indeed the case, and why
 - [[Nothing can compete with Open Source]] (funded)
 - [[Human Labour is what creates Value]]
@@ -31,4 +32,14 @@ _[[TODO]] / WIP_
 - Rules limit efficiency of a company ([[No rules rules]])
 - Open Sourcing all tech will disrupt tech market and remove existing monopolies
 - Europe regulators will find this idea strategic and to their advantage
+- Open source principles are incompatible with capitalist motivations
+	- [[Open Source should always be Free]]
+- Tech professionals possess exceptional potential to instigate systemic shifts
+- Europe wants to gain tech independance
 - 
+
+- Consumers hold the biggest amount of cash
+	- (investors mostly hold some form of debt from others)
+
+- THIS WHOLE THING IS LEGAL
+

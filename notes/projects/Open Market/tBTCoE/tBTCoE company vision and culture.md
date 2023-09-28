@@ -3,6 +3,8 @@
 
 **BELIEVE. THINK. BUILD.**
 
+Making Open Source dependable and durably innovative
+
 ### Mission
 
 To free workers.
@@ -10,7 +12,7 @@ To free workers.
 ### Vision
 
 Become the Biggest Tech Company on Earth (tBTCoE) by
-profitably investing in Open Source Software —future— development.
+profitably investing in Open Source Software —future— development. Therefore, freeing Intellectual Property and Workers.
 
 ### Business
 
@@ -50,7 +52,7 @@ We will support the independence of the [[Open Market Fondation]].
 
 Something like the Station F in Paris, huge modern co-working buildings filled with Entrepreneurs. _(Located in all big and less big cities! Europe first.)_
 
-The tBTCoE Leadership would have their offices in the middle (like Elon Musk at the center of the factory). Leaders would be expected to come to the office regularly.
+The tBTCoE Leadership would have their offices in the middle (like [[Elon Musk]] at the center of the factory). Leaders would be expected to come to the office regularly.
 
 Any Open Market contributor would be able to come and work from tBTCoE offices.
 It will be like a giant co-working space, mixing funded Entrepreneurs and free minds.
@@ -207,17 +209,7 @@ Therefore, disrupting the market leveraging Open Source sounds like a smart move
 
 #### Pirate Crew
 
-- **CEO**: Valentin
-- **CPO**: Edoardo
-- **CTO**: Lukas?
-- **COO**: Cviko? Helena?
-- **CFO**: Cviko? Gilles? Other?
-- **Chief of Staff**: Sarah
-- **CIO / First Engineer** (Contributor): Roger
-
-Eventually, we will need to fill roles in the Open Market companies as well:
-- Open Market Fondation Presidency
-- Open Market Exchange CEO, CFO, CRO
+[[tBTCoE org chart]]
 
 #### Pirate Ship Provider
 
