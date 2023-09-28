@@ -10,7 +10,7 @@ Good starting points to dive into my notes could be:
 - [[The Open Market]]
 - [[Learnings]]
 
-[[Speak up]]. If you made it here and will be reading some of my notes, please do reach out with your thoughts: even (especially) if you think otherwise. The only requirement is to [[Be kind]]. You can reach out using my [email](mailto:valentin@viennot.me), [Twitter/X](https://twitter.com/valentinviennot/), [LinkedIN](https://www.linkedin.com/in/valentin-viennot/).
+[[Speak up]]. If you made it here and will be reading some of my notes, please do reach out with your thoughts: even (especially) if you think otherwise. The only requirement is to [[Be kind]]. You can reach out using my [email](mailto:valentin@viennot.me) ([[PGP]]), [Twitter/X](https://twitter.com/valentinviennot/), [LinkedIN](https://www.linkedin.com/in/valentin-viennot/).
 
 I'm new to this and would welcome all positive, encouraging messages in order to help me make writing become a consistent habit in [[My schedule]]. 
 
