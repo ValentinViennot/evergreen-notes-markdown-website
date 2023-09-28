@@ -13,16 +13,31 @@ In that way, they are different than our [[Open Market Assumptions]].
 
 WHAT DO WE WANT TO LEARN? ([[The Lean Startup]])
 
-Hypothesis shouldn't be things we can answer with ChatGPT/a Google Search.
+Hypothesis shouldn't be things we can answer with ChatGPT/Google Search.
 Hypothesis should be things we can only answer with a (product) experiment.
 
 **Our goal is to formulate lots of hypothesis that will help us learn fast and create value for our users and customers.**
 
 _[[TODO]] / WIP_
 
-- TODO: based on [[The changing way of working]], what is the proposal/experiment
-- TODO: based on [[Nothing can compete with Open Source]]
-- TODO: based on [[Human Labour is what creates Value]] (ie next OSS features requests)
-	- aka pay-for-play ability to influence roadmap
+- OSS consumers are ready to pay for future open-source development in order to get additional value from the software that they use or influence its direction ([[Human Labour is what creates Value]])
+	- pay-for-play ability to influence roadmap
 	- pay-for-features
+- 
+- TODO: based on [[The changing way of working]]
+	- OSS contributors willing to work for brand share more than $ (provided the share is worth something)
+- 
+- TODO: based on [[Nothing can compete with Open Source]]
+	- Could maybe be proven with research/deductive arguments
+- 
 - TODO: Developer Coins?
+- TODO: LICENCE
+- TODO: Dilution does not influence [[Brand value]] (ie Apple is not less worth because every one has iPhones) —counterintuitive —+see Axioms
+- TODO: pre-conceived ideas on Open source licences hurt true OSS (SSPL, AGPL...)
+- TODO: OSS is difficult to adopt because of lack of support (SLA/MCO)
+- TODO: OSS is difficult to adopt because of lack of liability
+
+- TODO: OSS projects ready to sell shares of their trademarks??? —how to?
+- 
+
+- TODO: Would the BRAND VALUE as defined by Open Market get recognised by external entities? (eg markets, auditors, govs)

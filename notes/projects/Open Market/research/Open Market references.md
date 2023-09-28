@@ -52,6 +52,15 @@
 - https://bitcoinmagazine.com/business/opensats-receives-10-million-from-jack-dorseys-startsmall-initiative
 - 
 - https://investwithroots.com/
+- 
+- https://openforumeurope.org/open-source/
+	- Open Forum Europe
+	- Free Software Foundation Europe
+- 
+- https://ltse.com/
+- 
+- https://www.onlydust.xyz/ecosystems
+- 
 
 ## Articles
 
@@ -82,12 +91,10 @@
 - https://oc.app/blog/governance
 - https://www.forbes.com/sites/forbestechcouncil/2023/02/02/how-to-make-open-source-profitable/?sh=7d8e1ab751b4
 - https://muldoon.cloud/2023/09/06/software-keeps-failing.html?utm_source=tldrnewsletter
-
+- https://forkast.news/mica-rules-published-official-journal/
 
 
 - https://www.jointhequest.co/
-
-
 
 
 [https://www.tbd.website/](https://www.tbd.website/)  

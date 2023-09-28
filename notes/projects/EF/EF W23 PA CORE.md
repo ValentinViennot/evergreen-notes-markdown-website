@@ -5,14 +5,20 @@ A bit like daily notes, this running note aims to gather my thoughts and journal
 
 ## Week 2 ([[2023-week-39]])
 
+- This week I decided I would [[Do something crazy every day]]
+	- Allowing myself to dream too big ([[Don't be afraid to dream out loud]])
+	- As a consequence, I started reaching out out of my league
 - Started the week meeting with [[Edoardo]] and [[Sarah]] on Sunday
 	- I'll convince them to come on board with me
 	- But first I need to get things started and concrete
 - This week my goal was to do deep customer discovery on both ends
 	- Consumers
 	- Contributors
+- And to design an experiment to run on week 3 (the official first week of the programme)
 - Learnings are going to be kept private for now (not [[Building in public]] for this part)
-- TODO: re-assess decision to stop looking for a co-founder
+- 
+- 
+- TODO EOW: re-assess decision to stop looking for a co-founder
 
 ## Week 1 ([[2023-week-38]])
 

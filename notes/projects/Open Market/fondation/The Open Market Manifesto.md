@@ -84,14 +84,16 @@ My intuition is that creating this economy is equivalent to solving the lack of 
 How might we redesign open-source projects funding considering their nature of being free, for open source contributors to be paid and users to get the most _value_?
 
 
+[https://www.gnu.org/gnu/manifesto.html](https://www.gnu.org/gnu/manifesto.html)
+[https://mindthegapblog.com/posts/why-open-source/](https://mindthegapblog.com/posts/why-open-source/)
+
+
+[[The Open Market]]
+[[The Biggest Tech Company on Earth]]
+
 ---
 
-Remarks:
+In order to bring this new economy to life, I (@ValentinViennot) am currently looking for:
 
-This note is not an [[Evergreen notes]].
-
-Here are some references to concepts and ideas explored in the above text ([[TODO]]):
-- [[Open Source is not profitable]]
-- [[Open source should be the only way]]
-- [[The way we innovate is totally inefficient]]
-- [[Great work]] ([[How to do Great work (Paul Graham)]])
+- a crew of Pirates ([[I'm gonna be King of the Pirates]])
+- a ship (= Capital = [time, money, influence](https://mindthegapblog.com/posts/all-we-do-is-investment/))
