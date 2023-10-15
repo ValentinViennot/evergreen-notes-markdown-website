@@ -1,4 +1,4 @@
-My intention with the "Open Market" is to create an alternative economic system that prioritises collaboration, societal impact, and meaningful work over profit-driven motives. In this system:
+Our intention with the "Open Market" is to create an alternative economic system that prioritises collaboration, societal impact, and meaningful work over profit-driven motives. In this system:
 
 1. **Labour** is valued for its creative and productive contributions.
 2. **Value** is determined by the positive impact on society and collective well-being.
@@ -9,17 +9,17 @@ My intention with the "Open Market" is to create an alternative economic system 
 7. **Labour-Capital relationship** evolves into a collaborative, equitable partnership.
 8. **Ownership** is redefined as shared ownership of outcomes, social property.
 
-My goal is to build a system that challenges the limitations of traditional capitalism: a more equitable, value-driven, and collaborative economic paradigm.
+Our goal is to build a system that challenges the limitations of traditional capitalism: a more equitable, value-driven, and collaborative economic paradigm.
 
-I believe our way of working must change and **is** already changing. Younger generations and more educated workers aim to find meaning in their labour. They want to contribute not to private profits but in things they believe in and support.
+We believe our way of working must change and **is** already changing. Younger generations and more educated workers aim to find meaning in their labour. They want to contribute not to private profits but in things they believe in and support.
 
 Society is ready to hear and welcome a new, more equitable story that values great work more than financial gains. Our short-term profits-led economic system has created issues that turned into global challenges: climate change, inequalities, political polarisation... Younger generations want to end this system that they did not create. They understand we won't overcome these challenges without a change in the way society operates.
 
 It will be hard as it will require multiple difficult paradigm and cultural shifts. It also has to happen within the systemic rules and boundaries of the status quo (capitalism).
-Many have tried to change the system but often from a political perspective and wanting to revolutionise all things. I don't believe in this anymore. I believe we have to change it _from inside_. We have to be great players in the game, until we win it over.
+Many have tried to change the system but often from a political perspective and wanting to revolutionise all things. We don't believe in this anymore. We believe we have to change it _from inside_. We have to be great players in the game, until we win it over.
 
 And this change has to come from the ones creating value: the workers, human labour.
-In particular, I believe that tech workers —mostly engineers— are (still) in a unique position that would enable them to initiate these changes. They have true labour power, something that usually doesn't last for long in our economic system.
+In particular, We believe that tech workers —mostly engineers— are (still) in a unique position that would enable them to initiate these changes. They have true labour power, something that usually doesn't last for long in our economic system.
 
 We need to re-think "work", "value", "capital", "profit", "markets", "investment"...
 
@@ -27,39 +27,36 @@ Tech idealists have already popularised what shouldn't exist in a capitalist eco
 
 The tech industry has already pushed forward our society many times, and in particular our way of working: remote work, unlimited paid leave, lean management... 
 
-Open Source should not exist in a capitalist economy because it has no added value. By design, it must be _Free_. Free as in **free**dom but also as in **free** beer. The two of them are bound together. A consequence is that Open Source projects and companies usually have a hard time making profits.
+Open source should not exist in a capitalist economy because it has no added value. By definition, it must be _Free_. Free as in **free**dom but also as in **free** beer. The two of them are bound together. A consequence is that open source projects and companies usually have a hard time making profits.
 
 Have you ever tried selling something that is _free_?
-I've built and led sales for open-source products for almost three years.
-That's really hard. Trust me.
+That's really hard. But not impossible.
 
-But not impossible.
+Open source has the biggest added value to society. It creates healthy, unrestricted, and fast competition. It gives meaning to project contributors, directly connecting them with the results of their labour. It removes alienation. It encourages new, innovative projects. It opens resources that have no valid motives to be privatised.
 
-Open Source has the biggest added value to society. It creates healthy, unrestricted, and fast competition. It gives meaning to project contributors, directly connecting them with the results of their labour. It removes alienation. It encourages new, innovative projects. It opens resources that have no valid motives to be privatised.
+Capitalism sees Intellectual Property and Human Labour as Production Means. How broken is that? Production Means can be machines, factories, materials, energy... but how could human meaning become a production mean as well? _Alienation_.
 
-Capitalism sees Intellectual Property and Human Labour as Production Means. How broken is that? Production Means can be machines, factories, materials, energy... but how could human meaning become a production mean as well? That's alienating.
-
-Enterprises, corporations are a human construct.
-They are designed to serve _Us_.
+Enterprises, corporations are human constructs.
+They are stories designed to serve **Us**.
 Not the opposite.
 
-The problem with Open Source projects and companies today is that they are the result of either a Big Corporation strategy or as-much-as-rich idealist individuals. There is no systemic positive financial loop for Open Source projects: in fact, it's exactly the opposite.
+The problem with open source projects and companies today is that they are the result of either a Big Corporation strategy or as-much-as-rich idealist individuals. There is no systemic positive investment loop for open source projects: in fact, it's the opposite.
 
-Open Source is a great way to disrupt and win over a market. But the metric is, and will always be, private profits that will eventually encourage close-source innovation.
+Open source is a great way to disrupt and win over a market. But the metric is, and will always be, private profits that will eventually encourage close-source innovation.
 
-We lack an Open Source business model.
-Or rather, an Open Source economic system.
+We lack an open source business model.
+Or rather, an open source **economy**.
 
-A creator economy that systematically incentivises:
+A creators economy that systematically incentivises:
 
 - Great work
 - Collective innovation
 - Decentralised investment
 - Growth as perpetual progress
 
-A new economy compatible with the status quo. In fact, more than compatible: a new economy that would be a subsystem within the status quo and a winning game player.
+This new economy must be compatible with the status quo. In fact this new economy should be _designed_ to win the current economic game.
 
-The hack with a capitalist economy is that you **can** become the richest and eventually pump the capital out of everyone else. It's like a giant _Monopoly_.
+The hack with our current capitalist economy is that you **can** become the richest and eventually pump the capital out from everyone else. It's like a giant _Monopoly_. (Hopefully in _Monopoly_ you can't create debt —otherwise the game would be endless.)
 
 We want to hack the system.
 
@@ -74,26 +71,25 @@ Our new economy creates and captures value in order to allocate it to new projec
 Our new economy refuses alienation.
 Our new economy prevents capital accumulation.
 
-**I believe this new economy is ready to happen. We just need to build it.**
+**We believe this new economy is ready to happen. We just need to build it.**
 
-My intuition is that creating this economy is equivalent to solving the lack of a profitable business model (or rather, lack of sustainable funding) for Open Source.
+Our intuition is that creating this economy is equivalent to solving the lack of a profitable business model (or rather, lack of sustainable funding) for open source.
 
 **That's what the Open Market does.**
 
+The Open Market redesigns open-source projects funding considering their nature of being free, for open source contributors to be paid and users to get the most _value_.
 
-How might we redesign open-source projects funding considering their nature of being free, for open source contributors to be paid and users to get the most _value_?
+- [[The Open Market]]
+- [[The Biggest Tech Company on Earth]]
+- [[Open Source Software as a Commodity -Pioneering profitable FOSS venture capital]]
 
-
-[https://www.gnu.org/gnu/manifesto.html](https://www.gnu.org/gnu/manifesto.html)
-[https://mindthegapblog.com/posts/why-open-source/](https://mindthegapblog.com/posts/why-open-source/)
-
-
-[[The Open Market]]
-[[The Biggest Tech Company on Earth]]
+- [https://www.gnu.org/gnu/manifesto.html](https://www.gnu.org/gnu/manifesto.html)
+- [https://mindthegapblog.com/posts/why-open-source/](https://mindthegapblog.com/posts/why-open-source/)
 
 ---
 
-In order to bring this new economy to life, I (@ValentinViennot) am currently looking for:
+Interested in building this together with me? ([[About_these_notes]])
 
+I'm moving **fast**. Right now, I need:
 - a crew of Pirates ([[I'm gonna be King of the Pirates]])
 - a ship (= Capital = [time, money, influence](https://mindthegapblog.com/posts/all-we-do-is-investment/))

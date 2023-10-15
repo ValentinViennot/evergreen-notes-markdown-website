@@ -117,6 +117,8 @@ We will let them enough time to succeed, acting exactly like an Incubator.
 
 Partners will be responsible for the performance of their portfolios of Contributors and Investments. They will make arbitration decisions such as letting go of staff.
 
+Regularly, we will offer all of our employees an attractive exit door. Employees should want to stay with a compelling option to leave, not the opposite.
+
 ###### Universal Base Income
 
 At tBTCoE, **EVERYONE gets the same salary**: similar to a Universal Base Income. 
@@ -195,7 +197,7 @@ Google demonstrated this multiple times with Android and Kubernetes and others, 
 
 Europe rightly has strategic concerns about the Tech market being mostly controlled by private companies located in the United States of America.
 
-As with any tech market, [[There's only one winner]]. And it's not Europe.
+As with any tech market, [[The winner takes it all]]. And it's not Europe.
 
 There's a good chance it won't ever be.
 
@@ -205,7 +207,7 @@ Therefore, disrupting the market leveraging Open Source sounds like a smart move
 
 ### Founding Team
 
-[[I'm gonna be King of the Pirates]]
+[[I am not looking for a co-founder, I am looking for a pirates crew (and a ship)]]
 
 #### Pirate Crew
 

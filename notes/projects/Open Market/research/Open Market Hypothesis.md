@@ -32,7 +32,7 @@ _[[TODO]] / WIP_
 - 
 - TODO: Developer Coins?
 - TODO: LICENCE
-- TODO: Dilution does not influence [[Brand value]] (ie Apple is not less worth because every one has iPhones) —counterintuitive —+see Axioms
+- TODO: Dilution does not influence [[Brand Value]] (ie Apple is not less worth because every one has iPhones) —counterintuitive —+see Axioms
 - TODO: pre-conceived ideas on Open source licences hurt true OSS (SSPL, AGPL...)
 - TODO: OSS is difficult to adopt because of lack of support (SLA/MCO)
 - TODO: OSS is difficult to adopt because of lack of liability

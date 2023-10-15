@@ -75,12 +75,12 @@ Open Core is an insult to the Open Source ideology, it's like a honey pot tricki
 
 Consulting Services are a very smart and functional business model. It worked well for Red Hat for some time. The only (non-negligible) downside is that it doesn't scale. It requires 1:1 hiring and therefore profits can't compete with closed-source solutions.
 
-[[Brand value]] is an interesting one. It's basically implying that your copy (fork) of "Ubuntu" is worth nothing if you cannot name it "Ubuntu". Brand valuation has three main downsides:
+[[Brand Value]] is an interesting one. It's basically implying that your copy (fork) of "Ubuntu" is worth nothing if you cannot name it "Ubuntu". Brand valuation has three main downsides:
 1. It takes time and resources to build
 2. It's hard to quantify
 3. And it's worth nothing if you can't _leverage_ it (ie sell your products at a higher price)
 
-Using Open Source as a Disruption Tool is also a very interesting one. Google used this strategy at least twice with Android and then Kubernetes in order to disrupt markets where they were not the #1 (and therefore, losing: [[There's only one winner]]).
+Using Open Source as a Disruption Tool is also a very interesting one. Google used this strategy at least twice with Android and then Kubernetes in order to disrupt markets where they were not the #1 (and therefore, losing: [[The winner takes it all]]).
 It's not _per-say_ generating profits, but it's a good strategy to get there. It's also not _per-say_ directly abusing Open Source contributors, but it's still (arguably) persuading workers to do free labour for an end that is essentially of benefit to you as a for-profit economic agent.
 
 Finally, the Bivalent License is a new model (~2023) popularised by Meta with their open-source LLM "LLaMa2". The strategy consists of using a conditional Licence. If you're a free rider but not making a profit, you can keep using it for free. However, if you start being profitable thanks to the use of the open-sourced asset, then you fall into the proprietary part of the Licence and have to seek a commercial agreement.
@@ -113,7 +113,7 @@ Or at least one that didn't involve global, coordinated, marxist-style regulatio
 
 Until I read the vision statement of [[DeSo]].
 
-What they were building there at [[DeSo]] was a decentralised social network leveraging "Influence" (ie, some kind of [[Brand value]]) effectively as _Capital_.
+What they were building there at [[DeSo]] was a decentralised social network leveraging "Influence" (ie, some kind of [[Brand Value]]) effectively as _Capital_.
 You could now invest your Influence, trade someone else's Influence, and bet on someone's —or your own— future Influence.
 
 In parallel, the fact that cryptos markets (DeFi) were able to (at least temporarily) move the traditional Global Economy (TradFi) was a Proof of Concept that building a new, decentralised, "web3"-style Economy could transform the Global System ([interesting read on DeFi vs TradFi regulations](https://anplanger.medium.com/the-threat-to-defi-is-not-regulation-4a2cf87d8f9a)).

@@ -4,7 +4,7 @@
 The Open Market aims to enable humans to innovate a lot more efficiently
 by building a distributed world of happy, fairly compensated workers.
 
-The Open Market envisions building an economic and financial subsystem based on Decentralised Finance tech. This new Open Market will serve as the financial infrastructure for Open Source funding. The Open Market creates a new marketplace within the bigger economic system, with a different paradigm and different incentives. 
+The Open Market envisions building an economic and financial subsystem, a [Curation Market](https://medium.com/@simondlr/introducing-curation-markets-trade-popularity-of-memes-information-with-code-70bf6fed9881) based on Decentralised Finance tech. This new Open Market will serve as the financial infrastructure for Open Source funding. The Open Market creates a new marketplace within the bigger economic system, with a different paradigm and different incentives. 
 
 The Open Market is designed to improve Capitalism.
 

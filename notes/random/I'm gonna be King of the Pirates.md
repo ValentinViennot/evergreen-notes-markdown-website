@@ -25,3 +25,8 @@ If you believe hard enough, the right persons will follow your dream.
 - [[Only believers can make the impossible happen]]
 
 - [[You can't guess the future, but you can make it]]
+
+
+References:
+- https://sceneswithsimon.com/p/why-we-like-pirates-on-the-depth
+- https://en.wikipedia.org/wiki/One_Piece

@@ -3,7 +3,7 @@ Innovation in 2023 is mostly coming from Start-ups and (Big) Corporations.
 
 Research is of course an important field, but it's rarely packed directly as an innovation.
 Research produces breakthroughs and advancements.
-And then companies turn these into tangible innovations (products and services).
+And then companies turn these into tangible innovation (products and services).
 
 But then... 
 
