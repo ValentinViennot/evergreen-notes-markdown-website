@@ -1,6 +1,6 @@
 When targeting an already busy market, the barriers of entry can be quite high.
 
-Especially in the tech industry ([[There's only one winner]]).
+Especially in the tech industry ([[The winner takes it all]]).
 
 If you're not first on the market, and you do want to be a player.
 Then here's a strategy for you:

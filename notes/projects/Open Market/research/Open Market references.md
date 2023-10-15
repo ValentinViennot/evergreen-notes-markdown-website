@@ -61,6 +61,44 @@
 - 
 - https://www.onlydust.xyz/ecosystems
 - 
+- https://github.com/sponsors
+- 
+- https://github.com/district0x/district-proposals/issues/3
+- 
+- https://radicle.xyz/
+	- Reinventing Git(hub, lab)
+	- Funding with Curation market: http://oscoin.io/
+	- 
+- https://bancor.network/
+- https://uniswap.org/
+- 
+- https://en.goteo.org/
+- https://bountysource.com/
+	- https://wiki.snowdrift.coop/market-research/other-crowdfunding
+- GitHub Sponsors
+- https://snowdrift.coop/
+- https://www.gofundme.com/
+- https://tip4commit.com/
+- https://www.coinbase.com/blog/introducing-the-coinbase-tip-button
+- https://www.hackerone.com/product/bug-bounty-platform
+- [Fiverr](https://www.fiverr.com/)
+- https://www.matthewthom.as/blog/fund-open-source/
+- 
+- https://meaningfulcode.org/
+- https://www.nunet.io/
+- https://openfund.com/
+- https://wellfound.com/
+- 
+- Hugging Face
+	- 'open' AI
+	- 
+- https://liberapay.com/
+- https://blog.replit.com/bounties
+	- Could be powered by the open market (as an OME or powered by an OME)
+	- 
+- [https://www.onlydust.xyz/](https://www.onlydust.xyz/)
+-  https://oss.capital/
+
 
 ## Articles
 
@@ -92,6 +130,13 @@
 - https://www.forbes.com/sites/forbestechcouncil/2023/02/02/how-to-make-open-source-profitable/?sh=7d8e1ab751b4
 - https://muldoon.cloud/2023/09/06/software-keeps-failing.html?utm_source=tldrnewsletter
 - https://forkast.news/mica-rules-published-official-journal/
+- https://github.com/C-ORG/whitepaper/
+- 
+- OSS business models: https://unzip.dev/0x00d-open-source-business-models/
+- https://github.blog/2019-06-28-maintainer-spotlight-daniel-stenberg/
+- 
+- https://formation.lefebvre-dalloz.fr/actualite/loi-pacte-quel-cadre-juridique-pour-les-cryptos-actifs-en-france
+- 
 
 
 - https://www.jointhequest.co/
@@ -101,4 +146,24 @@
 [https://en.m.wikipedia.org/wiki/Block,_Inc](https://en.m.wikipedia.org/wiki/Block,_Inc).  
 [https://spiral.xyz/](https://spiral.xyz/)
 
+
+
+## Collaborate with
+
+- The Linux Fondation
+- CNCF
+
+- Open Source Security Fondation
+	- https://openssf.org/
+		- https://www.bestpractices.dev/en
+			- https://www.bestpractices.dev/en/projects/63
+- Free Software Fondation
+	- https://www.fsf.org/fr
+- Open Software Fondation
+	- https://osf.io/
+- Open Infra
+- Open Software Initiative
+- https://openinventionnetwork.com/
+- https://www.spi-inc.org/
+- https://softwarefreedom.org/
 

@@ -47,6 +47,6 @@ _[[TODO]] / WIP_
 - Economic, technological, and societal systems are interdependent and co-influenced
 - Most innovation now happens through services and some software development
 - Open-source models are superior in all aspects to proprietary models
-- [[There's only one winner]]
+- [[The winner takes it all]]
 - [[At the end of a Monopoly game, there can only be one winner]]
 

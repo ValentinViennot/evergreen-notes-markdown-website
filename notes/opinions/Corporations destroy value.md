@@ -16,7 +16,7 @@ Yet still, as most of companies get bigger they become processes factories unabl
 
 The costs savings coming from centralised organisation does not compensate the opportunity cost of building in private ([[Open innovation is the healthiest competition]]).
 
-Because of market positions, marketing, or (quasi)monopolies ([[There's only one winner]]), typical organisations are able to sell and promote products and services that are not the best option.
+Because of market positions, marketing, or (quasi)monopolies ([[The winner takes it all]]), typical organisations are able to sell and promote products and services that are not the best option.
 
 In the end, current markets are only able to identify local optimums —but not maximum value.
 

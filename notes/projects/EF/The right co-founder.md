@@ -12,6 +12,8 @@ I must —I need to— be the one holding this vision until it becomes a true th
 Therefore, I am looking for the ideal CTO in order to share this journey together.
 ([[Good CTO, Great CTO]]) — ((_or maybe it's a **CMO, CFO, CRO... CxO**...?_))
 
+_Edit: am I looking for a co-founder? ([[I am not looking for a co-founder, I am looking for a pirates crew (and a ship)]])_
+
 I want to be the one responsible for the vision and its business model.
 I need someone who can take my vision and transform it into a technical product.
 

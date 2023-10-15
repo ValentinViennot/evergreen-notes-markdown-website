@@ -3,24 +3,47 @@ A bit like daily notes, this running note aims to gather my thoughts and journal
 - [Reading List](https://entrepreneurfirst.notion.site/Reading-List-e9bc6716ca14473fb280bd8433b7dea2)
 - [[EF shortlist]]
 
+## Week 4 ([[2023-week-41]])
+
+- _WIP_
+
+## Week 3 ([[2023-week-40]])
+
+"Take me to the pilot"
+
+- N/A
+
 ## Week 2 ([[2023-week-39]])
+
+"The heat pump"
 
 - This week I decided I would [[Do something crazy every day]]
 	- Allowing myself to dream too big ([[Don't be afraid to dream out loud]])
-	- As a consequence, I started reaching out out of my league
+	- As a consequence, I started reaching out out of my league (advisors, etc)
+		- [[Don't be afraid to ask]]
 - Started the week meeting with [[Edoardo]] and [[Sarah]] on Sunday
-	- I'll convince them to come on board with me
-	- But first I need to get things started and concrete
-- This week my goal was to do deep customer discovery on both ends
+	- I'll convince them to come on board with me when the time is right
+	- But first I need to get things started and tangible ([[Mapping Assumptions]])
+- This week my goal was to do deep consumer discovery on both ends
 	- Consumers
 	- Contributors
-- And to design an experiment to run on week 3 (the official first week of the programme)
-- Learnings are going to be kept private for now (not [[Building in public]] for this part)
-- 
-- 
-- TODO EOW: re-assess decision to stop looking for a co-founder
+- And to design an experiment that would run on week 3 (the official first week of the programme  — _Learnings are going to be kept private for now (not [[Building in public]] for this part)_
+	- Week 2, my learnings helped me prove the market potential exists: there is a market to be created and a leader place to be taken.
+- I believe that my decision to stop actively looking for a co-founder and trying to fit with the EF framework was the right one. In fact, I am now convinced that [[I am not looking for a co-founder, I am looking for a pirates crew (and a ship)]].
+	- I now need to move fast and make it as tangible as possible to start building
+		- And soon, shipping
+	- My vision is complex and will require many "[[Start-up]]s" (as per Eric Ries definition). The ambition is huge, and so is the potential success.
+		- This is my dream and **I must be the Captain of this ship.**
+			- [[As the Captain, you are responsible for the direction]]
+			- [[EF contract and tBTCoE dilution terms]]
+- Next week, my focus will be on
+	- Running experiments and research+discovery to de-risk my assumptions
+	- Re-assessing my decision to move on 'solo' (as a Captain)
+	- Having a clear plan for moving to the next stage (= building)
 
 ## Week 1 ([[2023-week-38]])
+
+"How I met my co-founder"
 
 - Started the week meeting with [[Andi]] (Sunday)
 	- We hadn't seen each other in person for 3 years
@@ -47,6 +70,8 @@ A bit like daily notes, this running note aims to gather my thoughts and journal
 			- I will re-assess this decision end of next week
 
 ## Week 0 ([[2023-week-37]])
+
+"Game plan"
 
 - I've been thinking a lot about [[What I want to build at EF]]
 	- There's a lot of unknowns and it's making me nervous
