@@ -14,14 +14,14 @@ For this virtuous cycle to spin, it has to start somewhere. By focusing on my ha
 
 **Smarter, happier people don't just make a better "me" or a better "you." They make a better "us," capable of facing whatever comes our way.**
 
-Read more: [[My values]], [[Happiness]], [[What's our goal?]], [[Success doesn't lead to Happiness, Happiness leads to success]], [[The happy secret to better work]]
+Read more: [[My values]], [[My principle]], [[Happiness]], [[What's our goal?]], [[Success doesn't lead to Happiness, Happiness leads to success]], [[The happy secret to better work]]
 
 [[Looking 5 years ahead]] [[Looking 10 years ahead]]
 
 --
 
-"Education is the most powerful weapon which you can use to change the world." - Nelson Mandela
+_"Education is the most powerful weapon which you can use to change the world."—Nelson Mandela_
 
 ...also...
 
-"There is no U (you) and I in Education" — Frank Underwood ([[House of Cards]], Season2)
+_"There is no U (you) and I in Education"—Frank Underwood ([[House of Cards]], Season2)_

@@ -12,20 +12,24 @@ They can then get used as the starting point for building logical arguments and 
 _[[TODO]] / WIP_
 
 - [[Human Labour is what creates Value]]
+	- The creation of Intellectual Property is Instant Value
 - [[Open Source should always be Free]]
 	- Intellectual Property (Knowledge) is Free
 	- Work of Contributors (Labor) is Free
 	- Innovation is Free
 - [[Brand Value]] can be defined as the amount of investment that went into it
+	- In other words, the ability for one project to attract contributions/investments.
 - [[Brand Equity]] can be speculated as the future amount of investment that will get into it
+	- In other words, the estimated future ability for one project to innovate faster.
 - Time, Influence, and Money are equivalent currencies and can be capitalised
-- 
+
+
 
 
 WIP zone:
 ---
 
-- 
+
 - AGPL licence for editing and sharing ([[Open source should be the only way]])
 	- Unmodified can be used (as a dependency or not) without a problem
 - Brand (Trademark) belongs to brand-holders (ie project coin holders)

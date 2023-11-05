@@ -1,4 +1,4 @@
-_Regularly-updated Note. Last update: September 23th, 2023_
+_Regularly-updated Note. Last update: November 5th, 2023_
 
 Welcome to my [/now note-page](https://sive.rs/nowff) (read: [[About_these_notes]]).
 
@@ -10,7 +10,7 @@ As with all the other [[Evergreen notes]] here, the intended audience is myself.
 ### Current focus
 
 - Building [[The Biggest Tech Company on Earth]]
-	- With the support of [[EF]] ([[EF W23 PA CORE]])
+	- Participating in the [[EF]] program ([[EF W23 PA CORE]])
 	- Biggest leverage to contribute to [[My mission]]
 	- Building a company aligned with [[My values]]
 	- Meeting great people and sharing ideas
@@ -25,8 +25,9 @@ As with all the other [[Evergreen notes]] here, the intended audience is myself.
 
 ### Currently reading ([[Books and good reads]])
 
+- Technofeudalism
 - The Lean Startup
-- Pyramid Principle Writing
+- (Pyramid Principle Writing)
 - (Sapiens)
 - (De l'Esprit des Lois)
 - (Games people play)
@@ -38,6 +39,7 @@ As with all the other [[Evergreen notes]] here, the intended audience is myself.
 
 - Family guy
 - [[Heureka]]
+- WeCrashed
 - ([[House of Cards]])
 - (What we do in the shadows)
 

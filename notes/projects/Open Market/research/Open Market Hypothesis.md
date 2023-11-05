@@ -20,6 +20,40 @@ Hypothesis should be things we can only answer with a (product) experiment.
 
 _[[TODO]] / WIP_
 
+
+Value creation hypothesis: Revenue
+
+- FLOSS assurance model
+- Users feature-level crowdfunding
+- Gov strategic targeted funding
+- Enterprise needs (problem solving)
+- GSIs personalisation needs (problem solving)
+
+Value creation hypothesis: Investment
+
+- Gov investment funds
+- VC/LP investment funds
+- Consumers wallets
+
+Growth hypothesis: Acquisition
+
+- FLOSS projects joining the platform
+- FLOSS contributors joining the platform
+- Funding flowing through the platform
+
+Growth hypothesis: Retention
+
+- FLOSS contributors not cashing out
+- Investors holding long term positions
+- Positive cash flows towards the system
+
+Growth hypothesis: Recommendation
+
+- FLOSS contributors inviting their peers
+- FLOSS fondations federating/recommending
+
+
+
 - OSS consumers are ready to pay for future open-source development in order to get additional value from the software that they use or influence its direction ([[Human Labour is what creates Value]])
 	- pay-for-play ability to influence roadmap
 	- pay-for-features
@@ -41,3 +75,6 @@ _[[TODO]] / WIP_
 - 
 
 - TODO: Would the BRAND VALUE as defined by Open Market get recognised by external entities? (eg markets, auditors, govs)
+
+
+

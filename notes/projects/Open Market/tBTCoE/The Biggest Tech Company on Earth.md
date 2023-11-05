@@ -25,7 +25,7 @@ We are building **the biggest Investment Fund and Platform in Open Source Softwa
 
 Investing in the (future) [[Brand Value]] of Open Source projects, as projected by the estimated amount of long-term investment (capital).
 
-**[[Open Source Software as a Commodity -Pioneering profitable FOSS venture capital]]**
+**[[Open Source Software as a Commodity -Pioneering profitable FLOSS venture capital]]**
 
 Conceptually, **the biggest Open Source Software Distribution**. (OSSD?).
 
@@ -179,7 +179,7 @@ Depending on execution, another strategy might be to run two brands of OME in pa
 
 ##### MVP: The Pilot. Connecting institutions to FOSS projects.
 
-[[The Open Market White Paper (Outline)]]
+[[The Open Market White Paper (Method-Outline)]]
 
 From [our research](https://miro.com/app/board/uXjVNf3aY_Y=/?share_link_id=404347573726) , the best starting point seem to be connecting institutions with a sovereignty deep-motivator to FOSS projects with our goal being to align incentives.
 
@@ -194,7 +194,7 @@ The goals of the pilot would be to:
 - Proof-point our longer-term vision
 - Become more trustable by compliantly working with institutions
 
-The EU & French markets are perfect entry points ([[2023-10-12 Software used by the DINUM]]).
+The EU & French markets are perfect entry points ([[2023-10-12 Software (OSS projects) used by the DINUM]]).
 
 [[2023-09-30 Roadmap]]
 [[2023-09-27 Roadmap]]

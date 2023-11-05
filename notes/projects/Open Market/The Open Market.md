@@ -33,3 +33,7 @@ Open Market's **underlying motivations**:
 
 _You can also read my related blog series (WIP):_
 _https://mindthegapblog.com/posts/open-market-series/ ([[blog/posts/open-market-series/index|source]])._
+
+
+
+_"The difficulty lies not so much in developing new ideas as in escaping from old ones." —John Maynard Keynes_
