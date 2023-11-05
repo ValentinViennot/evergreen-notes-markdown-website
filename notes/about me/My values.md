@@ -61,7 +61,3 @@ Identify and nurture the inherent intellectual and creative potential in each in
 
 Give it a try. Methodically experiment new things, evaluate the results and commit to pragmatically, logically take action to re-assess the direction.
 [[Experiment, Evaluate, Adjust, Repeat]].
-
-
-[[TODO]]
-

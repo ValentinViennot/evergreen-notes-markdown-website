@@ -11,3 +11,6 @@ Brand Value is different from [[Brand Equity]], which measures consumer sentimen
 - https://en.wikipedia.org/wiki/Brand_valuation
 - https://www.entrepreneur.com/money-finance/how-to-calculate-a-brands-real-dollar-value-before/439704
 - https://interbrand.com/best-brands/
+
+
+_"Price is what you pay. Value is what you get." —Warren Buffett_

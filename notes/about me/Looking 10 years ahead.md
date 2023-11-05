@@ -8,3 +8,6 @@ I will have started to build on an ever-bigger ambition:
 - [[Civilisation]]
 - [[Humanity]]
 - [[Evolution]]
+
+
+_"He who has a why to live for can bear almost any how." —**Friedrich Nietzsche**_

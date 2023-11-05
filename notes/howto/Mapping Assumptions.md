@@ -12,7 +12,7 @@
 4) Define your tests (see below and [cheatsheet](https://www.linkedin.com/posts/ant-murphy_productmanagement-product-agile-activity-7077049982826016768-D7gu?utm_source=share&utm_medium=member_desktop))
 5) Timebox ([[Stagnation = Death]])
 
-![](./MappingAssumptions.png)
+![](MappingAssumptions.png)
 
 - [Assumptions mapping on Mural website](https://www.mural.co/blog/intro-assumptions-mapping)
 - [LinkedIN post by Ant Murphy 1](https://www.linkedin.com/posts/ant-murphy_productmanagement-product-agile-activity-7077049982826016768-D7gu?utm_source=share&utm_medium=member_desktop)

@@ -5,7 +5,7 @@
 
 In [Why open source isn't profitable](https://mindthegapblog.com/posts/why-open-source/), I explain the 'Curse of Competition' as a sort of [[Tragedy of the Commons]]: Because open source intellectual property is free to access, all economic agents will exploit it without giving back (known as the 'free riders' issue).
 
-With the same analysis, we can explain how and why our current dominant economic system will eventually consume all of the available natural resources and destroy all living species. That is, unless proper regulations were to be globally adopted. (**TODO: read and link Eleonor's work**)
+With the same analysis, we can explain how and why our current dominant economic system will eventually consume all of the available natural resources and destroy all living species. That is, unless proper regulations were to be globally adopted. ([[Principles on Governing the Commons]])
 
 ## Two very different tragedies of the commons
 
@@ -78,7 +78,7 @@ Unless we successfully create incentives to invest back into the 'Commons'.
 
 ### Curation markets: New economies
 
-About seven years go, @simondlr started writing about [Curation Markets](https://medium.com/@simondlr/introducing-curation-markets-trade-popularity-of-memes-information-with-code-70bf6fed9881). A new kind of financial instrument that would be able to create incentives to [Save the Planet](https://medium.com/@simondlr/saving-the-planet-making-it-profitable-to-protect-the-commons-50393906fe22).
+About seven years go, @simondlr started writing about [Curation Markets](https://medium.com/@simondlr/solving-price-discovery-of-non-rivalrous-goods-with-curved-bonding-27b2186d55d5). A new kind of financial instrument that would be able to create incentives to [Save the Planet](https://medium.com/@simondlr/saving-the-planet-making-it-profitable-to-protect-the-commons-50393906fe22).
 
 The principle is simple: tokenising a scarce resource and using a mathematical formula to incentivise more new investments. This results in a financial market with clear rules, ability to make a profit & influence the game, and potential value creation.
 
@@ -296,4 +296,10 @@ And we can't let our economic system choose for us ; we know the outcome.
 We need conscious human decisions now.
 
 **Human constructs, Technology and Economy, are here to serve humans. Not the opposite.**
+
+
+
+-TODO: CA feedback
+-TODO: once feedback, share with contacts?.
+-TODO: share on slack with EF people 'https://keep.google.com/u/0/#NOTE/1ntfAmUTHHFvL3CBfEa-HBY3LPO-myDOEOURBEY38XHBy0G2bwkyHqRNyEZpCPJE' —in reply to https://efglobalcommunity.slack.com/archives/C05THDPGBKL/p1697630240743609
 

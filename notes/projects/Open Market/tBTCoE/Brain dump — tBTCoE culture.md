@@ -99,11 +99,29 @@ Recommended books, series, movies, songs, places, artworks...
 - Blockaus Hamburg  
 - One piece
 - Berlin?
-- 
+- Good times  
+- Give it up (song)
+- Believe Cher Remix  (song)
+- Station F (location)
   
-  
-(Notion?)
 
+[https://killbill.io/](https://killbill.io/) 
+
+  
+--> IDEATE WITH CO-FOUNDERS/EMPLOYEES  
+About how to improve processes, tools, culture, etc.
+--> Listen and take action/reply to feedback
+	ACCEPT FEEDBACK
+Then, regularly , 'THE FUCKING COMMITTEE'
+	Remind why it's here
+	Have CET, SET, C and P represented
+	Discuss top feedback and proposals
+	Empower experiments with a commitment to evaluate
+	Allocate budget and time to these experiments
+	Log and Communicate outcomes of these meetings
+	Have them in public. BE KIND. SEEK TO UNDERSTAND.
+
+(Notion?)
 
 
 [[How to run a company with (almost) no rules]]
@@ -112,4 +130,22 @@ Recommended books, series, movies, songs, places, artworks...
 [[Happy workers are better workers]]
 
 -> invite some "employees" to C-level meetings.
+
+
+Au lieu de prendre 25% proposer un seuil au delà duquel on ne prend plus rien?  
+Faire ideation des risques (eg difficulté d'emprunt) et trouver des solutions ( eg tBTCoE se porte caution , prête à taux 0, etc)  
+Partenariats gov/SNCF/Europe/ trajets gratuits en Europe en train
+
+
+SET also incentivised on portfolio? (Need to track per manager)  
+Best teams have cash bonuses? (best team = best manager?)  
+How to avoid focusing on short term outcomes?
+
+Contributor attribué par projets à des Partners et hiérarchiquement à SET
+
+SET: compare performance within vs outside tBTCoe
+
+VP of Engineering instead of Head of (?)  
+TODO: comprendre ces termes  
+TODO: diagram du org chart avec flèches nominates/removes etc , balance power , clear power distribution and accountability
 
