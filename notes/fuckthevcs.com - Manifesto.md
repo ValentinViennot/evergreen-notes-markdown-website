@@ -288,11 +288,11 @@ We believe in cooperation, because we believe it to be the reason why the human 
 
 Our ability to cooperate, to suppress our primal instincts, is in fact our biggest strength.
 
-We are in the age of stories, the age of knowledge.
+We are in the age of stories, the age of knowledge, the age of wisdom.
 
 #### 3. Empowerment through decentralised participation
 
-"""
+"""     
 Let's push the emperors into the ocean    
 Don't need a goon to flirt with devotion    
 With every hour, our number increases    
@@ -348,6 +348,7 @@ We are redefining the economic system with a new investment model.
 
 We believe that profit incentives should be transparent, direct, and accessible.
 We believe that innovation should be open, collaborative, and decentralised.
+We believe that working is an investment, and consuming as well.
 
 ### You
 
@@ -356,14 +357,14 @@ If you have time, money, or ideas, then you **can** actively contribute!
 The current economic system is not going to change without **you**.
 
 The economy is a shared story that we tell ourselves.
-We, our movement, want to change this narrative.
+We, our movement, want to change the narrative.
 
-We need you.
+We need **you**.
 
 ### We
 
-We are building the first open source investment community.
-We are building Earth's biggest innovation marketplace.
+We are building the first open source investment community:
+Earth's biggest innovation marketplace.
 
 Our mission is to democratise technology and finance.
 
@@ -397,7 +398,8 @@ Equitable progress is our goal.
 	- [ ] Data and research.
 	- [ ] Quotes, personal stories, testimonials. Essays, posts etc.
 	- [ ] Case studies and examples.
-- [ ] Roadmap. What do we organise? What are the next steps?
+- [ ] **Roadmap**. What do we organise? What are the next steps?
+	- [ ] Should clearly address / link to HOW we solve the raised issues.
 	- [ ] Community: Meetups, discussions, debates.
 	- [ ] Crowdfunding to develop the platform. (start in private, then once goals reached build in public)
 	- [ ] Federate.
