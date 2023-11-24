@@ -44,7 +44,7 @@ Effectively becoming the first investment fund of [[The Open Market Economy]].
 
 Therefore, we will operate an [[Open Market Exchange]]. This will be a separate legal entity, owned by tBTCoE. We will ensure transparency and proper accounting.
 
-We will support the independence of the [[Open Market Fondation]].
+We will support the independence of the [[Open Market Foundation]].
 
 ### Culture
 
@@ -153,7 +153,7 @@ With the **unfair advantage** that WE created the New Open Economy.
 (Although anyone is able to join and become an Exchange!).
 
 > It is essential that the new Open Economy is completely open to new participants.
-> This will be the role of the [[Open Market Fondation]] to make fair decisions.
+> This will be the role of the [[Open Market Foundation]] to make fair decisions.
 > We are creating a New Economy, not just a startup.
 > Our startup is "just" the biggest player in this New Economy.
 > And, eventually, the biggest tech player in the traditional economy.

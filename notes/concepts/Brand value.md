@@ -13,4 +13,4 @@ Brand Value is different from [[Brand Equity]], which measures consumer sentimen
 - https://interbrand.com/best-brands/
 
 
-_"Price is what you pay. Value is what you get." —Warren Buffett_
+_"[[Price is what you pay. Value is what you get.]]" —Warren Buffett_

@@ -110,9 +110,9 @@ We are ironically hoping for random tech 'geniuses' billionaires to save us.
 
 "It's easier to imagine the end of the world than the end of capitalism."
 
-Our short-term profits-led economic system has created irreconcilable issues that turned into global challenges: climate change, loss of biodiversity, depletion of Earth's resources, wealth and wage inequalities, political polarisation. And we—the workers and younger generations—want to end this system that we did not create. We understand that **we won't overcome these challenges without a drastic change in the way society operates**.
+Our short-term profits-led economic system has created irreconcilable issues that turned into global challenges: climate change, loss of biodiversity, depletion of Earth's resources, wealth and wage inequalities, political polarisation. **And we—the workers and younger generations—want to end this system that we did not create**. We understand that we won't overcome these challenges without a drastic change in the way society operates.
 
-Whether 'Capitalism' is the problem or not is irrelevant (in fact, Capitalism has arguably already been replaced with a form of Techno-feudalism, exploiting attention and platform rents, and it is far worse).
+Whether 'Capitalism' is the problem or not is irrelevant (in fact, Capitalism might have already been replaced with a form of Techno-feudalism, exploiting attention and platform rents, and it is far worse).
 
 Our current economic system is broken and it is our duty to fix it.
 
@@ -228,15 +228,15 @@ Growth isn't inherently good or bad. Neither is progress.
 
 We don't want to work more.     
 We don't want to consume more.     
-We don't want to always have more.     
+**We don't want to always have more.**     
 
 We want to innovate faster and bigger.     
 We want to invest more in meaningful progress.     
-We want to explore ourselves, our planet, the universe.     
+**We want to explore ourselves, our planet, the universe.**     
 
 We want to work less.     
 We want to consume less.     
-We want to have less, but better.     
+**We want to have less, but better.**     
 
 We want to live.     
 We want to love.     

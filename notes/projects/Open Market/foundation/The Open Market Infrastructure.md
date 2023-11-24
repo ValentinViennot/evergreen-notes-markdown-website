@@ -1,5 +1,4 @@
-[[The Open Market]] defines a new Economy based on the [[Open Market Axioms]].
-Its real-world implementation would happen through the open [[Open Market Protocol]] under the governance of an independent, non-profit [[Open Market Fondation]]. [[Open Market Exchange]] places would run the Protocol and constitute the infrastructure.
+[[The Open Market]] defines a new economy ([[The Open Market Economy]]) based on the [[Open Market Axioms]]. Its real-world implementation ([[Open Market Scenarios]]) would happen through the open [[Open Market Protocol]] under the governance of an independent, non-profit [[Open Market Foundation]]. [[Open Market Exchange]] places would run the Protocol and constitute the infrastructure.
 
 [[TODO]]: diagram of the OM stack.
 
@@ -25,8 +24,9 @@ Leveraging [[Brand Value]] (through [[Brand Equity]]) is a common way for open-s
 13. In [[The Open Market Economy]], _Value_ is defined as the instant cost of IP creation. To some extent, this allows some comparison with the Energy Market.
 14. Projects would now be financially incentivised to continuously keep innovating and attract more and more contributions with competitive, quality products and efficient governance models. (see scenarios in #5)
 15. Because the 'free' nature of Work and Intellectual Property (IP, knowledge) is axiomatic to the Open Market design and definitions ([[Open Market Axioms]]), we can conclude that the outcome of the Open Market will be to **free innovation**.
+	1. A project entering the open market without being true open source (provided we don't forbid this scenario) would be the equivalent of a company IPO'ing without disclosing their financial results.
 
-Note that [[The Open Market]] doesn't replace the need for projects' monetisation. However, it incentivises all innovation to be open and cover for the costs of R&D. Open-source projects would now fairly compete with close-source innovation and face the same, much less problematic (#2), monetisation challenges. [[The Open Market Infrastructure]] will enable many new models such as integrating B2C feature-level crowdfunding ([[Open Market APIs Project Ideas]]). [[The Open Market]] proposal effectively turns Open Source Brands into a Commodity ([[Open Source Software as a Commodity -Pioneering profitable FOSS venture capital]]). As a consequence, products will be much better (quality) and less expensive for the end consumers.
+Note that [[The Open Market]] doesn't replace the need for projects' monetisation. However, it incentivises all innovation to be open and cover for the costs of R&D. Open-source projects would now fairly compete with close-source innovation and face the same, much less problematic (#2), monetisation challenges. [[The Open Market Infrastructure]] will enable many new models such as integrating B2C feature-level crowdfunding ([[Open Market APIs Project Ideas]]). [[The Open Market]] proposal effectively turns Open Source Brands into a Commodity ([[Open Source Software as a Commodity -Pioneering profitable FLOSS venture capital]]). As a consequence, products will be much better (quality) and less expensive for the end consumers.
 
 Commodifying Open Source Software development will have high-leverage outcomes on the global economy ([[Open innovation is the healthiest competition]]):
 
