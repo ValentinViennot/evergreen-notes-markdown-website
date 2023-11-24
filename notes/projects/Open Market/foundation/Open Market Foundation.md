@@ -1,8 +1,8 @@
-The [[Open Market Fondation]] is a non-profit organisation.
+The [[Open Market Foundation]] is a non-profit organisation.
 
 The Fondation operates will full transparency and on a Meritocracy basis.
 
-Leaders of the [[Open Market Fondation]] are meritorious Open Source figures.
+Leaders of the [[Open Market Foundation]] are meritorious Open Source figures.
 
 [[Open Market Exchange]]s support the Fondation operations with paid memberships.
 

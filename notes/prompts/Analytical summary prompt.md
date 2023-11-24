@@ -1,0 +1,1 @@
+Here's a project I am working on. Use plain english. Write down a short comprehensive analytical summary, extracting non-obvious insights.

@@ -139,11 +139,11 @@ The investments come in different forms and from different actors.
 
 ###### Business Model and Positioning
 
-Our Company will need to operate an [[Open Market Exchange]] (OME) on [[The Open Market Infrastructure]] (and federated with the [[Open Market Fondation]]) in order to create [[The Open Market Economy]] required to run our investment business.
+Our Company will need to operate an [[Open Market Exchange]] (OME) on [[The Open Market Infrastructure]] (and federated with the [[Open Market Foundation]]) in order to create [[The Open Market Economy]] required to run our investment business.
 
 The OME business **must have separate accounting** ([FTX bankruptcy](https://en.wikipedia.org/wiki/Bankruptcy_of_FTX)).
 
-We don't need the OME business to be competitive and , in fact , it is expected that its value will eventually get commoditised (as we will hand over the [[Open Market Protocol]] to the [[Open Market Fondation]] and open-source the platform code).
+We don't need the OME business to be competitive and , in fact , it is expected that its value will eventually get commoditised (as we will hand over the [[Open Market Protocol]] to the [[Open Market Foundation]] and open-source the platform code).
 
 In terms of positioning, it might even be strategic for our OME to be non-competitive.
 Comparing with the role of Luxury Brands vs Everyday Brands in the retail market, our OME would provide thought leadership and focus on product innovation. Our role will be to define the future and enable the market, but not to address the mass. We can leave this opportunity to competitors and voluntarily create a healthy gap for competitors in the market by increasing our OME fees ([Marketing Comparison between Luxury Brands and Everyday Brands, Xinyi Chen, California college of the arts, 2023](https://www.researchgate.net/publication/368465649_Marketing_Comparison_between_Luxury_Brands_and_Everyday_Brands)).

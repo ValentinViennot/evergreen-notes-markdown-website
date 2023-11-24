@@ -1,7 +1,7 @@
-**Home**   Contributors   Users   Investors   Value creation   Manifesto     We're fundraising!
+**Home**   Contributors   Users   Investors   Value creation   [[fuckthevcs.com - Manifesto|Manifesto]]     We're fundraising!
 -
 
-##### "We deserve better" (-> Manifesto)
+##### "We deserve better" (-> [[fuckthevcs.com - Manifesto|Manifesto]])
 ### Open innovation by and for all
 
 Tech innovation is dominated by monopolistic platforms and lacks transparency.
@@ -12,7 +12,17 @@ Platforms made all of us prisoners of their incentives.
 Venture capitalists now _seek_ to create monopolies.
 It's a game that we can only lose.
 
-Let's reinvent the game. (scroll down)
+**Let's reinvent the game.** (scroll down)
+
+
+## Investing in communities with a purpose
+
+**Stop** consuming. **Start** investing.
+Deploy your capital on communities with a purpose.
+**Benefit from better open-source product at low to no cost.**
+
+Together we grow stronger and further. You can play a part too.
+
 
 ##### Reinventing organisations
 What is value? Why do we work?
@@ -21,7 +31,8 @@ What is value? Why do we work?
 
 Our movement redefines value creation.
 We propose a decentralised investment platform.
-Investing in communities with a purpose, focused on tomorrow.
+**Investing time and money in purpose-led communities**.
+Focused on tomorrow.
 
 Join the waitlist-> Sign me up as a...
 - Project contributor (I've got skills!)
@@ -60,20 +71,20 @@ Let's invest in our tomorrow, today.
 ##### The future of work is open, collaborative, decentralised
 
 - We advocate for open-source collaboration as a means to drive genuine innovation and inclusivity.
-- We redefine "investment" as active participation in innovation, ensuring benefits are shared among all contributors.
+- We redefine 'investment' as active participation in innovation, ensuring benefits are shared among all contributors.
 - We adopt a decentralised approach to empower individuals and communities, moving away from centralised control.
 
 ##### Innovation with a purpose
 (link to value creation section)
 
-Price = Time x Brand
+`Price = Time x Brand`
 
 ###### Never pay anymore. Invest.
 (link to users section)
 
 Buying products generate margins, margins generate profits, profits generate (hopefully) investment, investment (hopefully) generates better products.
 
-Why not pay the right price and invest directly?
+Why not pay the right price and chose to invest in what you believe?
 
 ###### Never work anymore. Invest.
 (link to contributors section)
@@ -81,13 +92,13 @@ Why not pay the right price and invest directly?
 Working is an investment of your time. Time is the ultimate and most valuable currency.
 There is no right exchange value for your labor, only you can decide what's fair.
 
-Why not get a share of what you built?
+Why not invest your time and get a share of what you built?
 
 ##### Free users. Free workers. Free knowledge.
 
 Free innovation.
 
-##### We are building the next open source investment community.
+##### We are building the first open source investment community.
 
 Manifesto — Become an Investor
 
@@ -105,9 +116,8 @@ Unfortunately, that's how it works.
 ###### How we are going to use the money
 
 We are building a new economy, and money is the fuel of the economy.
-Most of the effort we're putting in this project is for free, built on optimism.
+Most of the individual effort we're putting in this project is for free, built on optimism.
 
 The funding is going to be used for,
 - Paying contract work (legal, finance, design, programmers...)
 - Inject in the new system (= grease)
-

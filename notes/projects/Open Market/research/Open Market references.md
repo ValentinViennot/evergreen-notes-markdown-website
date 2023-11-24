@@ -75,6 +75,7 @@
 - https://en.goteo.org/
 - https://bountysource.com/
 	- https://wiki.snowdrift.coop/market-research/other-crowdfunding
+- Snowdrift
 - GitHub Sponsors
 - https://snowdrift.coop/
 - https://www.gofundme.com/
@@ -122,8 +123,26 @@
 - https://opensauced.pizza/
 - 
 - http://iang.info/fr/license.html
+- https://labanquiz.com/
 - 
-
+- www.aktionariat.com
+- 
+- Shelling Point
+- https://forgoodfirstissue.github.com/
+- 
+- OSPO
+	- https://blog.opensource.org/what-is-an-open-source-program-office-and-why-you-should-have-one/
+	- 
+- Dominant assurance contracts
+	- https://en.wikipedia.org/wiki/Assurance_contract#Dominant_assurance_contracts
+- Ethereum by Vitalik Buterin
+- Protocol Labs by Juan Benet
+- Gitcoin by Kevin Owocki
+- Optimism by Karl Floersch
+	- https://www.optimism.io/apps/all
+- Future of Life Institute & CSER by Jaan Tallinn
+- Schmidt Ventures by Tom Kalil
+- Shelling point.
 
 ### Competition
 
@@ -210,7 +229,7 @@
 - https://blog.goodaudience.com/rewriting-the-story-of-human-collaboration-c33a8a4cd5b8
 - 
 - https://isaiahtaylor.com/an-overview-of-modern-capitalism
-- 
+- https://dev.mirror.xyz/llJ_AboiDJwB_ZAFz-CXU7fL2p8v5Wz6MjfluLafewQ
 
 ## Collaborate with
 
@@ -243,6 +262,7 @@ Karen Sandler
 ## TODO: Funds/Grants programs
 
 
+- NGI
 - https://sloan.org/programs/digital-technology/better-software-for-science
 	- https://chaoss.community/
 - https://www.mozilla.org/en-US/moss/
@@ -256,7 +276,16 @@ Karen Sandler
 	- Vercel
 	- Pydantic
 	- Prisma
-- 
+- Schmidt Ventures
+- Funds and ventures aimed at economical transformations
+- Shelling Point
+
+- Le prêt d’amorçage de Bpifrance ;
+- Les financements dédiés aux projets innovants ;
+- Le [Crédit d’impôt recherche](https://www.legalplace.fr/guides/credit-impot-recherche/) ;
+- Les bourses French Tech.
+- prêt d'honneur
+- Crédit d’impôt recherche
 
 
 The philanthropic world is stepping up too. The Ford Foundation, the Sloan Foundation, [Omidyar Network](https://omidyar.com/responsible-technology-partners/), and the Chan Zuckerberg Initiative, as well as smaller organizations like Code for Science and Society, have all recently [begun](https://www.prnewswire.com/news-releases/major-philanthropies-tackle-inequality-by-strengthening-how-open-source-code-is-developed-and-maintained-301239220.html) or [expanded](https://cdn2.assets-servd.host/css-site/production/resources/CSS-Annual-Report-2022.pdf) their efforts to support open-source research, contributors, and projects

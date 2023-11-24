@@ -9,6 +9,22 @@ This Note is about studying this new Economy.
 What are its implications?
 What are thesis and models we can formulate?
 
-**[[TODO]]** / WIP
+- [[Open Market Scenarios]]
 
-[[TODO]]: diagram of the OM economy (value creation) + vs tradFi.
+**[[TODO]]** / WIP
+- diagram of the OM economy (value creation) + vs tradFi.
+
+
+
+- debt creation
+- value creation and capture
+- zero (positive?) sum game 
+- DACs
+- spread between buy and sell
+- undiluted brand equity
+- options / future
+- indexes
+- timing / scheduler
+- open market exchange guarantees
+
+
