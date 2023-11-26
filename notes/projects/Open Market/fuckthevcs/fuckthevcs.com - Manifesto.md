@@ -1,4 +1,4 @@
-[[fuckthevcs.com - Home|Home]]   Contributors   Users   Investors   Value creation   **Manifesto**     We're fundraising!
+[[fuckthevcs.com - Home|Home]]   [[fuckthevcs.com - Contributors|Contributors]]   Users   Investors   Value creation   [[fuckthevcs.com - Manifesto|Manifesto]]     We're fundraising!
 -
 
 [link to git file to edit-suggest changes]
@@ -10,7 +10,7 @@ We stand at the crossroads of a digital revolution.
 
 The path we choose now will shape the future of humanity.
 
-Let us choose wisely, with foresight, empathy, and commitment to a world where technology serves a fair, sustainable future for all.
+Let us choose wisely, with foresight, empathy, and commitment to a world where technology serves a fair and sustainable future for all.
 
 
 **We all have the right to invest in and get returns from technology.**
@@ -36,7 +36,7 @@ We are upholding the **principles of democracy**, encouraging active participati
 
 We are empowering **transformative open technology** to solve the most pressing challenges of our time. We only believe in the open, decentralized, and equitable kind of innovation.
 
-We are committed to **continuous progress**, always pushing the boundaries of technology to drive positive change. Yet, we assert that growth doesn't equal progress.
+We are committed to **continuous progress**, always pushing the boundaries of technology to drive positive change. Yet, we assert that growth does not equal progress.
 
 We are determined.
 
@@ -159,7 +159,7 @@ Price is what we pay to access traded value.
 Price is the instantaneous exchange value.
 
 In theory, free markets should ensure 'fair' prices. Meaning that,
-1. We all pay the same price for the same good or service.
+1. We all pay the same price for the same good or service,
 2. It's the optimal (i.e. lowest) price we could have paid.
 
 As utilitarians, we aim for the Pareto optimum: an optimal equilibrium situation where better for one would mean worse for others.
@@ -303,7 +303,7 @@ Our ability to cooperate, to suppress our primal instincts, is in fact our bigge
 
 We are in the age of stories, the age of knowledge, the age of wisdom.
 
-#### 3. Empowerment through decentralised participation
+#### 3. Empowerment through decentralized participation
 
 """     
 Let's push the emperors into the ocean    
@@ -405,8 +405,14 @@ Equitable progress is our goal.
 
 
 
+_"The difficulty lies not so much in developing new ideas as in escaping from old ones." —John Maynard Keynes_
+
+_"The situation is desperate, anything is possible."—John Cage_
+
+
 
 ---
+
 
 
 

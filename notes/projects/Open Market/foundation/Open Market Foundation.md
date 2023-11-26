@@ -14,4 +14,4 @@ This involves:
 - Developing and promoting the [[Open Market Protocol]]
 - Coordinating and defending the [[Open Market Exchange]] places
 - Protecting [[The Open Market]] from any kind of abuse
-- Lobbying governments and regulators to support [[The Open Market Economy]]
+- Lobbying governments and regulators to support [[Open Market Economy]]

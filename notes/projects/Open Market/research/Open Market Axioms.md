@@ -1,7 +1,7 @@
 
 **Axioms for [[The Open Market]].**
 
-Axioms are the fundamental rules we define for our new system ([[The Open Market Economy]]).
+Axioms are the fundamental rules we define for our new system ([[Open Market Economy]]).
 
 In general, Axioms are fundamental statements or propositions that are considered self-evidently true within a particular logical or mathematical system.
 
