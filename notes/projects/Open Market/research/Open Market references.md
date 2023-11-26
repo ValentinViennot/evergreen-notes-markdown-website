@@ -143,6 +143,12 @@
 - Future of Life Institute & CSER by Jaan Tallinn
 - Schmidt Ventures by Tom Kalil
 - Shelling point.
+- 
+- http://openfuture.eu/
+- 
+- https://www.ow2.org/
+- https://nlnet.nl/
+- 
 
 ### Competition
 

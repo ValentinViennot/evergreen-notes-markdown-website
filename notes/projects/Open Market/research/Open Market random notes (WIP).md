@@ -140,7 +140,7 @@ Why is that?
 	- Better define the vision, ie HOW DOES IT WORK exactly
 		- ie, the postulates and thesis and formulas
 			- ie, The New Economy
-				- [[The Open Market Economy]]
+				- [[Open Market Economy]]
 	- Validate biggest hypothesis that will generate profit
 
 		- Two-sided market: need to care about both sides

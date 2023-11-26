@@ -40,7 +40,7 @@ _([[TODO]]: Pay-for-play vs Subscription-Audible-type model?)_
 
 Our Company will run on [[The Open Market Infrastructure]].
 
-Effectively becoming the first investment fund of [[The Open Market Economy]].
+Effectively becoming the first investment fund of [[Open Market Economy]].
 
 Therefore, we will operate an [[Open Market Exchange]]. This will be a separate legal entity, owned by tBTCoE. We will ensure transparency and proper accounting.
 
@@ -87,7 +87,7 @@ Just like [[EF]] does with traditional Entrepreneurs, we fund them to achieve th
 
 ###### Two-sided market
 
-Our Company, tBTCoE, is conceptually a two-sided market between the old, traditional economy and the new, Open Economy ([[The Open Market Economy]]).
+Our Company, tBTCoE, is conceptually a two-sided market between the old, traditional economy and the new, Open Economy ([[Open Market Economy]]).
 
 One one end, we serve users, customers of Open Source Software solutions.
 On the other end, we serve Open Source Contributors, the new Entrepreneurs.

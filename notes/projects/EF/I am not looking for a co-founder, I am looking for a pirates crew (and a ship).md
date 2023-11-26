@@ -23,7 +23,7 @@ and that all the blocks come together.
 
 At this point, here are the blocks I deem the most important ones (but this will evolve over the upcoming days and weeks ([[2023-09-30]])):
 
-- Finance/Economy ([[The Open Market Economy]])
+- Finance/Economy ([[Open Market Economy]])
 - Technology ([[The Open Market Infrastructure]])
 - Product and Operations ([[The Biggest Tech Company on Earth]])
 - Compliance ([[Open Market Exchange]])

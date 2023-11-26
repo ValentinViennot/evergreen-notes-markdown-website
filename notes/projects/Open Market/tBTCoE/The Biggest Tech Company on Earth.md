@@ -89,7 +89,7 @@ Open source, open innovation, is a perfectly adequate alternative to our current
 
 **We propose to build a new economy within the global economy: the Open Market.**
 
-[[The Open Market Economy]] aims to:
+[[Open Market Economy]] aims to:
 
 1. Be an excellent player in the traditional, global economy,
 2. Abide by (and not compromise on) the [[Open Source should always be Free|Open Source Principles]].
@@ -104,7 +104,7 @@ Our Company is enabled by this new financial infrastructure.
 Effectively, turning open source projects into valuable (financial) commodities.
 
 Our Company is an **Investment Fund in Open Source Software**,
-operating in the newly created [[The Open Market Economy|Open Market Economy]] and
+operating in the newly created [[Open Market Economy|Open Market Economy]] and
 pioneering profitable FOSS venture capital.
 
 The added value of Our Company comes from ([[tBTCoE company vision and culture]]):
@@ -139,7 +139,7 @@ The investments come in different forms and from different actors.
 
 ###### Business Model and Positioning
 
-Our Company will need to operate an [[Open Market Exchange]] (OME) on [[The Open Market Infrastructure]] (and federated with the [[Open Market Foundation]]) in order to create [[The Open Market Economy]] required to run our investment business.
+Our Company will need to operate an [[Open Market Exchange]] (OME) on [[The Open Market Infrastructure]] (and federated with the [[Open Market Foundation]]) in order to create [[Open Market Economy]] required to run our investment business.
 
 The OME business **must have separate accounting** ([FTX bankruptcy](https://en.wikipedia.org/wiki/Bankruptcy_of_FTX)).
 

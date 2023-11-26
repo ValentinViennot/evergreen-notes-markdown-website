@@ -10,9 +10,8 @@ In fact, the exercise of regularly setting and reviewing goals is about identify
 
 I am guided by [[My mission]] and [[My values]]. As explained in my blog [Dying isn't as bad as not living](https://mindthegapblog.com/posts/we-all-have-a-mission/) ([[blog/posts/we-all-have-a-mission/index|source]]), I want to make sure that I am indeed living.
 
-Another, important part of setting goals is to schedule regular time to look back, evaluate and understand what happened, and re-assess.
-This retrospective part is probably the most overlooked part of setting goals.
-([[Retrospectives]], [[Experiment, Evaluate, Adjust, Repeat]])
+Another, important part of setting goals is to schedule regular time to look back, evaluate and understand what happened, and re-assess. The retrospective is probably the most overlooked part of setting goals. ([[Retrospectives]], [[Experiment, Evaluate, Adjust, Repeat]])
+
 ## My goals for the next six months
 
 [[Looking 5 years ahead]] [[Looking 10 years ahead]]
@@ -46,7 +45,7 @@ If I have successfully improved my follow-through, productivity, and ability to 
 
   - **KR2.3:** Track the duration and frequency of minimum 3-hour focused work blocks with phone and internet on airplane mode. Achieve 5 per week.
 
-  - **KR2.4:** Write every day. Adopt [[Evergreen notes]] and dedicate 30mn-1h daily.
+  - **KR2.4:** Write every day. Adopt [[Evergreen notes]] and dedicate min 30mn-1h daily.
 
 **KR3: Prioritisation of well-being, mindfulness, and fitness goals**
 
