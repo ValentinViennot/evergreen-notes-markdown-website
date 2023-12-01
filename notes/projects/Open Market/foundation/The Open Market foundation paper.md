@@ -5,63 +5,39 @@
 
 [[TODO Open Market Paper]]
 
+
 - [[The Open Market Manifesto]]
 - [[OM white paper]]
 
-
-
-
-INSTRUCTIONS
-
-General writing guidance:
-- most important comes first (pyramid writing principle)
-- use clear, factual, logical explanations. short sentences. no bullshit.
-- simple writing. plain yet formal english. authentic, humble tone.
-- no grand statements. be humble, simple, logical, factual.
-- focus on what's new and essential. straight to the point.
-- logical, comprehensive flow.
-- then augment with references (quiet [x] references with [x] the ref number).
-- (if and where relevant, include inline '> TODO: <remark>' to express doubts or topics where clarification and or more research would be required)
-
-Feedback:
-- Traditional economies and finance
-- Explore the properties of knowledge economies first.
-	- Scarcity comes from curation.
-- Open source challenges: incentives, governing the commons.
-- Curation markets.
-- Open Market: a curation market for the free knowledge economy.
-- Open Market economic system analysis (game theory, incentives, second-order effects).
-- Integration with traditional finance.
--  Conclusion, Future directions, References
-
-
-DRAFT PAPER BELOW
 
 # The Open Market: Reinventing Organizations in the Knowledge Economy
 
 
 ## Abstract
 
-This paper examines the Open Market, a novel economic model designed for open source projects and intellectual properties. We analyze the core principles, mechanisms, and potential impacts of this model on value creation and investment dynamics, contrasting it with traditional economic systems. The Open Market challenges conventional notions of profitability, leveraging the non-rivalrous nature of intellectual property to foster a decentralized, liberal economy driven by utility defined as shared innovation, collaboration, and community benefits.
+This paper proposes the Open Market, an economic model designed for open-source projects and free intellectual properties. Effectively reinventing organizations in the knowledge economy by transforming their incentives. We analyze the core principles, mechanisms, and potential impacts of this model on economic value creation and investment dynamics, contrasting it with traditional economic and financial systems.
+
+The Open Market model challenges conventional notions of profitability, leveraging the non-rivalrous nature of intellectual property to foster a decentralized liberal economy driven by shared innovation. Built on both free markets and free knowledge principles, the Open Market drives non-extractive value creation in order to maximize utility through efficient collaborative and decentralized innovation.
+
+We propose to tokenize brand equity as a measure of a community's innovation potential. Observing 'brand value' as the ability for one project to attract contributions, we thus specify Brand Equity Tokens as a share in a project's future investment in both money and effort. This model allows anyone to contribute to a project directly, aligning stakeholders on governance and quality. Leveraging crowdfunding and speculation incentives, it commodifies and tokenizes open innovation value, shifting the investment focus from marginal profits to durable investment and long-term commitment.
 
 
 ## 1. Introduction
 
-The Open Market emerges in response to the evolving landscape of the digital economy, presenting a paradigm shift from the established economic framework.
+The Open Market emerges in response to the evolving digital economy, presenting a paradigm shift from the established economic framework.
 
-Traditional capitalist frameworks are predominantly centered on tangible, rivalrous goods. Meanwhile, the Open Market is focused on knowledge-based, non-rivalrous goods.
+Traditional capitalist frameworks are predominantly centered on tangible, rivalrous goods. Meanwhile, the Open Market is focused on knowledge-based, non-rivalrous goods. The Open Market addresses the unique economic dynamics of digital projects where the traditional scarcity-based value proposition does not apply. In fact, in the new knowledge economy, scarcity now comes from community curation.
 
-The Open Market addresses the unique economic dynamics of non-rivalrous, open source projects, where the traditional scarcity-based value proposition does not apply. We believe that the misuse of intellectual property and labor as means of production in the current economy explains most of the observed inefficiencies such as capital accumulation, workers alienation, decrease of productivity, lack of maintenance of commons such as open-source foundations. We claim that innovation is currently inefficient and that open innovation is the solution. We observe that the lack of funding for open-source innovation comes from misaligned incentives.
+We believe that the exploitation of intellectual property and labor as means of production in the currently dominant economy explains most of the observed inefficiencies such as capital accumulation, workers alienation, decrease of productivity, and lack of maintenance of (digital) commons such as open-source foundations and digital infrastructure. We claim that innovation is currently greatly inefficient and that open innovation is the solution. We observe that the lack of funding for open-source innovation in fact comes from misaligned incentives.
 
-The Open Market ambitions to implement an attractive, liberal and progressivist, economic system that aligns the incentives of consumers, investors, contributors, and projects organized in communities. We ground our ambitious assumptions in prior work and research, as well as facts and recent observations from the rise of decentralization and digitalization.
+The Open Market ambitions to implement an attractive, liberal and progressivist, economic system that aligns the incentives of consumers, investors, contributors, and projects governance organized in communities. We ground our ambitious assumptions in prior work and research, as well as facts and recent observations from the rise of decentralization and digitalization.
 
+### 1.1. Traditional Capitalist Economy vs. Knowledge Economy
 
-### 1.1 Traditional Capitalist Economy vs. Open Market Economy
-
-| Aspect | Traditional Capitalist Economy | Open Market Economy |
+| Aspect | Traditional Capitalist Economy | Knowledge Economy |
 | ------ | ------------------------------ | ------------------- |
 | Nature of Goods | Rivalrous and tangible | Non-rivalrous and knowledge-based |
-| Value Creation | Based on scarcity and physical production | Driven by collaboration and shared innovation |
+| Value Creation | Based on scarcity and physical production | Based on curation, driven by collaboration and shared innovation |
 | Capital intensity | High | Low |
 | Returns to scale | Decreasing | Increasing |
 | Workforce size | Large | Small |
@@ -70,86 +46,213 @@ The Open Market ambitions to implement an attractive, liberal and progressivist,
 | Main growth driver | Cost | User experience |
 | Investment Dynamics | Slow, based on profits | Fast, speculative |
 
-### 1.2 Fundamentals of world's current dominant economy
+### 1.2. Status quo
 
-The current economy is a complex system where commodities, including tangible and intangible assets like stocks and equity, are traded based on supply and demand dynamics, with value determined by scarcity, utility, and market perceptions, and underpinned by currency that acts as a standard measure and store of value.
+The current economy is a complex system where commodities—including tangible and intangible assets like stocks and equity—are traded based on supply and demand dynamics. Economic value is determined by scarcity, utility, and market perceptions, and is underpinned by currency that acts as a standard measure and store of value.
 
-#### 1.2.1 Commodities
+#### 1.2.1. Commodities
 
-In the prevailing economic system, commodities, including stocks and equity, represent fundamental units of trade. These commodities are tangible or intangible assets traded on various markets, with their value driven by supply and demand dynamics. Stocks and equity, representing ownership stakes in corporations, exemplify how these assets can encapsulate not only present value but also the speculative future worth of an enterprise. This system hinges on the foundational concept of scarcity—the limited availability of goods—which confers value.
+Commodities—including stocks and equity—represent fundamental units of trade. These commodities are tangible or intangible assets traded on various markets, with their value driven by supply and demand dynamics. Equity (like Stocks) represent ownership stakes in corporations. Equity encapsulates not only present value but also the speculative future worth of an enterprise. This system hinges on the foundational concept of scarcity—the limited availability of physical goods and services—which confers value.
 
-#### 1.2.2 Utility
+#### 1.2.2. Utility
 
-Utility, in traditional economics, is a measure of the satisfaction or benefit derived from consuming goods or services. It forms the basis of the theory of consumer choice, influencing how resources are allocated in a market economy. Utility, therefore, is subjective and varies across individuals and contexts, shaping the demand side of the market.
+Utility is a measure of the satisfaction or benefit derived from consuming goods or services. It forms the basis of the theory of consumer choice, influencing how resources are allocated in a market economy. Utility, therefore, is subjective and varies across individuals and contexts, shaping the demand side of the market.
 
-#### 1.2.3 Value
+#### 1.2.3. Value
 
-The concept of value in conventional economics is multi-faceted, encompassing intrinsic value, market value, and perceived value. Intrinsic value refers to the inherent worth of a commodity based on its utility and resources involved in its production. Market value, however, is determined by the equilibrium in a market of supply and demand. Perceived value, on the other hand, extends beyond these factors, encompassing consumer perceptions, brand strength, and other intangible elements.
+Value is multi-faceted, encompassing intrinsic value, market value, and perceived value. Intrinsic value refers to the inherent worth of a commodity based on its utility and the limited resources involved in its production. Market value (also referred to as exchange value or price) is determined by the equilibrium in a market of supply and demand. Perceived value, on the other hand, extends beyond these factors, encompassing consumer perceptions, brand strength, and other intangible elements.
 
-#### 1.2.4 Speculation
+#### 1.2.4. Speculation
 
-Speculation plays a critical role in the current economic system, driving investment decisions and market movements. Investors make (more or less) informed predictions about future market trends, investing in assets they believe will increase in value. While speculation contributes to market volatility, it also provides liquidity and can lead to efficient resource allocation, as it often reflects broader market sentiments and expectations.
+Speculation plays a critical role in the current economic system, driving investment decisions and market movements. Investors make (more or less) informed predictions about future market trends, investing in assets they believe will increase in value over time. While speculation contributes to market volatility, it also provides liquidity and can lead to efficient resource allocation, as it often reflects broader market sentiments and expectations. Speculation plays an essential role in the price discovery exercise.
 
-#### 1.2.5 Currency
+#### 1.2.5. Currency
 
-Currency, the medium of exchange in the economy, facilitates trade by providing a standard measure of value and a mechanism for storing wealth. Modern economies predominantly use fiat money, which derives its value not from physical properties or backing by a commodity but from the trust and credit of the economy.
+Currency facilitates trade by providing a standard measure of value and a mechanism for storing wealth. Modern economies predominantly use fiat money as their currencies, which derives its value not from physical properties or backing by a commodity but from the trust and credit of the economy. Any medium of exchange in an economy can qualify as a currency.
 
-### 1.3 The Knowledge Economy
+### 1.3. The Knowledge economy
 
-> TODO: Write two or three paragraphs explaining in a few simple, logical, substantial sentences what is the "knowledge economy", what are its properties, how does it fundamentally differ from then traditional goods and services economy, and a little historical explanation (in particular around digitalization). In addition, mention the role and value of curation in a knowledge economy (and the theoretical abundance of knowledge).
+The knowledge economy represents a paradigm shift in economic models, transitioning from reliance on tangible, physical goods to prioritizing knowledge-intensive activities.—characterized by innovation and driven by human capital and intellectual property.
 
-### 1.4 Philosophical considerations
+#### 1.3.1. Intangible assets and Innovation
 
-#### 1.4.1 Why do we work?
+The focus is on non-rivalrous, knowledge-based goods such as intellectual property and digital content. Unlike physical goods, these assets do not deplete through use and can be reproduced at minimal cost.
 
-Work in human society is not solely for survival or economic necessity; it is also a pursuit of meaning, societal contribution, and personal fulfillment.
+#### 1.3.2. Skilled and Specialized workforce
 
-#### 1.4.2 Growth is not Progress
+The workforce in a knowledge economy is highly skilled, with specialized skills required to meet the needs of the global market. This shift emphasizes intellectual and creative jobs over manual labor, marking a service-oriented and post-industrial transition.
 
-The traditional economic model often equates (financial) growth with progress. However, this paper distinguishes between these concepts, inspired by sustainable development principles and Raworth's Doughnut Economics [12]. We claim that 'progress' is qualitative improvements in knowledge, innovation capacity, and shared well-being, not quantitative 'growth'.
+#### 1.3.3. Economic growth through Human intelligence
 
-#### 1.4.3 The role of Money, Price, Value
+Economic development in the knowledge economy hinges on human intelligence. It is an environment where knowledge is acquired, created, disseminated, and applied to drive both economic and social advancement.
 
-Money is a medium of exchange, a unit of account, and a store of value. Value however differs based on individual perceptions. Price comes as a consensus, an agreed fair exchange value.
+#### 1.3.4. Digitalization and Information technology
 
-#### 1.4.4 The value of Curation and Identity
+The rise of digitalization and information technology has been central to the evolution of the knowledge economy. This has led to an unprecedented expansion in the creation, storage, and global dissemination of information.
 
-Curation in the Open Market is a crucial mechanism for value creation. In the knowledge economy—in a world abundant in information and ideas—the act of selection and promotion of specific content or projects becomes invaluable. This process is tied to communal and individual identities, reflecting Bourdieu's social capital theory [4], where value is derived from networks of relationships and shared meanings.
+The knowledge economy has evolved into a network economy, characterized by interconnected knowledge networks and social entrepreneurship.
 
-### 1.5 Introduction to Curation Markets
+#### 1.3.5. Scarcity comes from Curation
 
-The Curation Market model utilize bonding curves and tokenization to attribute value to intellectual contributions, acknowledging that the perceived value of intellectual property is a function of communal consensus. The Curation Market model was first proposed by S. De La Rouvière in 2017 [18]. The following sections summarize its functioning and core principles.
+In the knowledge economy, scarcity arises uniquely from the curation of abundant information. While knowledge and data are plentiful, the ability to effectively curate, contextualize, and derive value from this information is limited.
 
-> TODO: Write a few subsections (use the white paper attached) to summarize the Curation Market white paper. This introduction explores how Curation Markets facilitate a more equitable and participatory economic model, aligning with Ostrom's principles of governing the commons, emphasizing collective stewardship.
+Curation involves discerning relevant from irrelevant data, and presenting it in a meaningful, accessible manner.
+
+### 1.4. Free Software
+
+The free software movement is grounded in the concept of freedom, not in the sense of price, but in terms of user rights and community benefits. It was—and is today even more—foreseen that software would eventually govern our human lives, and as such foundational software freedoms were claimed as fundamental rights.
+
+The role of markets in human economies is to incentivize and allocate available human and natural resources to enable the greatest good for the greatest number. Closed-source knowledge has proven to slow down innovation and oppose the role of markets.
+
+#### 1.4.1. Fundamental Freedoms
+
+1. **Freedom to run the program for any purpose**: Users can operate the software in any manner they choose, without restrictions.
+
+2. **Freedom to modify the program**: Users can adapt and adjust software to suit their individual or communal needs. This requires access to the source code and its documentation, as modifications without it are impractical.
+
+3. **Freedom to redistribute copies**: Users can share copies of the original software without restrictions, in order to enable a broader dissemination of software, ensuring that it reaches and benefits the widest audience possible.
+
+4. **Freedom to distribute modified versions**: Improvements and modifications by individual users should benefit the wider community.
+
+#### 1.4.2. Copyleft Licenses
+
+The copyleft licensing approach mandates that any modified versions of copylefted software must also be distributed as free software. Essentially, copyleft legally ensures that the freedoms to use, modify, redistribute, and share improvements are preserved in all derivative works.
+
+Copyleft licenses safeguard the aforementioned freedoms. They are designed to prevent the monopolization of software. As such, improvements and modifications not only _can_ but _must_ benefit the wider community.
+
+#### 1.4.3. Digital Commons
+
+The free software movement, born from the early internet philosophy, established digital commons. Knowledge, infrastructure, and user-space software available to all for free in order to progress collective innovation.
+
+Most of the modern infrastructure and innovation today is built on top of these digital commons. While big tech corporations are often praised for their achievements and innovation capacity, it is fair to assume that none of that would have happened without the early public investment into these digital commons.
+
+As any other commons, digital commons suffer an eponym tragedy: despite acknowledging the immense economic value enabled for them by these digital commons, no participant is incentivized to invest in building and maintaining them. In fact, the exact opposite is true: each individual is incentivized to act in a way that will ultimately be harmful to all individuals.
+
+#### 1.4.4. Free software has both infinite and zero added value
+
+The economic value driven by (some) of the free software available as digital commons is immense. Multiple converging economics research studies, in particular in Europe, showed that Free and Libre Open-Source Software (FLOSS) had a x100 to x1000 leverage on economic value creation. Meaning that for each euro invested in open source, up to 1000 euros would be created in the EU block GDP.
+
+Meanwhile, on the markets, FLOSS has no or even negative added value. Added value being defined as the `price-cost` equation, and the price of free software inherently being 0. This does not prevent Commercial Open Source Software (COSS) from generating substantial revenue and being an incrementally more common strategy for for-profit enterprises to enter busy markets with 'the open-source alternative to X' products. However, history has shown that COSS suffer the same conflicting incentives leading to the Tragedy of the Commons described in 1.4.3. In particular, there are increasing occurrences of companies deciding to restrict the previously FLOSS License of their flagship software to a new one incompatible with the four freedoms exposed in section 1.4.1.
+
+### 1.5. Philosophical considerations
+
+#### 1.5.1. Why do we work?
+
+Work in human society is not solely for survival or economic necessity; it is also a pursuit of meaning, societal contribution, and personal fulfillment. While individual motives might differ, all individual labor and work contributions participate in a higher, society-level achievement.
+
+#### 1.5.2. Growth is not Progress
+
+The traditional economic models often equates growth with progress. In this paper, we distinguish between these two concepts, inspired by sustainable development principles and Raworth's Doughnut Economics [12]. We claim that 'progress' is the result of qualitative improvements in knowledge, innovation capacity, and shared well-being; not from quantitative 'growth'.
+
+#### 1.5.3. The role of Money, Price, Value
+
+Money is a medium of exchange, a unit of account, and a store of value. Value however differs based on individual perceptions. Price comes as a consensus, a momentarily agreed fair exchange value.
+
+#### 1.5.4. The value of Curation and Identity
+
+Curation is a crucial mechanism for value creation. In the knowledge economy—in a world abundant in information and ideas—the act of selection and promotion of specific content or projects becomes invaluable. This process is tied to communal and individual identities, reflecting Bourdieu's social capital theory [4], where value is derived from networks of relationships and shared meanings.
 
 
-## 2. Fundamentals of the Open Market model
+### 2. Curation Markets
 
-### 2.1 Participants
+Curation Markets, a concept introduced by S. De La Rouvière in 2017, proposes a novel approach in the knowledge economy to assign value to intellectual contributions through a system of tokenization and bonding curves. This model recognizes the value of intellectual property, particularly in digital and open-source domains, as determined by community consensus and engagement.
 
-#### 2.1.1 Consumers (Users)
+Curation Markets are proposed as a way for "groups to coordinate around shared goals (and interests) and benefit from the value they collectively create. It does this by adding tokenized, skin-in-the-game signals to information curation."
+
+### 2.1. Fundamentals
+
+The foundational elements of Curation Markets involve a blend of economic theory, blockchain technology, and community dynamics. The model is designed to create a self-sustaining ecosystem where intellectual contributions are accurately valued and rewarded, fostering a culture of collaboration and innovation.
+
+#### 2.1.1. Tokenization
+
+This involves creating digital assets, known as tokens, which represent ownership or stake in a specific intellectual project or idea. These tokens are not just digital representations but embody the rights and interests in the curated content.
+
+##### 2.1.1.1 Re-fungible tokens
+
+In the Curation Market model, tokens are fungible, meaning each token is identical and interchangeable. This contrasts with Non-Fungible Tokens (NFTs), where each token is unique and not interchangeable. Fungible tokens can be traded as commodities.
+
+#### 2.1.2. Bonding curves
+
+These are mathematical formulas that determine the price of tokens in relation to their availability. As more tokens are issued (or 'minted'), their individual price increases, creating an incentivizing mechanism for early participation.
+
+##### 2.1.2.1. Dynamic pricing mechanism
+
+The bonding curve dynamically adjusts the price of tokens, making the system responsive to changes in demand and supply, which reflects the community's evolving valuation of the content.
+
+##### 2.1.2.2. Continuous liquidity
+
+The model allows for continuous liquidity, meaning participants can buy or sell tokens at any time based on the current price set by the bonding curve.
+
+##### 2.1.2.3. Incentives structure
+
+Early adopters are incentivized through potential appreciation of their tokens, while later participants benefit from joining a more established (therefore with less volatility) and possibly more valuable project.
+
+### 2.2. Blockchain
+
+The use of blockchain technology is central to the functionality and integrity of Curation Markets. It provides the necessary infrastructure for decentralized, transparent, and secure interactions within the market.
+
+#### 2.2.1. Decentralization
+
+Blockchain's decentralized nature is key in distributing power and control among all participants of the market. This decentralization ensures that no single entity has undue influence over the market, fostering a fair and equitable environment.
+
+##### 2.2.1.1 Governance
+
+While token holders may gain the right to participate in decision-making processes, the implementation of governance structures varies. Effective decentralized governance requires mechanisms to ensure that decisions reflect the community's consensus while maintaining efficiency and scalability.
+
+#### 2.2.2. Smart Contracts
+
+These are self-executing contracts with the terms of the agreement directly written into source code. In Curation Markets, smart contracts automate the minting and trading of tokens, along with governing the rules of participation.
+
+#### 2.2.3. Transparency and Security
+
+Blockchain technology provides a transparent and secure environment, where transactions and token ownership are visible and immutable, reducing the risk of fraud and manipulation.
+
+### 2.3. Benefits and Challenges
+
+#### 2.3.1. Benefits
+
+Curation Markets democratize valuation by empowering communities to collectively determine worth, thereby decentralizing control. This model aligns the interests of creators, curators, and consumers, fostering a collaborative and invested approach to content creation and curation. It also provides a flexible and accessible participation system, making it easier for a wider range of individuals and groups to engage.
+
+#### 2.3.2. Challenges
+
+Curation Markets can attract speculative behavior, leading to potential token price volatility and bubbles. Decentralized decision-making, while empowering, poses challenges in effective management and scalability, especially as the community grows and diversifies. Furthermore, the model requires a certain level of technical understanding and access to blockchain technology, presenting a learning curve that may limit participation from those less familiar with such technology.
+
+### 2.4. Governing the Commons
+
+Curation Markets align effectively with Elinor Ostrom's principles for governing common-pool resources (CPRs) [10].
+
+The mechanism of Curved Token Bonding creates a self-regulating economic model, aligning with Ostrom's concept of clearly defined boundaries by establishing a virtual boundary through the compounding token price. Curated Tokens facilitate congruence with local conditions, as communities can independently govern their tokens and associated bonding curves, tailoring them to specific communal needs. The decentralized nature of Curation Markets allows for collective-choice arrangements, enabling all stakeholders to participate in decision-making. Through smart contract technology, Curation Markets ensure efficient monitoring and enforcement of rules. Conflict resolution is embedded in the decentralized and transparent nature of blockchain. The inherent design of Curation Markets supports the recognition of rights to organize, giving communities autonomy to form their governance structures. Lastly, the concept of nested enterprises is mirrored in Curation Markets, allowing integration of individual curation projects within larger blockchain ecosystems, fostering interconnected management of commons.
+
+
+## 3.  The Open Market: a Curation Market for Free Innovation in the Knowledge Economy
+
+We propose to adapt the model of Curation Markets to the specifics of open-source innovation, and in particular to the case of free software development and maintenance. Open-source projects exemplify non-rivalrous goods in the digital—knowledge—economy, characterized by their capacity for unlimited replication at marginal cost.
+
+Namely, we present the Open Market as a decentralized market place to efficiently incentivize value exchanges between open-source projects governance, contributors, consumers, and investors. These trades, driven by the underlying utility of the open-source projects, materialize the economic value creation of our proposed economic model.
+
+Our assumption is that the lack of investment isn't the fundamental root cause of the observed open source funding challenges, but rather the lack of aligned incentives.
+
+### 3.1. Participants
+
+#### 3.1.1. Consumers (Users)
 
 The main participant in the Open Market model is the consumer. Utility can exist if and only if an exchange of value is ultimately providing satisfaction or benefit to an end consumer.
 
 The consumer would usually be paying a certain price—trading value—for the received utility. This price could be paid with money or other valuables such as the user's attention, contribution, data, knowledge, etc. The paid price must always be clear to the consumer.
 
-#### 2.1.2 Projects governance
+#### 3.1.2. Projects governance
 
 In order to include all governance models and not require any specific one, we refer to the "Projects governance" as the organizing body or process in charge of making decisions. We acknowledge that the governance model might vary depending on the nature of the decision. For simplicity we will always refer to an unspecific "projects governance". Each project will adapt the proposed mechanisms to their specific governance situation.
 
 The Open Market model does not require any relation between projects governance and the proposed economics. However, it is acknowledged that financial incentives might inevitably influence participants such as contributors and decision makers in the governance model.
 
-#### 2.1.3 Contributors
+#### 3.1.3. Contributors
 
-Contributors include anyone contributing time (effort, skills, talent) to a specific project.
-
-Contributors could be individuals or organizations.
+Contributors include anyone contributing time (effort, skills, talent) to a specific project. Contributors could be individuals or organizations. Examples of contributors could be developers, designers, authors, architects...
 
 Contributors should be making their contributions freely, out of interest and good will.
 
-Examples of contributors could be developers, designers, authors, architects...
-
-#### 2.1.4 Curators (Investors, Speculators)
+#### 3.1.4. Curators (Investors, Speculators)
 
 The Open Market is designed as a Curation Market.
 
@@ -161,135 +264,189 @@ Curators may be referred to as 'Speculators'. However, speculation often implies
 
 Curators make an informed decision in selecting and investing their capital, ahead of time, in projects that—they expect—will provide increasing utility in the form of faster innovation. The Open Market is a race to the fastest innovation and Curators are betting on the winners.
 
-### 2.2 Non-rivalrous goods in the knowledge economy
+## 3.2. Brand Value
 
-Open source projects exemplify non-rivalrous goods in the digital—knowledge—economy, characterized by their capacity for unlimited replication at marginal cost. This property contrasts with the diminishing returns associated with the production of rivalrous goods in conventional markets.
+In our model, we compare Brands as the ability for one project to attract more or less contributions than another one. Contributions are traded-in valuables such as time and effort from contributors, or paid money from consumers and investors. Despite the free and reproducible nature of open-source projects, some have substantially more valuable Brands than others. The Brand can be leveraged to capture created economic value. However, being an intangible, Brand itself is difficult to capture directly.
 
-### 2.3 Tokenization
+### 3.2.1. Brand curation
 
-Tokens are uniquely tied to the project's utility and communal value representing a share in the future investment and innovation capacity of a project. We believe that this capacity equals the shared brand value.
+A brand signifies a project's identity and reputation. It is shaped by factors like the project's utility, governance quality, contributor expertise, and public perception. Brands can be about marketing and also about a project's ethos and community trust.
 
+Brand is the intangible outcome of many intangibles, it is the result of curation process. A dominant market position often translates to higher brand value. Brands with a loyal customer base and positive public perception generally have higher valuations.
 
-> TODO: entirely review sections below.
-> - restructure: most important comes first
-> - CLARITY OF THOUGHT.
-> - use clear, factual, logical explanations. short sentences. no bullshit.
-> - focus on what's new and essential. straight to the point.
-> - logical, comprehensive flow.
-> - augment with references (quiet [x] references with [x] the ref number).
-> 	- HOWEVER, don't rely on authoritative explanations.
-> 	- Make plain, logical, comprehensive and clear deductive explanations.
-> 	- And augment them with references to relevant external publications.
+The strength of a brand lies in its ability to establish trust and recognition among its stakeholders.
 
+### 3.2.2. Role of Trademarks
 
-## 3. Principles
+Trademarks serve to legally protect a project's identity. They ensure that the name and logo are used consistently and correctly, safeguarding the project's reputation.
 
-### 3.1 Profitability beyond financial gains
+### 3.2.3. Brand valuation
 
-Profitability extends beyond financial returns. We emphasize the enhancement of collective capabilities as a measure of economic success.
+Brand valuation is a complex process that quantifies the worth of a brand in financial terms. Multiple methodologies exist. Eventually, the estimated Brand or Trademark valuation can be used in corporate accounting to sum the worth of the assets owned by a company.
 
-### 3.2 Maximizing utility (Decentralized economic ecosystem)
+The top three approaches to brand valuation are:
 
-The Open Market recognizes the collective effort of communities as the central value creation mechanism, where decentralized participants contribute more efficiently than traditional hierarchical organizations. **The outcome of the Open Market is to maximize the utility derived from the time and money invested in open source communities by contributors and curators.**
+1. **Cost-based**: This method calculates the brand's value based on the cost invested in building it. It includes developmental costs, marketing expenses, and any other costs associated with establishing the brand.
 
-We believe that decentralized knowledge utilization is much more efficient and enables more responsive and dynamic innovation processes.
+2. **Market-based**: This method assesses the brand's value by comparing it to similar brands that have been sold or valued in the market. It involves analyzing market transactions and financial data of comparable brands to estimate the value.
 
-### 3.3 Speculative nature of investments
+3. **Income-based**: This method focuses on the future net earnings attributable to the brand to determine its present value. This approach involves forecasting future revenue streams and discounting them to present value using an appropriate discount rate.
 
-Speculative investments—as financial investments based on the anticipated future utility of projects—are driving economic evolution and growth. We embrace the role of speculations in fast-faced progressivists free economies.
+### 3.2.4. Brand Equity
 
+Brand Equity refers to the qualitative added value brought by the brand. It's a measure of a brand's ability to retain and attract customers, influence market perception, and command loyalty, often translating into competitive advantages.
 
-## 4. Brand Value and Incentives
+Brand Equity is about the brand’s strength in the market and its potential to create value, while Brand Value is the realization of this potential in monetary terms.
 
-### 4.1 Brand Equity
+### 3.2.5. Importance of FLOSS Brands
 
-In the Open Market, brand equity of open source projects is quantified through the community's engagement and contributions. Unlike traditional brand equity, which is often tied to consumer perception and marketing, in the Open Market, brand equity is a direct measure of a project's health and activity level. It reflects the community's trust and reliance on the project, which is crucial for open source initiatives where success hinges on active participation and collaboration.
+Brand is a critical asset of FLOSS projects. In fact, quite often, FLOSS projects have strict and restrictive Trademark policies in order to protect their Brands.
 
-### 4.2 Brand Equity Tokens (BETs) as Economic Instruments
+FLOSS projects effectively chose to put all their intellectual property in the public domain. However, their differentiating value indeed lies in their Brand Equity. In their ability to attract various contributions, to create a desirable identity and awareness.
 
-Brand Equity Tokens (BETs) are the tangible representation of a project’s brand equity in the Open Market. Their value is directly linked to the project's performance and community engagement. For instance, a BET in a highly collaborative and widely used open-source project would have greater value than one in a lesser-known project. The value of BETs fluctuates based on real-time community contributions, usage metrics, and overall project health.
+## 3.3. Brand Equity Tokens (BET)
 
-### 4.3 Bonding Curves: Mechanism and Function
+Brand Equity Tokens (BET) are the main financial asset traded in the Open Market model. Conceptually, BET qualify as securities. Lawfully, this depends on regions.
 
-The bonding curve is a mathematical formula that determines the price of BETs based on their current supply. As more BETs are issued (bought), the price per token increases, following the curve. This model creates an economic incentive for early contributors, as early investment in a project will cost less and potentially yield higher returns as the project grows. Conversely, as tokens are sold, the price decreases, following the curve downward.
+Securities can be broadly categorized into: equity securities (e.g. stocks), debt securities (e.g. bonds), and derivatives (e.g. options). In a following white paper, we will propose a technical implementation of Brand Equity Tokens, their trading, as well as complementary debt and derivatives securities.
 
-### 4.4 Curation Markets: Principles and Functioning
+We recommend that a BET contractually equals to a share in a project's Trademark.
 
-Curation Markets are a decentralized approach to value assessment in the Open Market. In these markets, participants use BETs to vote on or endorse projects they believe are valuable. This system democratically determines a project's worth based on community consensus rather than centralized decision-making. It aligns with Ostrom's principles for managing commons by incentivizing contributors to act in the best interest of the community, ensuring the sustainability and growth of the open source project.
+## 3.4. BET Bonding Curves
 
-### 4.5 Participants and Their Roles
+We propose that the price of BET is defined by a Bonding Curve. The parameters of this function have yet to be defined.
 
-- **Creators**: Initiate projects and are pivotal in setting the vision and roadmap.
-- **Contributors**: Enhance the project’s value through code contributions, bug fixes, and feature developments. Their contributions directly impact the project's brand equity.
-- **Investors**: Purchase BETs, providing capital influx. They speculate on the project's future success based on current and potential community engagement.
-- **Users**: Utilize the project and provide feedback, contributing to the project's reputation and, indirectly, its brand equity.
+Conceptually, this would mean that whenever a new BET is minted the already-existing BETs would be theoretically lose in value as they now represent a lesser share in the overall project's Brand Equity (dilution). However, by design, the price of the newly minted BET is higher than any previous one. Consequently, the overall valuation (accounting value) of the Brand Equity is proportionally increased. As such, owners of a BET prior to the dilution have now a higher portfolio valuation.
 
-### 4.6 Solving the Commons Funding Problem
+This model is highly speculative as it effectively relies on the predicted amount of future R&D investments in order to develop a specific Brand Equity.
 
-The Open Market model addresses the classic problem in managing commons (as detailed by Ostrom) by creating direct financial incentives for contributors. By tying the financial gains of BETs to the success and health of an open source project, the model ensures that those who contribute to the commons are rewarded proportionally. This approach encourages ongoing maintenance and innovation in open source projects, overcoming the traditional funding and incentive challenges faced by commons.
+BET holders selling their shares (i.e. destroying their tokens through the smart contract implementing the BET bonding curve) would systematically decrease the BET valuation. Previous holders would now be un-diluted at a lower valuation.
 
-> TODO detail in alignment with Ostrom's theory and how it fulfils the conditions she identified as critical for governing the commons.
-> TODO: clarify in what sense does the Open Market model create a joint incentive for participants who will benefit from the final outcome but alone wouldn't be incentivised to fund it (here the market gives a transparent signal and the sum being bigger than the parts it's incentivised and encouraged to join forces).
-> TODO: draw a parallel with the crowdfunding model and incentives, and show how the Open Market can in addition integrate with crowdfunding models, making it even stronger
+Although this buy-sell dynamic could happen to be purely speculative (such as it can be in the stocks market today), it is theoretically linked to the utility of the underlying project identified by its Brand Equity.
 
-### 4.7 Practical Application: A Case Study
+## 3.5. BET stakes
 
-Consider an open source software tool for data analysis. As the tool gains popularity and usage, the community's contributions increase, enhancing the tool's functionality. Early contributors, who received BETs when the tool was less known, benefit from the increased value of their tokens as the tool becomes integral to the data science community. New contributors are incentivized not only by the potential financial returns from BETs but also by being part of a successful, impactful project.
+Our model relies on the staking of BETs for specific project's crowdfunding.
 
-## 5. Market Dynamics and Stability
+We propose that contributors are paid in shares of brand equity (i.e. in BETs) for the valuable work that they deliver. The methodology used is irrelevant as long as BETs are used to compensate all the R&D work contributing to building a project's Brand.
 
-### 5.1 Transparent and Fair Market Governance
+BETs may be used in bounty, crowdfunding, roadmap backing, portfolio investment, donations, subscriptions, sales, or any other business models.
 
-The Open Market's emphasis on transparent market governance aligns with Stiglitz’s critique of information asymmetry, advocating for transparency to ensure fairness and efficiency.
+## 3.6. Open Market Protocol (OMP)
 
-### 5.2 Liquidity and Market Efficiency
+The Open Market Protocol (OMP) is the proposed implementation of the aforementioned BET and BET Bonding Curve concepts.
 
-Liquidity in the Open Market, facilitated by speculative investments, is critical for efficient market functioning. Keynes’s liquidity preference theory provides foundational understanding of the role of liquidity in financial markets.
+We propose to utilize blockchain technology and to follow the Curation Markets model.
 
-## 6. Utility as the Basis of Value in the Open Market
+We recommend an open-source and decentralized protocol with an open governance.
 
-Utility in the Open Market is defined by the project's adaptability, innovativeness, and community strength. This definition aligns with Becker's theory on the allocation of time, emphasizing non-monetary factors in determining value.
+A following white paper will make a specific implementation proposal.
 
-## 7. Integration with Traditional Economic Models
+## 3.7. Open Market Exchange (OME)
 
-### 7.1 Complementarity with Existing Economic Systems
+In the Open Market infrastructure, Open Market Exchanges (OME) implement the Open Market Protocol in order to allow participants to efficiently and properly trade BETs.
+
+Open Market Exchanges must be responsible for:
+- Transparent and fair market governance enforcement
+- BET liquidity and Exchange market efficiency
+- Listed projects' rights protection
+- Contributors and investors' rights protection
+- Lawful and fair market accessibility
+- Compliance with all relevant regulations
+- Internal mediation (between participants)
+
+OMEs can implement the business model of their choosing such as trading fees, subscriptions, or any other one.
+
+## 3.8. Open Market Foundation (OMF)
+
+We propose the Open Market Foundation (OMF) as a non-profit, open-governance entity to federate the Open Market Exchanges running the Open Market Protocol.
+
+We recommend that Open Market Exchanges should interoperate only with other exchanges recognized by such a governing Foundation.
+
+The Open Market Foundation must be responsible for:
+- Transparent and fair market governance definition
+- Open Market Protocol specification
+- Compliance frameworks and recommendations
+- Open Market documentation and education
+- Lobbying for free innovation with regulators and institutions
+- Inter-OMEs mediation
+
+OMEs are expected to pay a membership subscription to the OMF.
+
+## 4. Incentives Analysis
+
+This section provides an analysis of the incentive structures inherent in the Open Market model. It examines the motivations and behaviors of various stakeholders within this economic framework.
+
+### 4.1. Stakeholders
+
+#### 4.1.1. Consumers (Users)
+
+- **Motivation**: Seeking utility and satisfaction from open-source projects.
+- **Behavior**: Consumers are expected to contribute value (money, attention, data) proportionate to the utility received, incentivized by the quality and utility of the projects.
+
+Note that the Open Market model itself doesn't make a clear proposal on how to capture value at the user level. We will make further recommendations in a further white paper. As an example, we could envision to include users as curators, through a crowdfunding or roadmap-backing model directly integrated inside the end product. Various subscription models can also be envisioned.
+
+#### 4.1.2. Projects Governance
+
+- **Motivation**: Maximizing project influence and success.
+- **Behavior**: Governance bodies are inclined to make decisions that enhance brand equity and attract more contributions, thus increasing the value of their projects.
+
+#### 4.1.3. Contributors
+
+- **Motivation**: Contributing skills and effort for personal fulfillment, recognition, or financial rewards.
+- **Behavior**: Contributors are likely to engage in projects that offer tangible rewards (like BETs) and intrinsic value, such as community recognition or personal growth.
+
+#### 4.1.4. Curators (Investors)
+
+- **Motivation**: Financial returns and supporting innovation (maximizing the utility).
+- **Behavior**: Curators are expected to invest in projects they believe will yield high returns in terms of project success and brand equity appreciation.
+
+### 4.2. Economics
+
+#### 4.2.1. Tokenization and Brand Equity
+
+Tokenization of brand equity incentivizes early investment and fosters a sense of ownership among stakeholders. The outcome is a dynamic market where the value of contributions and brand equity is continuously assessed and adjusted.
+
+#### 4.2.2. Bonding Curves
+
+The Open Market encourages early participation and investment, as the cost of entry rises with increased interest and investment in a project. The outcome is a potential for speculative bubbles, balanced by the intrinsic value of the open-source projects.
+
+### 4.3. Nash Equilibrium in Stakeholder Interactions
+
+Each stakeholder type (consumers, governance, contributors, curators) has strategies that, when played, could lead to a stable state where no participant can gain by unilaterally changing their strategy. The outcome is that our model encourages a balance where all parties are incentivized to contribute positively to the ecosystem.
+
+## 5. Integration with Traditional Economic Models
 
 The Open Market complements traditional economic models, particularly in sectors dominated by non-rivalrous goods. This approach is akin to the concept of mixed economies, combining different economic systems for optimal outcomes.
 
-### 7.2 Applicability Across Economic Sectors
+## 6. Conclusion and Future directions
 
-The application of the Open Market across various sectors demonstrates its versatility, with case studies in software development, digital content creation, and collaborative research illustrating its practical implementation.
+The Open Market Model offers a viable complement to traditional economic frameworks, particularly suited for the digital knowledge-based economy. Its focus on immaterial, innovation-led growth, driven by mass retail investments, presents a transformative approach to how we innovate and create value.
 
-## 8. Conclusion and Future directions
+### 6.1. Future work: the Open Market Foundation and Protocol
 
-The Open Market Model offers a viable complement to traditional economic frameworks, particularly suited for the digital and knowledge-based economy. Its focus on immaterial, innovation-led growth, driven by mass retail investments, presents a transformative approach to how we innovate and create value. Future research should explore the implementation challenges and long-term sustainability of this model.
+We propose the creation of the Open Market Foundation and an open community task-force to specify the Open Market Protocol. We recommend the implementation as federated Open Market Exchanges implementing the protocol and subscribed as members of the Foundation. They will protect and defend their listed project's licenses and IP and enforce the market rules, as well as guarantee the liquidity of the market and its interconnection to the main traditionally cash-powered economy (or any other economy, such as crypto). 
 
-### 8.1 Future work: the Open Market Foundation and Protocol
+### 6.2. Differentiating from speculative crypto bubbles
 
-We propose the creation of the Open Market Foundation and community work on the Open Market Protocol. We recommend the implementation as federated Open Market Exchanges implementing the protocol and subscribed as members of the Foundation. They will protect and defend their listed project's licenses and IP and enforce the market rules. It is envisioned that they could also create debt, guaranteeing the liquidity of the market and its connection to the main traditionally cash-powered economy (or any other economy, such as crypto). 
+#### 6.2.1. Rooted in Real Utility and Community Value
 
-### 8.2 Differentiating from speculative crypto bubbles
+Unlike many speculative crypto projects that were driven by market hype and short-term gains, the Open Market is anchored in the immense utility of open-source projects. The value of tokens in the Open Market is intrinsically linked to the tangible utility, adaptability, and communal contribution of the projects they represent. This focus on real-world applicability and innovation ensures that the market dynamics are grounded in actual substance rather than mere speculation.
 
-The Open Market, while coinciding with the era of cryptocurrencies, differentiates
-The rise of the Open Market coincides with an era marked by the proliferation of cryptocurrencies and associated speculative bubbles. However, the Open Market fundamentally differentiates itself from these phenomena through several key aspects:
+#### 6.2.2. Sustainable Economic Framework
 
-#### 8.2.1 Rooted in Real Utility and Community Value
+Speculative crypto bubbles often lack a sustainable economic model, leading to volatile booms and busts. In contrast, the Open Market is designed as a sustainable economic ecosystem, where growth is driven by long-term collective innovation and participation.
+The market evolution is predictable and grounded in reality. The funds raised are used to invest in real, tangible work with curated open-source projects as the outcome.
 
-Unlike many speculative crypto ventures driven by market hype and short-term gains, the Open Market is anchored in the real utility of open source projects. The value of tokens in the Open Market is intrinsically linked to the tangible utility, adaptability, and communal contribution of the projects they represent. This focus on real-world applicability and innovation ensures that the market dynamics are grounded in actual substance rather than mere speculation.
+#### 6.2.3. Transparency and Regulatory Compliance
 
-#### 8.2.2 Sustainable Economic Framework
+The Open Market advocates for high levels of transparency and adherence to regulatory standards in order to avoid lack of transparency and oversights leading to manipulation and fraud. In the Open Market, clear information disclosure, adherence to legal frameworks, and ethical practices are fundamental, building trust and stability in the market. We promote a centralized decentralized approach. Fundamentally decentralized yet with the emergence of regulatory hyper-structures. We advocate for a transparent, open, accessible protocol. Anyone should be able to copy and run their own protocol fork and, based on consensus, join existing networks. We propose a non-profit foundation, the Open Market Foundation, as the highest regulatory body.
 
-Speculative crypto bubbles often lack a sustainable economic model, leading to volatile booms and busts. In contrast, the Open Market is designed as a sustainable economic ecosystem, where growth is driven by long-term communal innovation and participation. This sustainability is achieved through governance structures that prioritize equitable distribution of value and mechanisms like bonding curves, which ensure a more stable and predictable market evolution.
+#### 6.2.4. Diversification of Investment and Risk
 
-#### 8.2.3 Transparency and Regulatory Compliance
+In the Open Market, investment and risk are diversified across a wide range of projects and contributions. This diversification not only mitigates risk but also promotes a broader scope of innovation and development.
 
-The Open Market advocates for high levels of transparency and adherence to regulatory standards. This contrasts with the opacity often seen in speculative crypto markets, where lack of transparency and regulatory oversight can lead to manipulation and fraud. In the Open Market, clear information disclosure, adherence to legal frameworks, and ethical practices are fundamental, building trust and stability in the market. We promote a centralized decentralized approach. Fundamentally decentralized with the emergence of regulatory hyperstructures. We however advocate for a transparent, open, accessible protocol. Anyone could decide to copy and run their own protocol and, if we agree on the regulatory terms, even join the Open Market network. We propose non-profit foundation, the Open Market Foundation, as the higest regulatory body.
-
-#### 8.2.4 Diversification of Investment and Risk
-
-In the Open Market, investment and risk are diversified across a wide range of projects and contributions. Unlike speculative crypto investments, which often hinge on the success of a single currency or platform, the Open Market distributes risk through a portfolio of diverse open source projects. This diversification not only mitigates risk but also promotes a broader scope of innovation and development.
-
-### 8.3 References
+### 6.3. References
 
 1. Anderson, C. (2009). *Free: The Future of a Radical Price*.
 
