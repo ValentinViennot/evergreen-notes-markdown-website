@@ -15,22 +15,22 @@
 
 ## Abstract
 
-This paper proposes the Open Market, an economic model designed for open-source projects and free intellectual properties. Effectively reinventing organizations in the knowledge economy by transforming their incentives. We analyze the core principles, mechanisms, and potential impacts of this model on economic value creation and investment dynamics, contrasting it with traditional economic and financial systems.
+This paper proposes the Open Market, an economic model designed for open-source projects and free intellectual properties. Effectively reinventing organizations in the knowledge economy by transforming financial incentives. We analyze the core principles, mechanisms, and potential impacts of our proposed model on economic value creation and investment dynamics, contrasting it with traditional economic and financial systems.
 
-The Open Market model challenges conventional notions of profitability, leveraging the non-rivalrous nature of intellectual property to foster a decentralized liberal economy driven by shared innovation. Built on both free markets and free knowledge principles, the Open Market drives non-extractive value creation in order to maximize utility through efficient collaborative and decentralized innovation.
+The Open Market model challenges conventional notions of profitability, leveraging the non-rivalrous nature of intellectual property to foster a decentralized liberal economy driven by shared innovation. Built on both free markets and free knowledge principles, our model drives non-extractive value creation in order to maximize utility through efficient collaborative and decentralized innovation.
 
-We propose to tokenize brand equity as a measure of a community's innovation potential. Observing 'brand value' as the ability for one project to attract contributions, we thus specify Brand Equity Tokens as a share in a project's future investment in both money and effort. This model allows anyone to contribute to a project directly, aligning stakeholders on governance and quality. Leveraging crowdfunding and speculation incentives, it commodifies and tokenizes open innovation value, shifting the investment focus from marginal profits to durable investment and long-term commitment.
+We propose to tokenize brand equity as a measure of a community's innovation potential. Observing the value of an open source brand as the ability for one project to attract more contributions, we thus specify Brand Equity Tokens as a share in a project's future investment in both money and effort. This model allows anyone to contribute to a project directly, aligning stakeholders on governance and quality. Leveraging crowdfunding and speculation incentives, the Open Market proposes to commodify and tokenize open innovation value, shifting the investment focus from marginal profits to durable investment and long-term commitment.
 
 
 ## 1. Introduction
 
-The Open Market emerges in response to the evolving digital economy, presenting a paradigm shift from the established economic framework.
+The Open Market emerges in response to the digital economy, presenting a paradigm shift from the established economic framework.
 
-Traditional capitalist frameworks are predominantly centered on tangible, rivalrous goods. Meanwhile, the Open Market is focused on knowledge-based, non-rivalrous goods. The Open Market addresses the unique economic dynamics of digital projects where the traditional scarcity-based value proposition does not apply. In fact, in the new knowledge economy, scarcity now comes from community curation.
+Traditional capitalist frameworks were centered on tangible, rivalrous goods. Meanwhile, the Open Market is focused on knowledge-based, non-rivalrous goods. It addresses the unique economic dynamics of the knowledge economy. With digital projects, the traditional scarcity-based value proposition does not apply and scarcity now comes from community curation.
 
-We believe that the exploitation of intellectual property and labor as means of production in the currently dominant economy explains most of the observed inefficiencies such as capital accumulation, workers alienation, decrease of productivity, and lack of maintenance of (digital) commons such as open-source foundations and digital infrastructure. We claim that innovation is currently greatly inefficient and that open innovation is the solution. We observe that the lack of funding for open-source innovation in fact comes from misaligned incentives.
+The exploitation of intellectual property and labor as constrained means of production in the currently dominant economy explains most of the observed inefficiencies such as capital accumulation, workers alienation, decrease of productivity, and lack of maintenance of (digital) commons such as open-source foundations and digital infrastructure. This model has led to a focus on value extraction more than value creation.
 
-The Open Market ambitions to implement an attractive, liberal and progressivist, economic system that aligns the incentives of consumers, investors, contributors, and projects governance organized in communities. We ground our ambitious assumptions in prior work and research, as well as facts and recent observations from the rise of decentralization and digitalization.
+We claim that innovation today is greatly inefficient (as compared to what it could be) and that open innovation is the solution. We observe that the lack of funding for open-source innovation in reality comes from misaligned incentives. The Open Market model ambitions to implement an attractive, liberal, and progressivist economic system that aligns the incentives of consumers, investors, contributors, and projects governance organized in communities. We ground our ambitious assumptions in prior work and research, as well as facts and recent observations from the rise of decentralization and digitalization.
 
 ### 1.1. Traditional Capitalist Economy vs. Knowledge Economy
 
@@ -48,11 +48,11 @@ The Open Market ambitions to implement an attractive, liberal and progressivist,
 
 ### 1.2. Status quo
 
-The current economy is a complex system where commodities—including tangible and intangible assets like stocks and equity—are traded based on supply and demand dynamics. Economic value is determined by scarcity, utility, and market perceptions, and is underpinned by currency that acts as a standard measure and store of value.
+The current economy is a complex system where commodities—including tangible and intangible assets, like stocks and equity—are traded based on supply and demand dynamics. Economic value is determined by scarcity, utility, and market perceptions, and is underpinned by currency that acts as a standard measure and store of value.
 
 #### 1.2.1. Commodities
 
-Commodities—including stocks and equity—represent fundamental units of trade. These commodities are tangible or intangible assets traded on various markets, with their value driven by supply and demand dynamics. Equity (like Stocks) represent ownership stakes in corporations. Equity encapsulates not only present value but also the speculative future worth of an enterprise. This system hinges on the foundational concept of scarcity—the limited availability of physical goods and services—which confers value.
+Commodities represent fundamental units of trade. These commodities are tangible or intangible assets traded on various markets, with their value driven by supply and demand dynamics. These include Securities, as Equity, Debt and Derivatives. Equity (e.g. Stocks) represent ownership stakes in an enterprise (e.g. a corporation). Equity encapsulates not only present value but also the speculative future worth of an enterprise. This system hinges on the foundational concept of scarcity—the limited availability of physical goods and services—which confers value.
 
 #### 1.2.2. Utility
 
@@ -60,49 +60,47 @@ Utility is a measure of the satisfaction or benefit derived from consuming goods
 
 #### 1.2.3. Value
 
-Value is multi-faceted, encompassing intrinsic value, market value, and perceived value. Intrinsic value refers to the inherent worth of a commodity based on its utility and the limited resources involved in its production. Market value (also referred to as exchange value or price) is determined by the equilibrium in a market of supply and demand. Perceived value, on the other hand, extends beyond these factors, encompassing consumer perceptions, brand strength, and other intangible elements.
+Value is multi-faceted, including intrinsic value, market value, and perceived value. Intrinsic value refers to the inherent worth of a commodity based on its utility and the limited resources involved in its production. Market value (also referred to as exchange value or price) is determined by the equilibrium in a market of supply and demand. Perceived value, on the other hand, depends on consumer perceptions, brand strength, and other intangible elements.
 
 #### 1.2.4. Speculation
 
-Speculation plays a critical role in the current economic system, driving investment decisions and market movements. Investors make (more or less) informed predictions about future market trends, investing in assets they believe will increase in value over time. While speculation contributes to market volatility, it also provides liquidity and can lead to efficient resource allocation, as it often reflects broader market sentiments and expectations. Speculation plays an essential role in the price discovery exercise.
+Speculation plays a defining role in the current economic system, driving investment decisions and market movements. Investors make (more or less) informed predictions about future market trends, investing in assets they believe will increase in value over time. While speculation contributes to market volatility, it also provides liquidity and can lead to efficient resource allocation, often reflecting broader market sentiments and expectations. Speculation plays an essential role in the price discovery mechanism.
 
 #### 1.2.5. Currency
 
-Currency facilitates trade by providing a standard measure of value and a mechanism for storing wealth. Modern economies predominantly use fiat money as their currencies, which derives its value not from physical properties or backing by a commodity but from the trust and credit of the economy. Any medium of exchange in an economy can qualify as a currency.
+Currency facilitates trades by providing a standard measure of value and a mechanism for storing wealth. Modern economies predominantly use fiat money as their currencies, which derives its value not from physical properties or backing by a commodity but from the trust and credit of the economy. Any medium of exchange in an economy can qualify as a currency.
 
-### 1.3. The Knowledge economy
+### 1.3. The Knowledge Economy
 
-The knowledge economy represents a paradigm shift in economic models, transitioning from reliance on tangible, physical goods to prioritizing knowledge-intensive activities.—characterized by innovation and driven by human capital and intellectual property.
+The knowledge economy represents a paradigm shift in economic models, transitioning from reliance on tangible, physical goods to prioritizing knowledge-intensive activities—characterized by innovation and driven by human capital and intellectual property.
 
 #### 1.3.1. Intangible assets and Innovation
 
-The focus is on non-rivalrous, knowledge-based goods such as intellectual property and digital content. Unlike physical goods, these assets do not deplete through use and can be reproduced at minimal cost.
+The knowledge economy trades non-rivalrous, knowledge-based goods such as intellectual property and digital content. Unlike physical goods, these assets do not deplete through use and can be reproduced at minimal cost.
 
 #### 1.3.2. Skilled and Specialized workforce
 
 The workforce in a knowledge economy is highly skilled, with specialized skills required to meet the needs of the global market. This shift emphasizes intellectual and creative jobs over manual labor, marking a service-oriented and post-industrial transition.
 
-#### 1.3.3. Economic growth through Human intelligence
+#### 1.3.3. Economic Growth through Human intelligence
 
 Economic development in the knowledge economy hinges on human intelligence. It is an environment where knowledge is acquired, created, disseminated, and applied to drive both economic and social advancement.
 
 #### 1.3.4. Digitalization and Information technology
 
-The rise of digitalization and information technology has been central to the evolution of the knowledge economy. This has led to an unprecedented expansion in the creation, storage, and global dissemination of information.
-
-The knowledge economy has evolved into a network economy, characterized by interconnected knowledge networks and social entrepreneurship.
+The rise of digitalization and information technology has led to an unprecedented expansion in the creation, storage, and global dissemination of information. The knowledge economy has evolved into a network economy, characterized by interconnected knowledge networks and social entrepreneurship.
 
 #### 1.3.5. Scarcity comes from Curation
 
-In the knowledge economy, scarcity arises uniquely from the curation of abundant information. While knowledge and data are plentiful, the ability to effectively curate, contextualize, and derive value from this information is limited.
-
-Curation involves discerning relevant from irrelevant data, and presenting it in a meaningful, accessible manner.
+In the knowledge economy, scarcity arises uniquely from the curation of abundant information. While knowledge and data are plentiful, the ability to effectively curate, contextualize, and derive value from this information is limited. Curation involves discerning relevant from irrelevant data, and presenting it in a meaningful, accessible manner.
 
 ### 1.4. Free Software
 
-The free software movement is grounded in the concept of freedom, not in the sense of price, but in terms of user rights and community benefits. It was—and is today even more—foreseen that software would eventually govern our human lives, and as such foundational software freedoms were claimed as fundamental rights.
+The free software movement is grounded in the concept of freedom, not in the sense of price, but in terms of user rights and community benefits. Because it was—and is today even more—foreseen that software would eventually govern our human lives, software freedoms were claimed as fundamental rights.
 
-The role of markets in human economies is to incentivize and allocate available human and natural resources to enable the greatest good for the greatest number. Closed-source knowledge has proven to slow down innovation and oppose the role of markets.
+The role of markets in our modern economies is to incentivize and allocate available human and natural resources to enable the greatest good for the greatest number. On the other hand, closed-source knowledge has proven to slow down innovation and oppose the role of markets.
+
+Aligned with this utilitarian objective, the free software movement proposed its philosophy to equilibrate competition forces in the markets by accounting for the special nature of software. The free markets and free software movements both share a fight for competition in the benefit of users and against monopolies.
 
 #### 1.4.1. Fundamental Freedoms
 
@@ -122,17 +120,19 @@ Copyleft licenses safeguard the aforementioned freedoms. They are designed to pr
 
 #### 1.4.3. Digital Commons
 
-The free software movement, born from the early internet philosophy, established digital commons. Knowledge, infrastructure, and user-space software available to all for free in order to progress collective innovation.
+The free software movement, born from the early internet philosophy, organically established digital commons: knowledge, infrastructure, and user-space software available to all for free in order to progress collective innovation.
 
-Most of the modern infrastructure and innovation today is built on top of these digital commons. While big tech corporations are often praised for their achievements and innovation capacity, it is fair to assume that none of that would have happened without the early public investment into these digital commons.
+Most of the modern infrastructure and innovation today is built on top of these digital commons. While big tech corporations are often praised for their achievements and innovation capacity, it is fair to assume that none of that would have happened without the early public investment into the internet and these digital commons.
 
-As any other commons, digital commons suffer an eponym tragedy: despite acknowledging the immense economic value enabled for them by these digital commons, no participant is incentivized to invest in building and maintaining them. In fact, the exact opposite is true: each individual is incentivized to act in a way that will ultimately be harmful to all individuals.
+As any other commons, digital commons suffer an eponym tragedy: despite acknowledging and benefiting from the immense economic value created for them by these digital commons, no participant is incentivized to invest in building and maintaining them. In fact, the exact opposite is true: each individual is incentivized to act in a way that will ultimately be harmful to all individuals.
 
-#### 1.4.4. Free software has both infinite and zero added value
+#### 1.4.4. Free Software has both Infinite and Zero Added Value
 
-The economic value driven by (some) of the free software available as digital commons is immense. Multiple converging economics research studies, in particular in Europe, showed that Free and Libre Open-Source Software (FLOSS) had a x100 to x1000 leverage on economic value creation. Meaning that for each euro invested in open source, up to 1000 euros would be created in the EU block GDP.
+The economic value indirectly created by (some) of the free software available as digital commons is immense. Multiple converging economics research studies, in particular in Europe, showed that Free and Libre Open-Source Software (FLOSS) had a x100 to x1000 leverage on economic value creation. Meaning that for each additional euro invested in open source, up to 1000 euros would be created in the EU block GDP [19].
 
-Meanwhile, on the markets, FLOSS has no or even negative added value. Added value being defined as the `price-cost` equation, and the price of free software inherently being 0. This does not prevent Commercial Open Source Software (COSS) from generating substantial revenue and being an incrementally more common strategy for for-profit enterprises to enter busy markets with 'the open-source alternative to X' products. However, history has shown that COSS suffer the same conflicting incentives leading to the Tragedy of the Commons described in 1.4.3. In particular, there are increasing occurrences of companies deciding to restrict the previously FLOSS License of their flagship software to a new one incompatible with the four freedoms exposed in section 1.4.1.
+Meanwhile on the markets, FLOSS has no or even negative added value. Added value being defined as the `price-cost` equation and the price of free software naturally being 0.
+
+Note this does not prevent for-profit Commercial Open Source Software (COSS) projects from sometimes generating substantial revenue and from being an incrementally more common strategy to enter busy markets with 'the open-source alternative to X' products. However, history has shown that COSS suffer the same conflicting, destructive incentives leading to the Tragedy of the Commons we described in 1.4.3. In particular, there are increasingly numerous occurrences of companies restricting the previously FLOSS License of their flagship software to a new one incompatible with the four freedoms exposed in section 1.4.1.
 
 ### 1.5. Philosophical considerations
 
@@ -142,15 +142,15 @@ Work in human society is not solely for survival or economic necessity; it is al
 
 #### 1.5.2. Growth is not Progress
 
-The traditional economic models often equates growth with progress. In this paper, we distinguish between these two concepts, inspired by sustainable development principles and Raworth's Doughnut Economics [12]. We claim that 'progress' is the result of qualitative improvements in knowledge, innovation capacity, and shared well-being; not from quantitative 'growth'.
+The traditional economic models often equates growth with progress. In this paper, we distinguish between these two concepts, inspired by sustainable development principles and Raworth's Doughnut Economics [12]. We claim that progress is the result of qualitative improvements in knowledge, innovation capacity, and shared well-being. While sometimes correlated, progress is not tied to any kind of quantitative growth.
 
 #### 1.5.3. The role of Money, Price, Value
 
-Money is a medium of exchange, a unit of account, and a store of value. Value however differs based on individual perceptions. Price comes as a consensus, a momentarily agreed fair exchange value.
+Money is a medium of exchange, a unit of account, and a store of value. Value however differs based on individual perceptions. Price comes as a consensus, a momentarily agreed fair exchange value often measured as an amount of money.
 
 #### 1.5.4. The value of Curation and Identity
 
-Curation is a crucial mechanism for value creation. In the knowledge economy—in a world abundant in information and ideas—the act of selection and promotion of specific content or projects becomes invaluable. This process is tied to communal and individual identities, reflecting Bourdieu's social capital theory [4], where value is derived from networks of relationships and shared meanings.
+Curation is a crucial mechanism for value creation. In the knowledge economy—in a world abundant in information and ideas—the act of selection and promotion of specific content or projects becomes invaluable. This process is tied to collective and individual identities, reflecting Bourdieu's social capital theory [4], where value is derived from networks of relationships and shared meanings.
 
 
 ### 2. Curation Markets
@@ -415,38 +415,38 @@ The Open Market encourages early participation and investment, as the cost of en
 
 Each stakeholder type (consumers, governance, contributors, curators) has strategies that, when played, could lead to a stable state where no participant can gain by unilaterally changing their strategy. The outcome is that our model encourages a balance where all parties are incentivized to contribute positively to the ecosystem.
 
-## 5. Integration with Traditional Economic Models
-
-The Open Market complements traditional economic models, particularly in sectors dominated by non-rivalrous goods. This approach is akin to the concept of mixed economies, combining different economic systems for optimal outcomes.
-
-## 6. Conclusion and Future directions
+## 5. Conclusion and Future directions
 
 The Open Market Model offers a viable complement to traditional economic frameworks, particularly suited for the digital knowledge-based economy. Its focus on immaterial, innovation-led growth, driven by mass retail investments, presents a transformative approach to how we innovate and create value.
 
-### 6.1. Future work: the Open Market Foundation and Protocol
+### 5.1. Integration with Traditional Economic Models
+
+The Open Market complements traditional economic models, particularly in sectors dominated by non-rivalrous goods. This approach is akin to the concept of mixed economies, combining different economic systems for optimal outcomes.
+
+### 5.2. Future work: the Open Market Foundation and Protocol
 
 We propose the creation of the Open Market Foundation and an open community task-force to specify the Open Market Protocol. We recommend the implementation as federated Open Market Exchanges implementing the protocol and subscribed as members of the Foundation. They will protect and defend their listed project's licenses and IP and enforce the market rules, as well as guarantee the liquidity of the market and its interconnection to the main traditionally cash-powered economy (or any other economy, such as crypto). 
 
-### 6.2. Differentiating from speculative crypto bubbles
+### 5.3. Differentiating from speculative crypto bubbles
 
-#### 6.2.1. Rooted in Real Utility and Community Value
+#### 5.3.1. Rooted in Real Utility and Community Value
 
 Unlike many speculative crypto projects that were driven by market hype and short-term gains, the Open Market is anchored in the immense utility of open-source projects. The value of tokens in the Open Market is intrinsically linked to the tangible utility, adaptability, and communal contribution of the projects they represent. This focus on real-world applicability and innovation ensures that the market dynamics are grounded in actual substance rather than mere speculation.
 
-#### 6.2.2. Sustainable Economic Framework
+#### 5.3.2. Sustainable Economic Framework
 
 Speculative crypto bubbles often lack a sustainable economic model, leading to volatile booms and busts. In contrast, the Open Market is designed as a sustainable economic ecosystem, where growth is driven by long-term collective innovation and participation.
 The market evolution is predictable and grounded in reality. The funds raised are used to invest in real, tangible work with curated open-source projects as the outcome.
 
-#### 6.2.3. Transparency and Regulatory Compliance
+#### 5.3.3. Transparency and Regulatory Compliance
 
 The Open Market advocates for high levels of transparency and adherence to regulatory standards in order to avoid lack of transparency and oversights leading to manipulation and fraud. In the Open Market, clear information disclosure, adherence to legal frameworks, and ethical practices are fundamental, building trust and stability in the market. We promote a centralized decentralized approach. Fundamentally decentralized yet with the emergence of regulatory hyper-structures. We advocate for a transparent, open, accessible protocol. Anyone should be able to copy and run their own protocol fork and, based on consensus, join existing networks. We propose a non-profit foundation, the Open Market Foundation, as the highest regulatory body.
 
-#### 6.2.4. Diversification of Investment and Risk
+#### 5.3.4. Diversification of Investment and Risk
 
 In the Open Market, investment and risk are diversified across a wide range of projects and contributions. This diversification not only mitigates risk but also promotes a broader scope of innovation and development.
 
-### 6.3. References
+### 6. References
 
 1. Anderson, C. (2009). *Free: The Future of a Radical Price*.
 
@@ -483,3 +483,5 @@ In the Open Market, investment and risk are diversified across a wide range of p
 17. Favre, T. (2018). _Continuous Organizations_. White paper. Fairmint.
 
 18. De La Rouviere, S. (2017). _Curation Markets_. White paper.
+
+19. European Commission & Fraunhofer institute (2021). _Study about the impact of open source software and hardware on technological independence, competitiveness and innovation in the EU economy_.
