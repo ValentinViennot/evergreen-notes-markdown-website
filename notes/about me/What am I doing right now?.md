@@ -1,4 +1,4 @@
-_Regularly-updated Note. Last update: January 17th, 2024_
+_Regularly-updated Note. Last update: May 6th, 2024_
 
 Welcome to my [/now note-page](https://sive.rs/nowff) (read: [[About_these_notes]]).
 
@@ -10,12 +10,7 @@ As with all the other [[Evergreen notes]] here, the intended audience is myself.
 ### Current focus
 
 - Building [[Smash]]
-- Building [[The Biggest Tech Company on Earth]]
-	- ~~Participating in the [[EF]] program ([[EF W23 PA CORE]])~~
-	- ~~1. [[The Open Market]] ([https://openmarketfoundation.org/](https://openmarketfoundation.org/))~~
-		- Merge with [https://www.open-source-economy.com/](https://www.open-source-economy.com/)?
-	- 2. [[fuckthevcs.com]] ([https://fuckthevcs.com/](https://fuckthevcs.com/))
-	- 3. [[The Biggest Tech Company on Earth]] ([[ATLAS structure]])
+- Exploring [[EatWell]]
 - Building a company aligned with [[My values]]
 	- Biggest leverage to contribute to [[My mission]]
 	- Meeting great people and sharing ideas
