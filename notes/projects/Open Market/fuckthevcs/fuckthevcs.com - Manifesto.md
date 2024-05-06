@@ -1,7 +1,9 @@
-[[fuckthevcs.com - Home|Home]]   [[fuckthevcs.com - Contributors|Contributors]]   Users   Investors   Value creation   [[fuckthevcs.com - Manifesto|Manifesto]]     We're fundraising!
+[[fuckthevcs.com - Home|Home]]   [[fuckthevcs.com - Contributors|Contributors]]   [[fuckthevcs.com - Users|Users]]   [[fuckthevcs.com - Investors|Investors]]   [[fuckthevcs.com - Value creation|Value creation]]   [[fuckthevcs.com - Manifesto|Manifesto]]     We're fundraising!
 -
 
+
 [link to git file to edit-suggest changes]
+
 
 ## Fuck the VCs. Manifesto.
 
@@ -10,15 +12,19 @@ We stand at the crossroads of a digital revolution.
 
 The path we choose now will shape the future of humanity.
 
-Let us choose wisely, with foresight, empathy, and commitment to a world where technology serves a fair and sustainable future for all.
-
-
 **We all have the right to invest in and get returns from technology.**
 
 
 Our movement is blurring the lines between investors, consumers, contributors.
 
 We are redefining the economic system with a new investment model.
+
+Democratizing technology and finance.
+
+**Freeing innovation.**
+
+
+**We are building the first open source investment community.**
 
 
 ## Creating an equitable and sustainable future through open innovation.
@@ -159,12 +165,14 @@ Price is what we pay to access traded value.
 Price is the instantaneous exchange value.
 
 In theory, free markets should ensure 'fair' prices. Meaning that,
+
 1. We all pay the same price for the same good or service,
 2. It's the optimal (i.e. lowest) price we could have paid.
 
 As utilitarians, we aim for the Pareto optimum: an optimal equilibrium situation where better for one would mean worse for others.
 
 We believe in free markets to find the Pareto optimum. Free markets imply that,
+
 1. Exchanges of value can happen freely (within the boundaries of human rights),
 2. Everyone can access and fully comprehend the marketplace,
 3. By design, no arbitrage (winning without risk) is possible.
@@ -215,6 +223,7 @@ Progress is moving forward towards a destination.
 We refuse ill-defined, uninspired, purpose-less growth.
 
 Growth is an increase in size. But the size of what?
+
 - GDP? The amount of money in circulation? For whom?
 - Resources used? On a resource-limited planet?
 - The number of species going extinct? What for?
@@ -399,32 +408,13 @@ Equitable progress is our goal.
 **You** are the motion.
 
 
-[Crowdfunding gauge and link to roadmap]
-
 [Join the movement]
-
 
 
 _"The difficulty lies not so much in developing new ideas as in escaping from old ones." —John Maynard Keynes_
 
-_"The situation is desperate, anything is possible."—John Cage_
 
 
+[Crowdfunding gauge and link to roadmap]
 
----
-
-
-
-
-
-
-- [ ] Iterate with external references and supporting data points.
-	- [ ] Data and research.
-	- [ ] Quotes, personal stories, testimonials. Essays, posts etc.
-	- [ ] Case studies and examples.
-- [ ] **Roadmap**. What do we organise? What are the next steps?
-	- [ ] Should clearly address / link to HOW we solve the raised issues.
-	- [ ] Community: Meetups, discussions, debates.
-	- [ ] Crowdfunding to develop the platform. (start in private, then once goals reached build in public)
-	- [ ] Federate.
 
