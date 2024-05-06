@@ -1,5 +1,6 @@
-[[fuckthevcs.com - Home|Home]]   [[fuckthevcs.com - Contributors|Contributors]]   Users   Investors   Value creation   [[fuckthevcs.com - Manifesto|Manifesto]]     We're fundraising!
+[[fuckthevcs.com - Home|Home]]   [[fuckthevcs.com - Contributors|Contributors]]   [[fuckthevcs.com - Users|Users]]   [[fuckthevcs.com - Investors|Investors]]   [[fuckthevcs.com - Value creation|Value creation]]   [[fuckthevcs.com - Manifesto|Manifesto]]     We're fundraising!
 -
+
 
 ##### "We deserve better" (-> [[fuckthevcs.com - Manifesto|Manifesto]])
 ## The future of innovation is ours
@@ -9,15 +10,12 @@ We deserve better products and services, serving our interests.
 We refuse to let our knowledge become their new capital.
 **Knowledge should always be free.**
 
-Platforms made all of us prisoners of their incentives.
-Venture capitalists now seek to create tech monopolies.
-It's a game that we, workers and consumers, can only lose.
-
 The future of innovation is open, collaborative, and decentralized.
 **Let's reinvent the game.** (scroll down)
 
 
-## Investing in communities with a purpose
+## Our future is collective
+### Investing in communities with a purpose
 
 Traditional investors are middle-men to value creation.
 We all have the right to invest in and get returns from technology.
@@ -27,15 +25,7 @@ Everyone can be an investor, a consumer, a contributor, and a project leader.
 Not all problems are worth solving: Invest in communities today to curate tomorrow.
 
 [ Start curating projects ]
-
-
-### Closing the loop: Direct-to-consumer innovation
-
-**Stop** consuming. **Start** investing.
-Deploy your resources on communities with a purpose.
-**Benefit from better open-source products, at low to no cost.**
-
-[ Buy shares ] in free projects today (and thank us later).
+[ How does it work: an explanation for curator-investors ]
 
 
 ### Reinventing organizations
@@ -53,6 +43,15 @@ We aim to enable each and every human to live from their craft.
 - Contributor-Investor (I've got skills!)
 - User-Investor (I've got needs!)
 - Curator-Investor (I've got ideas!)
+
+
+### Closing the loop: Direct-to-consumer innovation
+
+**Stop** consuming. **Start** investing.
+Deploy your resources on communities with a purpose.
+**Benefit from better open-source products, at low to no cost.**
+
+[ Buy shares ] in free projects today (and thank us later).
 
 
 ### Transparent, direct, accessible incentives

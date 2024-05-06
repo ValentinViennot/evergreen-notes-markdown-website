@@ -1,8 +1,8 @@
-[[fuckthevcs.com - Home|Home]]   [[fuckthevcs.com - Contributors|Contributors]]   Users   Investors   Value creation   [[fuckthevcs.com - Manifesto|Manifesto]]     We're fundraising!
+[[fuckthevcs.com - Home|Home]]   [[fuckthevcs.com - Contributors|Contributors]]   [[fuckthevcs.com - Users|Users]]   [[fuckthevcs.com - Investors|Investors]]   [[fuckthevcs.com - Value creation|Value creation]]   [[fuckthevcs.com - Manifesto|Manifesto]]     We're fundraising!
 -
 
 
-## Meaningful work. Share what you build.
+## Meaningful work. Paid in shares.
 
 Your time is your most valuable investment.
 Contribute your skills and talent to purpose-led communities and get paid in shares.
@@ -15,7 +15,7 @@ Our mission: to free innovation and democratize access to technology and finance
 
 #### Are you happy in your current work situation?
 
-Live survey:
+Live survey: (TODO: run another smaller survey to assert result before?)
 - Yes
 - No
 Once voted, can see the results and a message:
@@ -33,6 +33,7 @@ Join us in creating **a world where every human can live from their craft**.
 
 Your diverse skills are the engine driving community-led projects.
 Here, you're more than a worker; you're a stakeholder in innovation.
+Our goal is to build Earth's biggest innovation marketplace.
 
 
 ### Impact. Sustainable innovation. Empowered communities.
@@ -42,16 +43,16 @@ Growth is not progress. Working with purpose to build meaningful solutions is.
 We promote the greatest good for the greatest number.
 
 
-### Objective: Time To Open-Source Alternative = -1
+### Objective: Time To Open-Source Alternative < 0
 
 The “Time Till Open Source Alternative” (TTOSA) is currently measured in years.
-We are aiming to make it **negative**: meaning the open-source alternative will exist first.
+We are aiming to make it **negative**: meaning the open-source alternative will exist **first**.
 This is why we are solving the root cause: making open source an attractive **investment**.
 
 
 ### The future of work. Yours?
 
-You have the right to **contribute great, meaningful work**.
+You have **the right to contribute great, meaningful work**.
 If you don't agree with the destination, then you shouldn't have to be a part of the journey.
 Collectively, we deserve better a journey.
 
