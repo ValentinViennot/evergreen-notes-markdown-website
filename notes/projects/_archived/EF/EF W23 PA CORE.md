@@ -19,10 +19,12 @@ It's not just about starting a company; it's about starting a revolution in how 
 
 _"It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change." —Charles Darwin_
 
-## Week 9 ([[2023-week-46]])
+## TODO
 
-- _NEXT_
-	- Meet [[Andrej]] in person.
+- [[2023-week-49]]
+- [[2023-week-48]]
+- [[2023-week-47]]
+- [[2023-week-46]]
 
 ## Week 8 ([[2023-week-45]])
 
@@ -217,7 +219,7 @@ _"It is not the strongest of the species that survive, nor the most intelligent,
 - Started the week meeting with [[Andi]] (Sunday)
 	- We hadn't seen each other in person for 3 years
 	- Inspiring and motivating to get started with [[What I want to build at EF]]
-	- Discussed in depth [[The Open Market Manifesto]]
+	- Discussed in depth [[The Open Market Manifesto (old)]]
 		- and [[Open Market random notes (WIP)]]
 	- And many other philosophical topics!
 - I have the answer to [[Why CEO?]]
@@ -256,7 +258,7 @@ _"It is not the strongest of the species that survive, nor the most intelligent,
 	- I previously aimed to write blogs (such as https://mindthegapblog.com/posts/open-market-series/)
 		- But blogging requires finished thoughts
 	- Notes, especially [[Evergreen notes]], seem to be much more adapted here
-- I wrote [[The Open Market Manifesto]] —Now about to share it!
+- I wrote [[The Open Market Manifesto (old)]] —Now about to share it!
 	- I also went the drawing way (inspired by [[The Back of the Napkin]]) and drew a comprehensive vision [from the status quo to the Open Market](https://drive.google.com/file/d/1RTec72Niv_KrLNu12v-U8Q_a22dbKKJd/view?usp=sharing).
 - I'm pretty clear that I want to be CEO. I want to be making the strategic decisions and be the one taking it from a vision to being an actual, concrete company.
 	- But I also know that , eventually , I don't aspire to be a CEO. I rather see myself on multiple boards and helping others to start projects.

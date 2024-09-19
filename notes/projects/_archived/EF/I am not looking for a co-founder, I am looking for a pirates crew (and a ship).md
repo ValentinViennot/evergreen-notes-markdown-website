@@ -1,7 +1,7 @@
 
 I am setting myself to build something really hard: [[The Biggest Tech Company on Earth]].
 
-Getting there will be difficult. But it's worth it ([[The Open Market Manifesto]]).
+Getting there will be difficult. But it's worth it ([[The Open Market Manifesto (old)]]).
 
 However, this is **my** dream ([[I'm gonna be King of the Pirates]]).
 

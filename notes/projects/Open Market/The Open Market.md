@@ -9,7 +9,7 @@ The Open Market envisions building an economic and financial subsystem, a [Curat
 The Open Market is designed to improve Capitalism.
 
 - [[The Biggest Tech Company on Earth|The Biggest Tech Company on Earth (vision)]]
-- [[The Open Market Manifesto]]
+- [[The Open Market Manifesto (old)]]
 - [[The Open Market elevator pitch|Elevator pitch]]
 - _WIP, see: [[Open Market random notes (WIP)]]_
 
