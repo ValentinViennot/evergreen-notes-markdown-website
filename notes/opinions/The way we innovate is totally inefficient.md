@@ -19,4 +19,4 @@ With no meaningful goals, no collective vision.
 Hopefully I believe our way or working is already changing.
 At least, in people's minds and dreams it is.
 The only need is to enable it to change.
-([[The changing way of working]], [[The Open Market Manifesto]]). 
+([[The changing way of working]], [[The Open Market Manifesto (old)]]). 

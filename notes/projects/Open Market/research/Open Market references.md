@@ -149,6 +149,13 @@
 - https://www.ow2.org/
 - https://nlnet.nl/
 - 
+- https://tea.xyz/
+- 
+- https://www.ucl.ac.uk/bartlett/public-purpose/
+- 
+- GitLab
+- 
+- https://www.open-source-economy.com/
 
 ### Competition
 
@@ -162,6 +169,8 @@
 - Tidelift
 - Sdkbin
 - Thanks.dev
+- Tea protocol
+- https://www.open-source-economy.com/
 
 
 ## Articles
@@ -236,6 +245,11 @@
 - 
 - https://isaiahtaylor.com/an-overview-of-modern-capitalism
 - https://dev.mirror.xyz/llJ_AboiDJwB_ZAFz-CXU7fL2p8v5Wz6MjfluLafewQ
+- 
+- https://stackoverflow.blog/2023/11/08/the-product-approach-to-open-source-communities/
+- 
+- https://www.theregister.com/2023/12/27/bruce_perens_post_open/
+- 
 
 ## Collaborate with
 
@@ -283,8 +297,10 @@ Karen Sandler
 	- Pydantic
 	- Prisma
 - Schmidt Ventures
+	- https://www.schmidtfutures.com/
 - Funds and ventures aimed at economical transformations
 - Shelling Point
+- https://www.gitcoin.co/
 
 - Le prêt d’amorçage de Bpifrance ;
 - Les financements dédiés aux projets innovants ;

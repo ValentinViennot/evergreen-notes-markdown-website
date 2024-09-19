@@ -1,4 +1,5 @@
-_Regularly-updated Note. Last update: September 12th, 2023_
+
+_Last update: September 19th, 2023_
 
 I adopted the framework of [[OKRs]] for my personal goals.
 
@@ -12,78 +13,139 @@ I am guided by [[My mission]] and [[My values]]. As explained in my blog [Dying 
 
 Another, important part of setting goals is to schedule regular time to look back, evaluate and understand what happened, and re-assess. The retrospective is probably the most overlooked part of setting goals. ([[Retrospectives]], [[Experiment, Evaluate, Adjust, Repeat]])
 
+
 ## My goals for the next six months
 
 [[Looking 5 years ahead]] [[Looking 10 years ahead]]
 
-Guidance: [[Experiment, Evaluate, Adjust, Repeat]]
-### Objective 1: Personal Growth
+---
 
-[[ENTP development guide]]
+### **Objective 1: Enhance Personal Discipline and Productivity**
 
-**Become the best version of myself. Prove to be a healthy self-aware ENTP with empathy, agency, good follow-through, and productivity.**
+**Key Result 1:** Establish a Consistent Daily Routine
 
-**KR1: Balanced cognitive development**
+- Wake up by 8:00 AM at least 5 days a week.
+- Start each day by reviewing and updating your to-do list.
+- Dedicate at least 1 hour each morning to focused work on personal projects.
 
-If I have successfully achieved balanced cognitive development as an ENTP, I should be able to measure or see that I can seamlessly integrate strategic thinking, meticulous attention to detail, and emotional self-awareness into my daily life, enhancing my problem-solving abilities.
+**Key Result 2:** Improve Focus and Task Completion
 
-  - **KR1.1:** Maintain a journal of strategic thinking exercises, including scenario planning and long-term goal setting, with at least 2 hours dedicated per week.
+- Complete at least 80% of your daily to-do list tasks.
+- Use the Pomodoro technique for two 2-hour work sessions daily.
+- Limit non-essential phone and internet use during work sessions to under 15 minutes.
 
-  - **KR1.2:** Maintain a reading log summarising two books per month. Engage in debates with others to discuss learnings and challenge personal beliefs, writing takeaways and reflections.
+---
 
-  - **KR1.3:** Create a schedule (using the [[Gauges]] app) of mundane attention-to-detail tasks paired with podcast listening, tracking their completion and time spent on each task.
+### **Objective 2: Advance the Smash Project**
 
-  - **KR1.4:** Regularly recall significant past events in detail, noting sensory elements (sound, sight, smell, touch, and taste). Write down monthly retrospective logs focused on feelings.
+**Key Result 1:** Develop a Functional MVP within 3 Months
 
-**KR2: Enhanced follow-through, productivity, and focus**
+- **Prioritize Core Features
+- **Set Clear Development Milestones
+  - Create a timeline with specific goals for each week.
 
-If I have successfully improved my follow-through, productivity, and ability to focus, I should be able to measure or see that I consistently complete tasks and projects with a well-defined methodology, fostering tangible achievements.
+**Key Result 2:** Build in Public and Engage the Community
 
-  - **KR2.1:** Maintain a log of [[Pomodoro]] sessions (eg. using [[Google Calendar]] + [[Forest]]).
+- Share weekly progress updates via your blog or social media.
+- Create a community channel (e.g., Discord) for discussions and feedback.
+- Receive feedback from at least 20 community members.
 
-  - **KR2.2:** Build a habit of maintaining a To-do list each evening before bedtime, and going through it during the day. Especially in the morning.
+**Key Result 3:** Attract Open-Source Contributors
 
-  - **KR2.3:** Track the duration and frequency of minimum 3-hour focused work blocks with phone and internet on airplane mode. Achieve 5 per week.
+- Publish the project on "GitHub" with clear documentation.
+- Write a contributor's guide and label issues for first-time contributors.
+- Onboard at least 3 open-source contributors within 4 months.
+- Merge at least 5 pull requests from external contributors.
 
-  - **KR2.4:** Write every day. Adopt [[Evergreen notes]] and dedicate min 30mn-1h daily.
+**Key Result 4:** Recruit Early Users from the Kinksters Community
 
-**KR3: Prioritisation of well-being, mindfulness, and fitness goals**
+- Leverage your SBFH channels to invite users to try the MVP.
+- Organize two virtual meetups to demo the app and gather insights.
+- Achieve at least 30 user sign-ups and collect feedback from 15 users.
 
-If I have successfully prioritised well-being and physical fitness, I should be able to measure or see that I have reached specific body targets and established healthy daily routines.
+**Key Result 5:** Align Development with Values and Community Needs
 
-  - **KR3.1:** Maintain a gym attendance log, noting dates, session durations (>45 minutes), with an average of five times per week ([[JEFIT]]).
+- Conduct community surveys to understand specific needs and concerns.
+- Implement 3 features based on community feedback within 6 months.
+- Receive positive feedback regarding privacy and inclusivity.
 
-  - **KR3.2:** Regularly monitor weight, recording measurements in a weight log, and maintain a target body weight of 70kg or higher (smart body scale).
+---
 
-  - **KR3.3:** Monitor body fat percentage monthly using a body composition scale, with the goal of achieving 12% or lower (smart body scale).
+### **Objective 3: Have Fun and Meet Quality Fellow Kinksters (SBFH)**
 
-  - **KR3.4:** Maintain a morning routine, including regular wake-up time (<8am) and starting with a challenging task from the To-do list (see [[My schedule]]).
+**Key Result 1:** Engage Authentically with the Community
 
-## Objective 2: EF Venture
+- Attend at least two kinkster meetups or events each quarter.
+- Host one informal gathering or online chat session within three months.
+- Have in-depth conversations with at least three new individuals each month.
 
-**Launch my [[EF]] start-up, aligned with [[My mission]] of enhancing collective human intelligence while ensuring my happiness and that of others around me, and [[My values]].**
+**Key Result 2:** Create and Share Personal, Enjoyable Content
 
-Success Looks Like: a funded EF venture that not only achieves its business goals but also makes a meaningful contribution to the improvement of human intelligence. It involves selecting the right co-founder, creating a product that aligns with my mission and values, and building a solid foundation for long-term success.
+- Share one piece of content per week that genuinely reflects your interests and experiences.
+- Focus on storytelling and moments that you find fun and fulfilling.
+- Encourage interaction by posing questions or prompts in your content.
+- Respond to comments and messages within 24 hours.
 
-1. **Strategic vision and mission alignment**
-2. **Team building and co-founder selection**
-3. **Product development and market fit**
+**Key Result 3:** Build Quality Connections
 
-[[EF W23 PA CORE]]
+- Stay in regular contact with fellow kinksters you've connected with.
+- Plan collaborative activities with at least two individuals over the next six months.
+- Reach out to someone new in the community every two weeks.
+- Join online forums or groups to discover like-minded individuals.
 
-## Objective 3: Thought Leadership
+**Key Result 4:** Prioritize Personal Enjoyment
 
-**Influence others through my ideas. Making a meaningful impact on individual and collective intelligence, happiness, education, justice, and health.**
+- Journal weekly about your experiences to ensure you're enjoying the process.
+- Note activities that bring you the most joy and plan to do more of them.
+- Set boundaries to keep content creation enjoyable and avoid burnout.
+- Take breaks when needed without feeling pressured to produce content.
 
-- Create and publish content: notes, essays, blog posts
-- Collaborate with others, generate discussions based on what I publish
-- Observe engaged audience growth
+---
 
-## Objective 4: Meaningful Connections
+### **Objective 4: Continue Personal Development**
 
-**Engage with others. Relationship and expanding meaningful connections.**
+**Key Result 1:** Maintain Mental and Physical Health
 
-- Joint projects with Roger
-- Regular personal retros and focus on future
-- Expand meaning connections network
+- Attend therapy sessions regularly without cancellations.
+- Work out at the gym at least four times per week.
+- Reach and maintain a body weight of 70 kg+ and body fat percentage of 12% or lower.
+
+**Key Result 2:** Enhance Emotional Intelligence
+
+- Journal your thoughts and feelings at least three times a week.
+- Practice mindfulness or meditation for 10 minutes daily.
+- Identify and challenge one limiting belief about success each month.
+
+---
+
+### **Objective 5: Build Meaningful Connections**
+
+**Key Result 1:** Strengthen Existing Relationships
+
+- Schedule bi-monthly calls or meetups with close contacts.
+- Collaborate on a joint project with a friend or colleague within six months.
+
+**Key Result 2:** Expand Your Network
+
+- Participate actively in online forums or groups related to your interests weekly.
+- Engage with the AT proto community.
+
+---
+
+### **Objective 6: Evaluate Potential Relocation**
+
+**Key Result 1:** Research and Experience Potential Cities
+
+- Visit all candidate cities within the next six months.
+- Connect with locals or expats to gain personal insights.
+
+**Key Result 2:** Make an Informed Decision
+
+- Compare pros and cons of each location based on personal and professional factors.
+- Decide on relocation plans by the end of Month 6.
+- If choosing to relocate, outline a step-by-step plan for the move.
+
+
+## Reviews
+- [[2024-09-19]]
 

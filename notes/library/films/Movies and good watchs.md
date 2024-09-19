@@ -1,3 +1,5 @@
+[Watchlist (on Trakt.TV)](https://trakt.tv/users/misterw97/watchlist?sort=percentage,asc)
+
 /!\\ Under construction ([[TODO]])
 
 Similar to [[Books and good reads]], but for Movies, Series, and other good watchs.

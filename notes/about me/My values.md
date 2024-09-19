@@ -1,6 +1,11 @@
 _Just as [[My mission]] is about the destination,
 this note —My values— is about How to get there._
 
+
+# #1 Freedom
+
+This is my number one value, for me and for others. Ensuring freedom is my first driver.
+
 ## Unstoppable, like Luffy.
 
 Dream big. Have a dream and [[I'm gonna be King of the Pirates|say it out loud every day]]. Be all in, always with an eye on the lasting change you want to effect. Be willing to make tough calls that align with [[My mission|your mission]]. Work hard for what you believe in.
