@@ -1,0 +1,6 @@
+```typescript
+{
+	type: "join",
+	data: {},
+}
+```

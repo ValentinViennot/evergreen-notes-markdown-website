@@ -1,7 +1,7 @@
 
 **_This page has yet to be written._**
 
-I am currently in the process of migrating to [[Evergreen notes]].
+I am currently in the process of migrating to [[smash/misc/Evergreen notes]].
 ([[What am I doing right now?]]).
 
 As a consequence, many of my notes are still incomplete and most links point to under constructions or missing notes.

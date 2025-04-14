@@ -1,0 +1,1 @@
+User [[Actions]] are 'local' to a client—meaning they aren't synced with any server nor sent to any peer. Users then decide based on defined procedures in the [[Smash Protocol]] and on their privacy settings to directly share their actions' meta-data with specific Peers.
