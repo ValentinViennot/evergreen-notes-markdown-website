@@ -1,0 +1,1 @@
+**[[DNS]] servers** are the infrastructure that perform Domain Name System translations, acting as intermediaries between users and the internet, ensuring that when you type a web address, the correct server hosting the website is located.

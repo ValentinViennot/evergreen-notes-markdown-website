@@ -1,0 +1,1 @@
+Providers are **[[Peer]]s running [[Core components (Infrastructure)]]** of the Smash network. They enable users to **communicate freely** and guarantee them a **choice between multiple alternatives** ([[free competition]]).

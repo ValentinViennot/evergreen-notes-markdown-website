@@ -1,0 +1,9 @@
+The **Web of Trust** is a decentralized trust model underpinning the **[[Smash Protocol]]**. It allows users to build and manage trust relationships between peers without relying on centralized authorities or systems.
+
+The term **Web of Trust** was originally coined in the context of **[[PGP (Pretty Good Privacy)]]**, a cryptographic system used for secure communications. In PGP, users authenticate each other’s public keys, building a decentralized trust network where trust is established between individuals, rather than being mediated by a central authority (as in traditional Certificate Authorities). This concept is repurposed in Smash to reflect trust relationships among peers across a distributed social network.
+
+In Smash, the Web of Trust is built through **peer-to-peer Endorsements**, such as **[[Badges]]**, **[[Trust Tokens]]**, and **claim verifications**. Each endorsement acts as a form of social proof, verifying aspects of a user’s **[[Peer Identity]]**. These endorsements cumulatively form a web of relationships that other users can rely on when determining who to trust within the Smash ecosystem.
+
+One of the core features of the Web of Trust is **trust propagation**. Trust doesn't only flow between two peers but can also extend to the peers they trust. For example, if Peer A trusts Peer B and Peer B trusts Peer C, Peer A might place a degree of trust in Peer C based on Peer B's endorsement. This propagation allows the Web of Trust to scale naturally as more endorsements are made, expanding the network of trusted peers.
+
+The Web of Trust is closely linked to the concept of the **[[Social Graph]]** in Smash. The Social Graph maps out the relationships between users, and the Web of Trust adds a layer of trustworthiness to these connections. As users interact within a neighborhood or the broader Smash ecosystem, their trust relationships help shape their social connections and vice versa.

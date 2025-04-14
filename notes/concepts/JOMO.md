@@ -1,0 +1,1 @@
+Joy of Missing Out (as opposed to [[FOMO]]).

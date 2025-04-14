@@ -16,9 +16,10 @@ Some of them, I do [recommend reading](https://valentin.viennot.me/#books-ive-re
 - "Scrum en action"
 - [[How to argue with a cat (Jay Heinrichs)]]
 - [[Pitch anything (Oren Klaff)]]
-- 
+- The Alchemist
 
-[[TODO]]: Add outline notes + subsequent [[Evergreen notes]] for each of these
+
+[[TODO]]: Add outline notes + subsequent [[smash/misc/Evergreen notes]] for each of these
 
 ## Essays
 

@@ -1,8 +1,10 @@
+[[Smash progress]]
+
 MISSION
-**Reinventing the web for communities.**
+**Reinventing the (free) web for communities.**
 
 VISION
-**a safe, private, and inclusive 1:N social app for quality connections.**
+**a free, safe, private, and inclusive 1:N social app for quality connections.**
 
 HIGH-LEVEL STRATEGY
 - Implement as open protocol / standard

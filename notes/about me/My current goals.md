@@ -1,5 +1,5 @@
 
-_Last update: September 19th, 2023_
+_Last update: September 19th, 2024_
 
 I adopted the framework of [[OKRs]] for my personal goals.
 
@@ -148,4 +148,10 @@ Another, important part of setting goals is to schedule regular time to look bac
 
 ## Reviews
 - [[2024-09-19]]
+- [[2024-09-26#OKRs review (September 26th, 2024)]]
+- [[2024-10-05#OKRs review (October 5th, 2024)]]
+- [[2024-10-11#OKR Review]]
+- [[2024-11-07#OKRs review (November 7th, 2024)]]
+
+https://docs.google.com/spreadsheets/d/1e35R_S-TYbMDUBPbiI4N9LXb2u4IFIuC681rWk7GxGg/edit?gid=1193715147#gid=1193715147
 

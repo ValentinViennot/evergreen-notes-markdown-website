@@ -1,6 +1,6 @@
 Hey, I'm [Valentin](https://valentin.viennot.me.)!
 
-After encountering [Andy's notes](https://notes.andymatuschak.org/About_these_notes), I decided to experiment with [[Evergreen notes]] and [[Building in public]]. I already deeply believed in the idea that [[Open source should be the only way]], and this only takes it a step further directly at the source of my thoughts.
+After encountering [Andy's notes](https://notes.andymatuschak.org/About_these_notes), I decided to experiment with [[smash/misc/Evergreen notes]] and [[Building in public]]. I already deeply believed in the idea that [[Open source should be the only way]], and this only takes it a step further directly at the source of my thoughts.
 
 These notes are [written for myself](https://notes.andymatuschak.org/zXDPrYcxUSZbF5M8vM5Y1U9). If you'd like to read essays and opinions written specifically for an audience, feel free to give [my blog](https://mindthegapblog.com/) a chance.
 
